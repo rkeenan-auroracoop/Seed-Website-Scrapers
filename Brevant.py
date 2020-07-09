@@ -17,7 +17,7 @@ attributes = r.html.find('html body.products-page div.content div.products secti
 counter = 2
 
 
-while counter < 22:
+'''while counter < 22:
     productName = r.html.find('div.product-results__result:nth-child(% s) > div:nth-child(1) > a:nth-child(1)'% counter)
     for item in productName:
         products = {
@@ -42,6 +42,25 @@ while counter < 22:
         sGDU = {
             'Silk GDUs' : sGDU.text,
         }
-        print(sGDU)
+        print(sGDU)'''
+
+while counter < 22:
+    productName = r.html.find('div.product-results__result:nth-child(% s) > div:nth-child(1) > a:nth-child(1)'% counter)
+    traits = r.html.find('div.product-results__result:nth-child(% s) > div:nth-child(2)'% counter) 
+    relativeMaturity = r.html.find('div.product-results__result:nth-child(% s) > div:nth-child(3) > div:nth-child(2) > span:nth-child(1)'% counter)
+    silkGDUs = r.html.find('div.product-results__result:nth-child(% s) > div:nth-child(4) > div:nth-child(2) > span:nth-child(1)'% counter)
+    counter += 1
+    for item in productName:
+        for trait in traits:
+            for RM in relativeMaturity:
+                for sGDU in silkGDUs:
+                    Product = {
+                        'Product Name': item.text,
+                        'Trait' : trait.text[8:],
+                        'Relative Maturity' : RM.text,
+                        'Silk GDUs' : sGDU.text,
+                    }
+                    print(Product)
+
 
 #Click "Page 2" button.pager__button:nth-child(3) or button.pager__button:nth-child(8)
