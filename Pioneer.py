@@ -25,8 +25,10 @@ def CornCounter():
         try:           
             productName = driver.find_element_by_css_selector('.DTFC_LeftBodyLiner > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(% s) > td:nth-child(2) '% counter)
             crm = driver.find_element_by_css_selector('#seedGuideTable > tbody:nth-child(2) > tr:nth-child(% s) > td:nth-child(3)'% counter)
+            technologySegment = driver.find_element_by_css_selector('#seedGuideTable > tbody:nth-child(2) > tr:nth-child(% s) > td:nth-child(4)'% counter)
+            marketSegement = driver.find_element_by_css_selector('#seedGuideTable > tbody:nth-child(2) > tr:nth-child(% s) > td:nth-child(6)'% counter)
             counter += 1
-            print(Brand + "\t" + productName.text + "\t" + crm.text + "\t" + SeedType)
+            print(Brand + "\t" + productName.text + "\t" + technologySegment.text + "\t" + marketSegement.text + "\t" + crm.text + "\t" + SeedType)
         except:
             break
 
