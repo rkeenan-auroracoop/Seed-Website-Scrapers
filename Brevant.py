@@ -54,7 +54,7 @@ def SoybeansCounter():
         except: 
             break
 
-def SunflowersCounter(): 
+'''def SunflowersCounter(): 
     time.sleep(5)
     counter = 2
     Brand = "Brevant"
@@ -101,7 +101,7 @@ def AlfalfaCounter():
             print(Brand + "\t" + productName.text + "\t" + traits.text + "\t" + SeedType+ "\t" + winterHardiness.text +  "\t" + fallDormancy.text)
         
         except: 
-            break
+            break'''
 
 
 
@@ -133,7 +133,7 @@ def SelectSoybeans():
     time.sleep(3)
     driver.find_element_by_css_selector('select.crop-select:nth-child(1) > option:nth-child(3)').click()
 
-def SelectSunflowers():
+'''def SelectSunflowers():
     time.sleep(3)
     driver.find_element_by_css_selector('select.crop-select:nth-child(1) > option:nth-child(4)').click()
 
@@ -143,7 +143,7 @@ def SelectConola():
 
 def SelectAlfalfa():
     time.sleep(3)
-    driver.find_element_by_css_selector('select.crop-select:nth-child(1) > option:nth-child(6)').click()
+    driver.find_element_by_css_selector('select.crop-select:nth-child(1) > option:nth-child(6)').click()'''
 
 session = HTMLSession()
 
@@ -212,22 +212,22 @@ SoybeansNextPage()
 print("Page 3-Soybeans")
 SoybeansCounter()
 
-BackToPageOne()
+#BackToPageOne()
 
-SelectSunflowers()
+#SelectSunflowers()
 
-print("Page 1-Sunflowers")
-SunflowersCounter()
+#print("Page 1-Sunflowers")
+#SunflowersCounter()
 
-SelectConola()
+#SelectConola()
 
-print("Page 1-Conola")
-ConolaCounter()
+#print("Page 1-Conola")
+#ConolaCounter()
 
 
-SelectAlfalfa()
-print("Page 1-Conola")
-AlfalfaCounter()
+#SelectAlfalfa()
+#print("Page 1-Conola")
+#AlfalfaCounter()
 
 print("Scraping is done. Closing browser.")
 
