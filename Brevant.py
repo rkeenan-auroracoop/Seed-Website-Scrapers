@@ -13,11 +13,11 @@ def CornCounter():
             productName = driver.find_element_by_css_selector('div.product-results__result:nth-child(% s) > div:nth-child(1) > a:nth-child(1)'% counter)
             traits = driver.find_element_by_css_selector('div.product-results__result:nth-child(% s) > div:nth-child(2)'% counter)
             relativeMaturity = driver.find_element_by_css_selector('div.product-results__result:nth-child(% s) > div:nth-child(3) > div:nth-child(2) > span:nth-child(1)'% counter)
-            silkGDUs = driver.find_element_by_css_selector('div.product-results__result:nth-child(% s) > div:nth-child(4) > div:nth-child(2) > span:nth-child(1)'% counter)
+            #silkGDUs = driver.find_element_by_css_selector('div.product-results__result:nth-child(% s) > div:nth-child(4) > div:nth-child(2) > span:nth-child(1)'% counter)
             counter += 1
             #Need to write these into JSON file as key/value pairs
-            print(Brand + "\t" + productName.text + "\t" + traits.text + "\t" + SeedType + "\t" + relativeMaturity.text +  "\t" + silkGDUs.text)
-        
+            with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
+                f1.write(Brand + "\t" + productName.text  + "\t" + traits.text + "\t" + "None" + "\t" + relativeMaturity.text + "\t" + SeedType + "\n")      
         except: 
             break
 
@@ -47,9 +47,10 @@ def SoybeansCounter():
             productName = driver.find_element_by_css_selector('div.product-results__result:nth-child(% s) > div:nth-child(1) > a:nth-child(1)'% counter)
             traits = driver.find_element_by_css_selector('div.product-results__result:nth-child(% s) > div:nth-child(2)'% counter)
             relativeMaturity = driver.find_element_by_css_selector('div.product-results__result:nth-child(% s) > div:nth-child(3) > div:nth-child(2) > span:nth-child(1)'% counter)
-            canopyType = driver.find_element_by_css_selector('div.product-results__result:nth-child(% s) > div:nth-child(4) > div:nth-child(2) > span:nth-child(1)'% counter)
+            #canopyType = driver.find_element_by_css_selector('div.product-results__result:nth-child(% s) > div:nth-child(4) > div:nth-child(2) > span:nth-child(1)'% counter)
             counter += 1
-            print(Brand + "\t" + productName.text + "\t" + traits.text + "\t" + SeedType+ "\t" + relativeMaturity.text +  "\t" + canopyType.text)
+            with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
+                f1.write(Brand + "\t" + productName.text  + "\t" + traits.text + "\t" + "None" + "\t" + relativeMaturity.text + "\t" + SeedType + "\n")
         
         except: 
             break
@@ -145,13 +146,6 @@ def SelectAlfalfa():
     time.sleep(3)
     driver.find_element_by_css_selector('select.crop-select:nth-child(1) > option:nth-child(6)').click()'''
 
-session = HTMLSession()
-
-url = 'https://brevant.com/products/'
-
-r = session.get(url)
-
-r.html.render(sleep=2, keep_page=True, scrolldown=1)
 
 
 driver = webdriver.Chrome(r'C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\chromedriver_win32\chromedriver.exe')
@@ -183,20 +177,20 @@ print('Page 6-Corn')
 CornCounter()
 
 BackToPageOne()
-SelectSilageCorn()
+#SelectSilageCorn()
 
-print("Page 1-Silage Corn")
-SilageCornCounter()
-SilageCornNextPage()
+#print("Page 1-Silage Corn")
+#SilageCornCounter()
+#SilageCornNextPage()
 
-print("Page 2-Silage Corn")
-SilageCornCounter()
-SilageCornNextPage()
+#print("Page 2-Silage Corn")
+#SilageCornCounter()
+#SilageCornNextPage()
 
-print("Page 3-Silage Corn")
-SilageCornCounter()
+#print("Page 3-Silage Corn")
+#SilageCornCounter()
 
-BackToPageOne()
+#ackToPageOne()
 
 
 SelectSoybeans()
