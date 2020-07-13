@@ -1,0 +1,291 @@
+Brand	ProductName	Traits	HybridFamily	RelativeMaturity	SeedType
+Pioneer	P9998AM	AM LL RR2	P9998	99	Corn
+Pioneer	P9998AMXT	AMXT LL RR2	P9998	99	Corn
+Pioneer	P0075Q	Q LL RR2	P0075	100	Corn
+Pioneer	P0157	-	P0157	101	Corn
+Pioneer	P0157AM	AM LL RR2	P0157	101	Corn
+Pioneer	P0157AMXT	AMXT LL RR2	P0157	101	Corn
+Pioneer	P0343AML *	AML LL RR2	P0343	103	Corn
+Pioneer	P0339AM	AM LL RR2	P0339	103	Corn
+Pioneer	P0339Q	Q LL RR2	P0339	103	Corn
+Pioneer	P0446Q *	Q LL RR2	P0446	104	Corn
+Pioneer	P0421Q	Q LL RR2	P0421	104	Corn
+Pioneer	P0595AM *	AM LL RR2	P0595	105	Corn
+Pioneer	P0589	-	P0589	105	Corn
+Pioneer	P0589AM	AM LL RR2	P0589	105	Corn
+Pioneer	P0589AMXT	AMXT LL RR2	P0589	105	Corn
+Pioneer	P0688AM	AM LL RR2	P0688	106	Corn
+Pioneer	P0657AM	AM LL RR2	P0657	106	Corn
+Pioneer	P0622AML	AML LL RR2	P0622	106	Corn
+Pioneer	P0805AM	AM LL RR2	P0805	108	Corn
+Pioneer	P0950AM	AM LL RR2	P0950	109	Corn
+Pioneer	P0950Q	Q LL RR2	P0950	109	Corn
+Pioneer	P0947Q *	Q LL RR2	P0947	109	Corn
+Pioneer	P1093	-	P1093	110	Corn
+Pioneer	P1093AMXT	AMXT LL RR2	P1093	110	Corn
+Pioneer	P1093Q	Q LL RR2	P1093	110	Corn
+Pioneer	P1089AM	AM LL RR2	P1089	110	Corn
+Pioneer	P1089AMXT	AMXT LL RR2	P1089	110	Corn
+Pioneer	P1082AM	AM LL RR2	P1082	110	Corn
+Pioneer	P1197	-	P1197	111	Corn
+Pioneer	P1197AM	AM LL RR2	P1197	111	Corn
+Pioneer	P1197AMXT	AMXT LL RR2	P1197	111	Corn
+Pioneer	P1185AM *	AM LL RR2	P1185	111	Corn
+Pioneer	P1185Q *	Q LL RR2	P1185	111	Corn
+Pioneer	P1151	-	P1151	111	Corn
+Pioneer	P1151AM	AM LL RR2	P1151	111	Corn
+Pioneer	P1138AM	AM LL RR2	P1138	111	Corn
+Pioneer	P1138AML	AML LL RR2	P1138	111	Corn
+Pioneer	P1108Q	Q LL RR2	P1108	111	Corn
+Pioneer	P1244AM	AM LL RR2	P1244	112	Corn
+Pioneer	P1244Q	Q LL RR2	P1244	112	Corn
+Pioneer	P1379AM	AM LL RR2	P1379	113	Corn
+Pioneer	P1370AM	AM LL RR2	P1370	113	Corn
+Pioneer	P1370Q	Q LL RR2	P1370	113	Corn
+Pioneer	P1366AM	AM LL RR2	P1366	113	Corn
+Pioneer	P1366AML	AML LL RR2	P1366	113	Corn
+Pioneer	P1366AMXT	AMXT LL RR2	P1366	113	Corn
+Pioneer	P1366Q	Q LL RR2	P1366	113	Corn
+Pioneer	P1359AM *	AM LL RR2	P1359	113	Corn
+Pioneer	P1353Q	Q LL RR2	P1353	113	Corn
+Pioneer	P1345	-	P1345	113	Corn
+Pioneer	P1309WAM	AM LL RR2	P1309W	113	Corn
+Pioneer	P1306W	-	P1306W	113	Corn
+Pioneer	P1306WHR	HX1 LL RR2	P1306W	113	Corn
+Pioneer	P1498	-	P1498	114	Corn
+Pioneer	P1498AM	AM LL RR2	P1498	114	Corn
+Pioneer	P1477W	-	P1477W	114	Corn
+Pioneer	P1477WHR	HX1 LL RR2	P1477W	114	Corn
+Pioneer	P1477WR	RR2	P1477W	114	Corn
+Pioneer	P1415Q	Q LL RR2	P1415	114	Corn
+Pioneer	P1572AM	AM LL RR2	P1572	115	Corn
+Pioneer	P1563AM	AM LL RR2	P1563	115	Corn
+Pioneer	P1563AML	AML LL RR2	P1563	115	Corn
+Pioneer	P1548AM *	AM LL RR2	P1548	115	Corn
+Pioneer	P1656W	-	P1656W	116	Corn
+Pioneer	P1639WAM	AM LL RR2	P1639W	116	Corn
+Pioneer	P1639WQ	Q LL RR2	P1639W	116	Corn
+Pioneer	32B10	-	32B10	117	Corn
+Pioneer	32B16	HX1 LL RR2	32B10	117	Corn
+Pioneer	P1870	-	P1870	118	Corn
+Pioneer	P1847AMXT	AMXT LL RR2	P1847	118	Corn
+Pioneer	P1828AM	AM LL RR2	P1828	118	Corn
+Pioneer	P1828Q	Q LL RR2	P1828	118	Corn
+Pioneer	P2088AMX	AMX LL RR2	P2088	120	Corn
+Pioneer	P2089AML	AML LL RR2	P2088	120	Corn
+Pioneer	P2042AML *	AML LL RR2	P2042	120	Corn
+Pioneer	P21A20	-	None	2.1	Soybeans
+Pioneer	P21A28X	RR2X	None	2.1	Soybeans
+Pioneer	P22T18E *	E3	None	2.2	Soybeans
+Pioneer	P23A15X	RR2X	None	2.3	Soybeans
+Pioneer	P25A04X	RR2X	None	2.5	Soybeans
+Pioneer	P25A82L	LL	None	2.5	Soybeans
+Pioneer	P25A96L	LL	None	2.5	Soybeans
+Pioneer	P26A10 *	-	None	2.6	Soybeans
+Pioneer	P26T23E *	E3	None	2.6	Soybeans
+Pioneer	P26T57E *	E3	None	2.6	Soybeans
+Pioneer	P27A17X	RR2X	None	2.7	Soybeans
+Pioneer	P27A30X	RR2X	None	2.7	Soybeans
+Pioneer	P27T59R	R	None	2.7	Soybeans
+Pioneer	P28A42X	RR2X	None	2.8	Soybeans
+Pioneer	P28A74PR	Plenish R	None	2.8	Soybeans
+Pioneer	P28A97L *	LL	None	2.8	Soybeans
+Pioneer	P28T14E	E3	None	2.8	Soybeans
+Pioneer	P29A25X	RR2X	None	2.9	Soybeans
+Pioneer	P29A85L	LL	None	2.9	Soybeans
+Pioneer	P29T50	-	None	2.9	Soybeans
+Pioneer	P30T92E	E3	None	3.0	Soybeans
+Pioneer	P30T99E	E3	None	3.0	Soybeans
+Pioneer	P31A22X	RR2X	None	3.1	Soybeans
+Pioneer	P31A29L	LL	None	3.1	Soybeans
+Pioneer	P31A95BX	Bolt RR2X	None	3.1	Soybeans
+Pioneer	P31T64E *	E3	None	3.1	Soybeans
+Pioneer	P32T26E *	E3	None	3.2	Soybeans
+Pioneer	P33A53X	RR2X	None	3.3	Soybeans
+Pioneer	P34A50	-	None	3.4	Soybeans
+Pioneer	P34T04LS	LL STS	None	3.4	Soybeans
+Pioneer	P34T21SE *	STS E3	None	3.4	Soybeans
+Pioneer	P35A41	-	None	3.5	Soybeans
+Pioneer	P35A55X *	RR2X	None	3.5	Soybeans
+Pioneer	P35A70X *	RR2X	None	3.5	Soybeans
+Pioneer	P35T01SE *	STS E3	None	3.5	Soybeans
+Pioneer	P35T15E *	E3	None	3.5	Soybeans
+Pioneer	P36A18X	RR2X	None	3.6	Soybeans
+Pioneer	P36A43L *	LL	None	3.6	Soybeans
+Pioneer	P37A69X	RR2X	None	3.7	Soybeans
+Pioneer	P37T09L	LL	None	3.7	Soybeans
+Pioneer	P38A10	-	None	3.8	Soybeans
+Pioneer	P38A49L	LL	None	3.8	Soybeans
+Pioneer	P38A92X *	RR2X	None	3.8	Soybeans
+Pioneer	P38A98X	RR2X	None	3.8	Soybeans
+Pioneer	P38T05E *	E3	None	3.8	Soybeans
+Pioneer	P39A45X *	RR2X	None	3.9	Soybeans
+Pioneer	P39A58X	RR2X	None	3.9	Soybeans
+Pioneer	P39T61SE *	STS E3	None	3.9	Soybeans
+Pioneer	P40A47X	RR2X	None	4.0	Soybeans
+Pioneer	P41T07E	E3	None	4.1	Soybeans
+Pioneer	P42A96X	RR2X	None	4.2	Soybeans
+Brevant	B00K94AMXT™	AMXT	None	100	Corn
+Brevant	B01Z88AM™	AM	None	101	Corn
+Brevant	B01Z88Q™	Q	None	101	Corn
+Brevant	B02V87™	CONVENTIONAL	None	102	Corn
+Brevant	B02V87AM™	AM	None	102	Corn
+Brevant	B02V87AMXT™	AMXT	None	102	Corn
+Brevant	B02V87R™	R	None	102	Corn
+Brevant	B03R87AM™	AM	None	103	Corn
+Brevant	B03R87Q™	Q	None	103	Corn
+Brevant	B04H94Q™	Q	None	104	Corn
+Brevant	B04Z92AM™	AM	None	104	Corn
+Brevant	B04Z92AMXT™	AMXT	None	104	Corn
+Brevant	B04Z92Q™	Q	None	104	Corn
+Brevant	B05M87™	CONVENTIONAL	None	105	Corn
+Brevant	B05M87AM™	AM	None	105	Corn
+Brevant	B05M87AMXT™	AMXT	None	105	Corn
+Brevant	B06F91Q™	Q	None	106	Corn
+Brevant	B07H01AM™	AM	None	107	Corn
+Brevant	B07H01Q™	Q	None	107	Corn
+Brevant	B07W09Q™	Q	None	107	Corn
+Brevant	B08C92AML™	AML	None	108	Corn
+Brevant	B08J81AM™	AM	None	108	Corn
+Brevant	B08J81AMXT™	AMXT	None	108	Corn
+Brevant	B08K90Q™	Q	None	108	Corn
+Brevant	B08M75ER™	ENL, RR2	None	108	Corn
+Brevant	B08M75PW™	PWRA	None	108	Corn
+Brevant	B09V75PW™	PWRA	None	109	Corn
+Brevant	B09Z08AM™	AM	None	109	Corn
+Brevant	B10M97Q™	Q	None	110	Corn
+Brevant	B10R89™	CONVENTIONAL	None	110	Corn
+Brevant	B10R89AM™	AM	None	110	Corn
+Brevant	B10R89Q™	Q	None	110	Corn
+Brevant	B10Y90Q™	Q	None	110	Corn
+Brevant	B10Z78SX™	SSTX-RA	None	110	Corn
+Brevant	B10Z78SXE™	ENL, SSTX	None	110	Corn
+Brevant	B11G07AM™	AM	None	111	Corn
+Brevant	B11H09AM™	AM	None	111	Corn
+Brevant	B11V77SX™	SSTX-RA	None	111	Corn
+Brevant	B11W03Q™	Q	None	111	Corn
+Brevant	B11Y01Q™	Q	None	111	Corn
+Brevant	B12C01AM™	AM	None	112	Corn
+Brevant	B12C01Q™	Q	None	112	Corn
+Brevant	B12G75PW™	PWRA	None	112	Corn
+Brevant	B12G75PWE™	ENL, PW	None	112	Corn
+Brevant	B12G75SX™	SSTX-RA	None	112	Corn
+Brevant	B12H75PW™	PWRA	None	112	Corn
+Brevant	B12J90AM™	AM	None	112	Corn
+Brevant	B12J90Q™	Q	None	112	Corn
+Brevant	B13C71SX™	SSTX-RA	None	113	Corn
+Brevant	B13C78SX™	SSTX-RA	None	113	Corn
+Brevant	B13H87™	CONVENTIONAL	None	113	Corn
+Brevant	B13H87AM™	AM	None	113	Corn
+Brevant	B13H87Q™	Q	None	113	Corn
+Brevant	B13K77SX™	SSTX-RA	None	113	Corn
+Brevant	B13Y85AM™	AM	None	113	Corn
+Brevant	B13Y85Q™	Q	None	113	Corn
+Brevant	B14C78SX™	SSTX-RA	None	114	Corn
+Brevant	B14F89Q™	Q	None	114	Corn
+Brevant	B14H75PW™	PWRA	None	114	Corn
+Brevant	B14J04AM™	AM	None	114	Corn
+Brevant	B14W91AM™	AM	None	114	Corn
+Brevant	B14W91Q™	Q	None	114	Corn
+Brevant	B14Z97AM™	AM	None	114	Corn
+Brevant	B14Z97AML™	AML	None	114	Corn
+Brevant	B14Z97Q™	Q	None	114	Corn
+Brevant	B15H98AM™	AM	None	115	Corn
+Brevant	B15J76PWE™	ENL, PW	None	115	Corn
+Brevant	B15M08AM™	AM	None	115	Corn
+Brevant	B16F88AMXT™	AMXT	None	116	Corn
+Brevant	B16J93AM™	AM	None	116	Corn
+Brevant	B16J93Q™	Q	None	116	Corn
+Brevant	B18D78SXE™	ENL, SSTX	None	118	Corn
+Brevant	B76N71R™	R	None	76	Corn
+Brevant	B81F75PW™	POWERCORE	None	81	Corn
+Brevant	B82J92AM™	AM	None	82	Corn
+Brevant	B82J92Q™	Q	None	82	Corn
+Brevant	B82J92R™	R	None	82	Corn
+Brevant	B83K86AM™	AM	None	83	Corn
+Brevant	B83M75ER™	ENL, RR2	None	83	Corn
+Brevant	B83M75PW™	PWRA	None	83	Corn
+Brevant	B83R78SX™	SSTX-RA	None	83	Corn
+Brevant	B85R88AM™	AM	None	85	Corn
+Brevant	B85R88Q™	Q	None	85	Corn
+Brevant	B86K08R™	R	None	86	Corn
+Brevant	B86Y02AM™	AM	None	86	Corn
+Brevant	B87M71GT™	GT	None	87	Corn
+Brevant	B87R93Q™	Q	None	87	Corn
+Brevant	B88J78SX™	SSTX-RA	None	88	Corn
+Brevant	B90R92AM™	AM	None	90	Corn
+Brevant	B90R92Q™	Q	None	90	Corn
+Brevant	B91K05AM™	AM	None	91	Corn
+Brevant	B91K05Q™	Q	None	91	Corn
+Brevant	B92G08AM™	AM	None	92	Corn
+Brevant	B92W94AM™	AM	None	92	Corn
+Brevant	B93R07AM™	AM	None	93	Corn
+Brevant	B93Y02Q™	Q	None	93	Corn
+Brevant	B94Z97AM™	AM	None	94	Corn
+Brevant	B94Z97Q™	Q	None	94	Corn
+Brevant	B95M87AMXT™	AMXT	None	95	Corn
+Brevant	B95V86™	CONVENTIONAL	None	95	Corn
+Brevant	B95V86AM™	AM	None	95	Corn
+Brevant	B95V86R™	R	None	95	Corn
+Brevant	B97F86AMXT™	AMXT	None	97	Corn
+Brevant	B97G09AM™	AM	None	97	Corn
+Brevant	B97G09Q™	Q	None	97	Corn
+Brevant	B97V84AM™	AM	None	97	Corn
+Brevant	B98R95AM™	AM	None	98	Corn
+Brevant	B98R95Q™	Q	None	98	Corn
+Brevant	B98W87AMXT™	AMXT	None	98	Corn
+Brevant	B99J08AM™	AM	None	99	Corn
+Brevant	B99Y79SX™	SSTX-RA	None	99	Corn
+Brevant	B000EE™	E3	None	0.0	Soybeans
+Brevant	B0090EE™	E3	None	00.9	Soybeans
+Brevant	B019EE™	E3	None	0.1	Soybeans
+Brevant	B040EE™	E3	None	0.4	Soybeans
+Brevant	B049EE™	E3	None	0.4	Soybeans
+Brevant	B049RX™	RR2X	None	0.4	Soybeans
+Brevant	B079EE™	EL3	None	0.7	Soybeans
+Brevant	B089EE™	EL3	None	0.8	Soybeans
+Brevant	B090EE™	EL3	None	0.9	Soybeans
+Brevant	B100RX™	RR2X	None	1.0	Soybeans
+Brevant	B119EE™	EL3	None	1.1	Soybeans
+Brevant	B130EE™	EL3	None	1.3	Soybeans
+Brevant	B148LL™	LL	None	1.4	Soybeans
+Brevant	B149EE™	EL3	None	1.4	Soybeans
+Brevant	B159RX™	RR2X	None	1.5	Soybeans
+Brevant	B169EE™	EL3	None	1.6	Soybeans
+Brevant	B179LL™	LL	None	1.7	Soybeans
+Brevant	B209EE™	EL3	None	2.0	Soybeans
+Brevant	B210EE™	EL3	None	2.1	Soybeans
+Brevant	B218LL™	LL	None	2.1	Soybeans
+Brevant	B228RX™	RR2X	None	2.2	Soybeans
+Brevant	B240EE™	EL3	None	2.4	Soybeans
+Brevant	B249EE™	EL3	None	2.4	Soybeans
+Brevant	B259EE™	EL3	None	2.5	Soybeans
+Brevant	B260EE™	EL3	None	2.6	Soybeans
+Brevant	B269EE™	EL3	None	2.6	Soybeans
+Brevant	B279RX™	RR2X	None	2.7	Soybeans
+Brevant	B289EE™	EL3	None	2.8	Soybeans
+Brevant	B299RX™	RR2X	None	2.9	Soybeans
+Brevant	B300EE™	EL3	None	3.0	Soybeans
+Brevant	B309EE™	EL3	None	3.0	Soybeans
+Brevant	B310EE™	EL3	None	3.1	Soybeans
+Brevant	B319EE™	EL3	None	3.1	Soybeans
+Brevant	B320EE™	EL3	None	3.2	Soybeans
+Brevant	B340EE™	EL3	None	3.4	Soybeans
+Brevant	B349RX™	RR2X	None	3.4	Soybeans
+Brevant	B350EE™	EL3	None	3.5	Soybeans
+Brevant	B359EE™	EL3	None	3.5	Soybeans
+Brevant	B360EE™	EL3	None	3.6	Soybeans
+Brevant	B380EE™	EL3	None	3.8	Soybeans
+Brevant	B389EE™	EL3	None	3.8	Soybeans
+Brevant	B390EE™	EL3	None	3.9	Soybeans
+Brevant	B399EE™	EL3	None	3.9	Soybeans
+Brevant	B399RX™	RR2X	None	3.9	Soybeans
+Brevant	B400EE™	EL3	None	4.0	Soybeans
+Brevant	B419EE™	EL3	None	4.1	Soybeans
+Brevant	B420EE™	EL3	None	4.2	Soybeans
+Brevant	B430EE™	EL3	None	4.3	Soybeans
+Brevant	B448LL™	LL	None	4.4	Soybeans
+Brevant	B459EE™	EL3	None	4.5	Soybeans
+Brevant	B460EE™	EL3	None	4.6	Soybeans
+Brevant	B470EE™	EL3	None	4.7	Soybeans
+Brevant	B499EE™	EL3	None	4.9	Soybeans
