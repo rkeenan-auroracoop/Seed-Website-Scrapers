@@ -22,11 +22,11 @@ def CornCounter():
         try:          
             productName = driver.find_element_by_css_selector('.DTFC_LeftBodyLiner > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(% s) > td:nth-child(2) '% counter)
             crm = driver.find_element_by_css_selector('#seedGuideTable > tbody:nth-child(2) > tr:nth-child(% s) > td:nth-child(3)'% counter)
-            technologySegment = driver.find_element_by_css_selector('#seedGuideTable > tbody:nth-child(2) > tr:nth-child(% s) > td:nth-child(4)'% counter)
+            traits = driver.find_element_by_css_selector('#seedGuideTable > tbody:nth-child(2) > tr:nth-child(% s) > td:nth-child(4)'% counter)
             hybridFamily = driver.find_element_by_css_selector('#seedGuideTable > tbody:nth-child(2) > tr:nth-child(% s) > td:nth-child(5)'% counter)
             counter += 1
             with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
-                f1.write(Brand + "\t" + productName.text + "\t" + technologySegment.text + "\t" + hybridFamily.text + "\t" + crm.text + "\t" + SeedType + "\n")
+                f1.write(Brand + "\t" + productName.text + "\t" + traits.text + "\t" + hybridFamily.text + "\t" + crm.text + "\t" + SeedType + "\n")
         except:
             break
 
@@ -87,11 +87,11 @@ def SoybeanCounter():
     while counter < 11:
         try:           
             productName = driver.find_element_by_css_selector('.DTFC_LeftBodyLiner > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(% s) > td:nth-child(2)'% counter)
-            technologySegment = driver.find_element_by_css_selector('#seedGuideTable > tbody > tr:nth-child(% s) > td:nth-child(4)'% counter)
+            traits = driver.find_element_by_css_selector('#seedGuideTable > tbody > tr:nth-child(% s) > td:nth-child(4)'% counter)
             relativeMaturity = driver.find_element_by_css_selector('#seedGuideTable > tbody > tr:nth-child(% s) > td.textNowrap.sorting_1'% counter)
             counter += 1
             with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
-                f1.write(Brand + "\t" + productName.text  + "\t" + technologySegment.text + "\t" + "None" + "\t" + relativeMaturity.text + "\t" + SeedType + "\n")
+                f1.write(Brand + "\t" + productName.text  + "\t" + traits.text + "\t" + "None" + "\t" + relativeMaturity.text + "\t" + SeedType + "\n")
         except:
             break
 
