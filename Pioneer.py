@@ -3,6 +3,7 @@ from string import Template
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
+import json
 
 
 driver = webdriver.Chrome(r'C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\chromedriver_win32\chromedriver.exe')
@@ -15,13 +16,25 @@ def CornCounter():
     Brand = "Pioneer"
     SeedType = "Corn"
     while counter < 11:
-        try:           
+        try:          
             productName = driver.find_element_by_css_selector('.DTFC_LeftBodyLiner > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(% s) > td:nth-child(2) '% counter)
             crm = driver.find_element_by_css_selector('#seedGuideTable > tbody:nth-child(2) > tr:nth-child(% s) > td:nth-child(3)'% counter)
             technologySegment = driver.find_element_by_css_selector('#seedGuideTable > tbody:nth-child(2) > tr:nth-child(% s) > td:nth-child(4)'% counter)
             hybridFamily = driver.find_element_by_css_selector('#seedGuideTable > tbody:nth-child(2) > tr:nth-child(% s) > td:nth-child(5)'% counter)
             counter += 1
-            print(Brand + "\t" + productName.text + "\t" + technologySegment.text + "\t" + hybridFamily.text + "\t" + crm.text + "\t" + SeedType)
+            #print(Brand + "\t" + productName.text + "\t" + technologySegment.text + "\t" + hybridFamily.text + "\t" + crm.text + "\t" + SeedType)
+            products ={
+                "Brand" : Brand,
+                "ProductName" : productName.text,
+                "TechnologySegment" : technologySegment.text,
+                "HybridFamily" : hybridFamily.text,
+                "RelativeMaturity" : crm.text,
+                "SeedType" : SeedType
+            }
+            json_object = json.dumps(products, indent = 4)
+
+            with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Pioneer_Products.json", 'a') as f1:
+                f1.write(json_object)
         except:
             break
 
@@ -68,8 +81,56 @@ goToPageFive()
 goToPageSix()
 GoToPageSevenAndEight()
 
-print("Website is scraped. Closing browser.")
+print("Corn website has finished scraping.")
 
 
+driver.get('https://www.pioneer.com/us/products/soybeans/soybean-seed-finder.html')
+time.sleep(5)
 
+def SoybeanCounter():
+    time.sleep(10)
+    counter = 1
+    Brand = "Pioneer"
+    SeedType = "Soybeans"
+    while counter < 11:
+        try:           
+            productName = driver.find_element_by_css_selector('.DTFC_LeftBodyLiner > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(% s) > td:nth-child(2)'% counter)
+            technologySegment = driver.find_element_by_css_selector('#seedGuideTable > tbody > tr:nth-child(% s) > td:nth-child(4)'% counter)
+            relativeMaturity = driver.find_element_by_css_selector('#seedGuideTable > tbody > tr:nth-child(% s) > td.textNowrap.sorting_1'% counter)
+            counter += 1
+            #print(Brand + "\t" + productName.text + "\t" + technologySegement.text + "\t" + relativeMaturity.text + "\t" + SeedType)
+            products ={
+                "Brand" : Brand,
+                "ProductName" : productName.text,
+                "TechnologySegment" : technologySegment.text,
+                "HybridFamily" : None,
+                "RelativeMaturity" : relativeMaturity.text,
+                "SeedType" : SeedType
+            }
+            json_object = json.dumps(products, indent = 4)
 
+            with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Pioneer_Products.json", 'a') as f1:
+                f1.write(json_object)
+        except:
+            break
+
+def SelectPage2():
+    time.sleep(10)
+    counter = 2
+    print("Page 1-Soybeans")
+    while counter < 8:
+        try:
+            SoybeanCounter()
+            sbtn = driver.find_element_by_css_selector('#seedGuideTable_paginate > span > a:nth-child(% s)'% counter).click()
+            print("Page " + str(counter) + "-Soybeans")
+            counter += 1
+        except:
+            break
+
+SelectPage2()
+
+print("Web scraping is done. Closing browser now...")
+
+time.sleep(10)
+
+driver.close()
