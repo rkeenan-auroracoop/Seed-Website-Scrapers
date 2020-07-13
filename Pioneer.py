@@ -4,13 +4,6 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 
-#session = HTMLSession()
-
-#url = 'https://www.pioneer.com/us/products/corn/corn-seed-finder.html'
-
-#r = session.get(url)
-
-#r.html.render(sleep=2, keep_page=True, scrolldown=1)
 
 driver = webdriver.Chrome(r'C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\chromedriver_win32\chromedriver.exe')
 driver.get('https://www.pioneer.com/us/products/corn/corn-seed-finder.html')
