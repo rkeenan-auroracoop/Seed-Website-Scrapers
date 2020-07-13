@@ -10,6 +10,9 @@ driver = webdriver.Chrome(r'C:\Users\rkeenan\OneDrive - Aurora Cooperative\Docum
 driver.get('https://www.pioneer.com/us/products/corn/corn-seed-finder.html')
 time.sleep(5)
 
+with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
+    f1.write("Brand" + "\t" + "ProductName"  + "\t" + "TechnologySegment" + "\t" + "HybridFamily" + "\t" + "RelativeMaturity" + "\t" + "SeedType" + "\n")
+
 def CornCounter():
     time.sleep(10)
     counter = 1
@@ -22,19 +25,8 @@ def CornCounter():
             technologySegment = driver.find_element_by_css_selector('#seedGuideTable > tbody:nth-child(2) > tr:nth-child(% s) > td:nth-child(4)'% counter)
             hybridFamily = driver.find_element_by_css_selector('#seedGuideTable > tbody:nth-child(2) > tr:nth-child(% s) > td:nth-child(5)'% counter)
             counter += 1
-            #print(Brand + "\t" + productName.text + "\t" + technologySegment.text + "\t" + hybridFamily.text + "\t" + crm.text + "\t" + SeedType)
-            products ={
-                "Brand" : Brand,
-                "ProductName" : productName.text,
-                "TechnologySegment" : technologySegment.text,
-                "HybridFamily" : hybridFamily.text,
-                "RelativeMaturity" : crm.text,
-                "SeedType" : SeedType
-            }
-            json_object = json.dumps(products, indent = 4)
-
-            with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Pioneer_Products.json", 'a') as f1:
-                f1.write(json_object)
+            with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
+                f1.write(Brand + "\t" + productName.text + "\t" + technologySegment.text + "\t" + hybridFamily.text + "\t" + crm.text + "\t" + SeedType + "\n")
         except:
             break
 
@@ -98,19 +90,8 @@ def SoybeanCounter():
             technologySegment = driver.find_element_by_css_selector('#seedGuideTable > tbody > tr:nth-child(% s) > td:nth-child(4)'% counter)
             relativeMaturity = driver.find_element_by_css_selector('#seedGuideTable > tbody > tr:nth-child(% s) > td.textNowrap.sorting_1'% counter)
             counter += 1
-            #print(Brand + "\t" + productName.text + "\t" + technologySegement.text + "\t" + relativeMaturity.text + "\t" + SeedType)
-            products ={
-                "Brand" : Brand,
-                "ProductName" : productName.text,
-                "TechnologySegment" : technologySegment.text,
-                "HybridFamily" : None,
-                "RelativeMaturity" : relativeMaturity.text,
-                "SeedType" : SeedType
-            }
-            json_object = json.dumps(products, indent = 4)
-
-            with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Pioneer_Products.json", 'a') as f1:
-                f1.write(json_object)
+            with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
+                f1.write(Brand + "\t" + productName.text  + "\t" + technologySegment.text + "\t" + "None" + "\t" + relativeMaturity.text + "\t" + SeedType + "\n")
         except:
             break
 
