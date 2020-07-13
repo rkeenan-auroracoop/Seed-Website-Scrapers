@@ -26,23 +26,54 @@ def CornCounter():
             productName = driver.find_element_by_css_selector('.DTFC_LeftBodyLiner > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(% s) > td:nth-child(2) '% counter)
             crm = driver.find_element_by_css_selector('#seedGuideTable > tbody:nth-child(2) > tr:nth-child(% s) > td:nth-child(3)'% counter)
             technologySegment = driver.find_element_by_css_selector('#seedGuideTable > tbody:nth-child(2) > tr:nth-child(% s) > td:nth-child(4)'% counter)
-            marketSegement = driver.find_element_by_css_selector('#seedGuideTable > tbody:nth-child(2) > tr:nth-child(% s) > td:nth-child(6)'% counter)
+            hybridFamily = driver.find_element_by_css_selector('#seedGuideTable > tbody:nth-child(2) > tr:nth-child(% s) > td:nth-child(5)'% counter)
             counter += 1
-            print(Brand + "\t" + productName.text + "\t" + technologySegment.text + "\t" + marketSegement.text + "\t" + crm.text + "\t" + SeedType)
+            print(Brand + "\t" + productName.text + "\t" + technologySegment.text + "\t" + hybridFamily.text + "\t" + crm.text + "\t" + SeedType)
         except:
             break
 
 def GoToNextPage():
     time.sleep(10)
-    counter = 1
-    while counter < 9:   
+    counter = 2
+    print("Page 1-Corn")
+    while counter < 5:
         CornCounter()
         sbtn = driver.find_element_by_css_selector('a.fg-button:nth-child(% s)'% counter).click()
-        print("Page " + (({counter}) + 1) + "-Corn")
+        print("Page " + str(counter) + "-Corn")
         counter += 1
 
-#GoToNextPage()
-CornCounter()
+def goToPageFive():
+    time.sleep(10)
+    CornCounter()
+    sbtn = driver.find_element_by_css_selector('a.fg-button:nth-child(5)').click()
+    print("Page " + str(5) + "-Corn")
+
+def goToPageSix():
+    time.sleep(10)
+    CornCounter()
+    sbtn = driver.find_element_by_css_selector('a.fg-button:nth-child(5)').click()
+    print("Page " + str(6) + "-Corn")
+
+def GoToPageSevenAndEight():
+    time.sleep(10)
+    counter = 6
+    while counter < 9:   
+        CornCounter()
+        if counter == 6:
+            sbtn = driver.find_element_by_css_selector('a.fg-button:nth-child(% s)'% counter).click()
+            counter += 1
+            print("Page " + str(counter) + "-Corn")
+        elif counter == 7: 
+            sbtn = driver.find_element_by_css_selector('a.fg-button:nth-child(% s)'% counter).click()
+            counter += 1
+            print("Page " + str(counter) + "-Corn")
+        else:
+            break
+#CornCounter()
+GoToNextPage()
+goToPageFive()
+goToPageSix()
+GoToPageSevenAndEight()
 
 print("Website is scraped. Closing browser.")
 
