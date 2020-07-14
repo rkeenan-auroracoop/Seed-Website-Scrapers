@@ -28,7 +28,7 @@ def CornCounterPageOne():
                 #THEN GO BACK TO ORIGINAL PAGE
                 time.sleep(3)
                 with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
-                    print(Brand + "\t" + productName  + "\t" + traits.text + "\t" + "None" + "\t" + relativeMaturity.text + "\t" + SeedType + "\n")
+                    f1.write(Brand + "\t" + productName  + "\t" + traits.text + "\t" + "None" + "\t" + relativeMaturity.text + "\t" + SeedType + "\n")
                 counter += 1
             else:
                 driver.get('https://www.plantchampion.com/product-category/corn')
@@ -61,7 +61,7 @@ def CornCounterPageOne():
                 time.sleep(3)
                 counter += 1
                 with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
-                    print(Brand + "\t" + productName  + "\t" + traits.text + "\t" + "None" + "\t" + relativeMaturity.text + "\t" + SeedType + "\n")             
+                    f1.write(Brand + "\t" + productName  + "\t" + traits.text + "\t" + "None" + "\t" + relativeMaturity.text + "\t" + SeedType + "\n")             
         except: 
             break
 
@@ -93,7 +93,7 @@ def CornCounterPageTwo():
                 #THEN GO BACK TO ORIGINAL PAGE
                 time.sleep(3)
                 with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
-                    print(Brand + "\t" + productName  + "\t" + traits.text + "\t" + "None" + "\t" + relativeMaturity.text + "\t" + SeedType + "\n")
+                    f1.write(Brand + "\t" + productName  + "\t" + traits.text + "\t" + "None" + "\t" + relativeMaturity.text + "\t" + SeedType + "\n")
                 counter += 1
                 driver.get('https://www.plantchampion.com/product-category/corn/?paged=2')
       
@@ -134,7 +134,7 @@ def CornCounterPageThree():
                 #THEN GO BACK TO ORIGINAL PAGE
                 time.sleep(3)
                 with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
-                    print(Brand + "\t" + productName  + "\t" + traits.text + "\t" + "None" + "\t" + relativeMaturity.text + "\t" + SeedType + "\n")
+                    f1.write(Brand + "\t" + productName  + "\t" + traits.text + "\t" + "None" + "\t" + relativeMaturity.text + "\t" + SeedType + "\n")
                 counter += 1
                 driver.get('https://www.plantchampion.com/product-category/corn/?paged=3')
       
@@ -178,7 +178,7 @@ def CornCounterPageFour():
                 #THEN GO BACK TO ORIGINAL PAGE
                 time.sleep(3)
                 with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
-                    print(Brand + "\t" + productName  + "\t" + traits.text + "\t" + "None" + "\t" + relativeMaturity.text + "\t" + SeedType + "\n")
+                    f1.write(Brand + "\t" + productName  + "\t" + traits.text + "\t" + "None" + "\t" + relativeMaturity.text + "\t" + SeedType + "\n")
                 counter += 1
                 driver.get('https://www.plantchampion.com/product-category/corn/?paged=4')
       
@@ -208,11 +208,141 @@ def SoybeanCounterPageOne():
                 #THEN GO BACK TO ORIGINAL PAGE
                 time.sleep(3)
                 with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
-                    print(Brand + "\t" + productName  + "\t" + traits.text + "\t" + "None" + "\t" + relativeMaturity.text + "\t" + SeedType + "\n")
+                    f1.write(Brand + "\t" + productName  + "\t" + traits.text + "\t" + "None" + "\t" + relativeMaturity.text + "\t" + SeedType + "\n")
                 counter += 1
                 driver.get('https://www.plantchampion.com/product-category/soybean')
       
         except: 
+            break
+
+def SoybeanCounterPageTwo(): 
+    counter = 1
+    Brand = "Champion"
+    SeedType = "Soybeans"
+    urlBase = "https://www.plantchampion.com/product/"
+    while counter < 17:
+        try:
+                productNames = driver.find_element_by_css_selector('li.has-post-thumbnail:nth-child(% s) > h4:nth-child(2) > a:nth-child(1)'% counter)
+                #print(productName.text)
+                productName = productNames.text
+                if counter == 8:
+                    urlSuffix = "/product/" + "200e" 
+                else:
+                    urlSuffix = "/product/" + productNames.text
+                productPage = urllib.parse.urljoin(urlBase, urlSuffix)
+                print("productPage = " + str(productPage))
+                driver.get(productPage)
+                time.sleep(5)
+                #print(productName)
+                traits = driver.find_element_by_xpath('//*[@id="x-legacy-panel-1"]/table/tbody/tr[2]/td')
+                #print(traits.text)
+                relativeMaturity = driver.find_element_by_xpath('//*[@id="x-legacy-panel-1"]/table/tbody/tr[1]/td')
+                #print(relativeMaturity.text)
+                #THEN GO BACK TO ORIGINAL PAGE
+                time.sleep(3)
+                with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
+                    f1.write(Brand + "\t" + productName  + "\t" + traits.text + "\t" + "None" + "\t" + relativeMaturity.text + "\t" + SeedType + "\n")
+                counter += 1
+                driver.get('https://www.plantchampion.com/product-category/soybean/?paged=2')
+      
+        except: 
+            print("*****************Error: " + productName)
+            break
+
+def SoybeanCounterPageThree(): 
+    counter = 1
+    Brand = "Champion"
+    SeedType = "Soybeans"
+    urlBase = "https://www.plantchampion.com/product/"
+    while counter < 17:
+        try:
+                productNames = driver.find_element_by_css_selector('li.has-post-thumbnail:nth-child(% s) > h4:nth-child(2) > a:nth-child(1)'% counter)
+                #print(productName.text)
+                productName = productNames.text
+                if counter == 8:
+                    urlSuffix = "/product/" + "2259cn-2"
+                else: 
+                    urlSuffix = "/product/" + productNames.text
+                productPage = urllib.parse.urljoin(urlBase, urlSuffix)
+                print("productPage = " + str(productPage))
+                driver.get(productPage)
+                time.sleep(5)
+                #print(productName)
+                traits = driver.find_element_by_xpath('//*[@id="x-legacy-panel-1"]/table/tbody/tr[2]/td')
+                #print(traits.text)
+                relativeMaturity = driver.find_element_by_xpath('//*[@id="x-legacy-panel-1"]/table/tbody/tr[1]/td')
+                #print(relativeMaturity.text)
+                #THEN GO BACK TO ORIGINAL PAGE
+                time.sleep(3)
+                with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
+                    f1.write(Brand + "\t" + productName  + "\t" + traits.text + "\t" + "None" + "\t" + relativeMaturity.text + "\t" + SeedType + "\n")
+                counter += 1
+                driver.get('https://www.plantchampion.com/product-category/soybean/?paged=3')
+      
+        except:
+            print("*****************Error: " + productName) 
+            break
+
+def SoybeanCounterPageFour(): 
+    counter = 1
+    Brand = "Champion"
+    SeedType = "Soybeans"
+    urlBase = "https://www.plantchampion.com/product/"
+    while counter < 17:
+        try:
+                productNames = driver.find_element_by_css_selector('li.has-post-thumbnail:nth-child(% s) > h4:nth-child(2) > a:nth-child(1)'% counter)
+                #print(productName.text)
+                productName = productNames.text
+                urlSuffix = "/product/" + productNames.text
+                productPage = urllib.parse.urljoin(urlBase, urlSuffix)
+                print("productPage = " + str(productPage))
+                driver.get(productPage)
+                time.sleep(5)
+                #print(productName)
+                traits = driver.find_element_by_xpath('//*[@id="x-legacy-panel-1"]/table/tbody/tr[2]/td')
+                #print(traits.text)
+                relativeMaturity = driver.find_element_by_xpath('//*[@id="x-legacy-panel-1"]/table/tbody/tr[1]/td')
+                #print(relativeMaturity.text)
+                #THEN GO BACK TO ORIGINAL PAGE
+                time.sleep(3)
+                with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
+                    f1.write(Brand + "\t" + productName  + "\t" + traits.text + "\t" + "None" + "\t" + relativeMaturity.text + "\t" + SeedType + "\n")
+                counter += 1
+                driver.get('https://www.plantchampion.com/product-category/soybean/?paged=4')
+      
+        except: 
+            print("*****************Error: " + productName)
+            break
+
+def SoybeanCounterPageFive(): 
+    counter = 1
+    Brand = "Champion"
+    SeedType = "Soybeans"
+    urlBase = "https://www.plantchampion.com/product/"
+    while counter < 6:
+        try:
+                productNames = driver.find_element_by_css_selector('li.has-post-thumbnail:nth-child(% s) > h4:nth-child(2) > a:nth-child(1)'% counter)
+                #print(productName.text)
+                productName = productNames.text
+                urlSuffix = "/product/" + productNames.text
+                productPage = urllib.parse.urljoin(urlBase, urlSuffix)
+                print("productPage = " + str(productPage))
+                driver.get(productPage)
+                time.sleep(5)
+                #print(productName)
+                traits = driver.find_element_by_xpath('//*[@id="x-legacy-panel-1"]/table/tbody/tr[2]/td')
+                #print(traits.text)
+                relativeMaturity = driver.find_element_by_xpath('//*[@id="x-legacy-panel-1"]/table/tbody/tr[1]/td')
+                #print(relativeMaturity.text)
+                #THEN GO BACK TO ORIGINAL PAGE
+                time.sleep(3)
+                with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
+                    f1.write(Brand + "\t" + productName  + "\t" + traits.text + "\t" + "None" + "\t" + relativeMaturity.text + "\t" + SeedType + "\n")
+                counter += 1
+                driver.get('https://www.plantchampion.com/product-category/soybean/?paged=5')
+      
+        except: 
+            print("*****************Error: " + productName)
             break
 
 def CornPage2():
@@ -270,12 +400,17 @@ time.sleep(3)
 SoybeanCounterPageOne()
 
 SoybeanPage2()
-
+SoybeanCounterPageTwo()
 
 SoybeanPage3()
-
+SoybeanCounterPageThree()
 
 SoybeanPage4()
-
+SoybeanCounterPageFour()
 
 SoybeanPage5()
+SoybeanCounterPageFive()
+
+print("Scraping for Champion is done. Closing down the browser.")
+
+driver.close()
