@@ -1677,3 +1677,164 @@ Fontanelle	40XF49	XF	None	4	Soybeans
 Fontanelle	42X26	RR2X/SR	None	4.2	Soybeans
 Fontanelle	42XF30	XF/SR	None	4.2	Soybeans
 Fontanelle	43XF49	XF	None	4.3	Soybeans
+Hefty	H4210	CONV	None	92	Corn
+Hefty	H4520	CONV	None	95	Corn
+Hefty	H4630	CONV	None	96	Corn
+Hefty	H4910	CONV	None	99	Corn
+Hefty	H4930	CONV	None	99	Corn
+Hefty	H5010	CONV	None	100	Corn
+Hefty	H5020	CONV	None	100	Corn
+Hefty	H5030	CONV	None	100	Corn
+Hefty	H5230	CONV	None	102	Corn
+Hefty	H5320	CONV	None	103	Corn
+Hefty	H5410	CONV	None	104	Corn
+Hefty	H5520	CONV	None	105	Corn
+Hefty	H6130	CONV	None	110	Corn
+Hefty	H4933	DGVT2 PRO	None	99	Corn
+Hefty	H5003	DGVT2 PRO	None	100	Corn
+Hefty	H6413	DGVT2 PRO	None	114	Corn
+Hefty	H2801	RR	None	78	Corn
+Hefty	H3131	RR	None	81	Corn
+Hefty	H3301	RR	None	83	Corn
+Hefty	H3521	RR	None	85	Corn
+Hefty	H4521	RR	None	95	Corn
+Hefty	H4324	SMSTX	None	93	Corn
+Hefty	H4504	SMSTX	None	95	Corn
+Hefty	H4724	SMSTX	None	97	Corn
+Hefty	H4734	SMSTX	None	97	Corn
+Hefty	H4904	SMSTX	None	99	Corn
+Hefty	H5024	SMSTX	None	100	Corn
+Hefty	H5114	SMSTX	None	101	Corn
+Hefty	H5214	SMSTX	None	102	Corn
+Hefty	H5334	SMSTX	None	103	Corn
+Hefty	H5504	SMSTX	None	105	Corn
+Hefty	H5524	SMSTX	None	105	Corn
+Hefty	H5624	SMSTX	None	106	Corn
+Hefty	H5734	SMSTX	None	107	Corn
+Hefty	H6024	SMSTX	None	110	Corn
+Hefty	H6104	SMSTX	None	111	Corn
+Hefty	H6134	SMSTX	None	111	Corn
+Hefty	H6214	SMSTX	None	112	Corn
+Hefty	H6324	SMSTX	None	113	Corn
+Hefty	H6424	SMSTX	None	114	Corn
+Hefty	H6524	SMSTX	None	115	Corn
+Hefty	H6714	SMSTX	None	117	Corn
+Hefty	H6525	TRECEPTA	None	115	Corn
+Hefty	H6635	TRECEPTA	None	115	Corn
+Hefty	H2512	VT2 PRO	None	75	Corn
+Hefty	H2602	VT2 PRO	None	76	Corn
+Hefty	H2922	VT2 PRO	None	79	Corn
+Hefty	H3022	VT2 PRO	None	80	Corn
+Hefty	H3122	VT2 PRO	None	81	Corn
+Hefty	H3202	VT2 PRO	None	82	Corn
+Hefty	H3302	VT2 PRO	None	83	Corn
+Hefty	H3322	VT2 PRO	None	83	Corn
+Hefty	H3432	VT2 PRO	None	83	Corn
+Hefty	H3532	VT2 PRO	None	85	Corn
+Hefty	H3622	VT2 PRO	None	86	Corn
+Hefty	H3632	VT2 PRO	None	86	Corn
+Hefty	H3712	VT2 PRO	None	87	Corn
+Hefty	H3902	VT2 PRO	None	89	Corn
+Hefty	H3922	VT2 PRO	None	89	Corn
+Hefty	H4012	VT2 PRO	None	90	Corn
+Hefty	H4032	VT2 PRO	None	90	Corn
+Hefty	H4102	VT2 PRO	None	91	Corn
+Hefty	H4132	VT2 PRO	None	90	Corn
+Hefty	H4222	VT2 PRO	None	92	Corn
+Hefty	H4322	VT2 PRO	None	93	Corn
+Hefty	H4332	VT2 PRO	None	93	Corn
+Hefty	H4402	VT2 PRO	None	94	Corn
+Hefty	H4522	VT2 PRO	None	95	Corn
+Hefty	H4612	VT2 PRO	None	96	Corn
+Hefty	H4732	VT2 PRO	None	97	Corn
+Hefty	H4812	VT2 PRO	None	98	Corn
+Hefty	H4912	VT2 PRO	None	99	Corn
+Hefty	H4922	VT2 PRO	None	99	Corn
+Hefty	H5132	VT2 PRO	None	101	Corn
+Hefty	H5212	VT2 PRO	None	102	Corn
+Hefty	H5302	VT2 PRO	None	103	Corn
+Hefty	H5432	VT2 PRO	None	104	Corn
+Hefty	H5502	VT2 PRO	None	105	Corn
+Hefty	H5522	VT2 PRO	None	105	Corn
+Hefty	H5622	VT2 PRO	None	106	Corn
+Hefty	H5732	VT2 PRO	None	107	Corn
+Hefty	H5812	VT2 PRO	None	108	Corn
+Hefty	H5832	VT2 PRO	None	108	Corn
+Hefty	H5922	VT2 PRO	None	109	Corn
+Hefty	H6102	VT2 PRO	None	111	Corn
+Hefty	H6132	VT2 PRO	None	111	Corn
+Hefty	H6212	VT2 PRO	None	112	Corn
+Hefty	H6222	VT2 PRO	None	112	Corn
+Hefty	H6332	VT2 PRO	None	113	Corn
+Hefty	H6422	VT2 PRO	None	114	Corn
+Hefty	H6532	VT2 PRO	None	115	Corn
+Hefty	H6622	VT2 PRO	None	116	Corn
+Hefty	H009E9	E3	None		Soybeans
+Hefty	H04E8	E3	None		Soybeans
+Hefty	H10E0	E3	None		Soybeans
+Hefty	H11E0	E3	None		Soybeans
+Hefty	H25E0	E3	None		Soybeans
+Hefty	H51E9	E3	None		Soybeans
+Hefty	H13L5	LL	None		Soybeans
+Hefty	H14L8	LL	None		Soybeans
+Hefty	H17L6	LL	None		Soybeans
+Hefty	H24L8	LL	None		Soybeans
+Hefty	H006X0	R2X	None		Soybeans
+Hefty	H008X8	R2X	None		Soybeans
+Hefty	H009X7	R2X	None		Soybeans
+Hefty	H01X0	R2X	None		Soybeans
+Hefty	H02X9	R2X	None		Soybeans
+Hefty	H03X8	R2X	None		Soybeans
+Hefty	H04X0	R2X	None		Soybeans
+Hefty	H04X8	R2X	None		Soybeans
+Hefty	H06X8	R2X	None		Soybeans
+Hefty	H07X0	R2X	None		Soybeans
+Hefty	H09X0	R2X	None		Soybeans
+Hefty	H09X1	R2X	None		Soybeans
+Hefty	H10X0	R2X	None		Soybeans
+Hefty	H10X9	R2X	None		Soybeans
+Hefty	H11X8	R2X	None		Soybeans
+Hefty	H12X7	R2X	None		Soybeans
+Hefty	H13X7	R2X	None		Soybeans
+Hefty	H14X0	R2X	None		Soybeans
+Hefty	H14X1	R2X	None		Soybeans
+Hefty	H14X8	R2X	None		Soybeans
+Hefty	H16X1	R2X	None		Soybeans
+Hefty	H16X8	R2X	None		Soybeans
+Hefty	H17X0	R2X	None		Soybeans
+Hefty	H17X9	R2X	None		Soybeans
+Hefty	H18X8	R2X	None		Soybeans
+Hefty	H20X0	R2X	None		Soybeans
+Hefty	H20X7	R2X	None		Soybeans
+Hefty	H21X9	R2X	None		Soybeans
+Hefty	H23X0	R2X	None		Soybeans
+Hefty	H23X9	R2X	None		Soybeans
+Hefty	H24X8	R2X	None		Soybeans
+Hefty	H25X0	R2X	None		Soybeans
+Hefty	H25X8	R2X	None		Soybeans
+Hefty	H25X9	R2X	None		Soybeans
+Hefty	H28X0	R2X	None		Soybeans
+Hefty	H28X8	R2X	None		Soybeans
+Hefty	H29X8	R2X	None		Soybeans
+Hefty	H31X9	R2X	None		Soybeans
+Hefty	H33X0	R2X	None		Soybeans
+Hefty	H34X0	R2X	None		Soybeans
+Hefty	H34X7	R2X	None		Soybeans
+Hefty	H37X8S	R2X	None		Soybeans
+Hefty	H39X8	R2X	None		Soybeans
+Hefty	H42X9	R2X	None		Soybeans
+Hefty	H45X7S	R2X	None		Soybeans
+Hefty	H46X0S	R2X	None		Soybeans
+Hefty	H46X6	R2X	None		Soybeans
+Hefty	H48X7	R2X	None		Soybeans
+Hefty	H48X8S	R2X	None		Soybeans
+Hefty	H49X7	R2X	None		Soybeans
+Hefty	H49X7S	R2X	None		Soybeans
+Hefty	H50X9	R2X	None		Soybeans
+Hefty	H008R3	R2Y	None		Soybeans
+Hefty	H008R6	R2Y	None		Soybeans
+Hefty	H00R6	R2Y	None		Soybeans
+Hefty	H02R3	R2Y	None		Soybeans
+Hefty	H14R3	R2Y	None		Soybeans
+Hefty	H19R6	R2Y	None		Soybeans
+Hefty	H20R3	R2Y	None		Soybeans
