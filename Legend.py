@@ -50,7 +50,7 @@ def CornCounter():
                 relativeMaturity = driver.find_element_by_css_selector('tr.even:nth-child(% s) > td:nth-child(5)'% counter)
                 counter += 1
                 with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
-                    print(Brand + "\t" + productName.text  + "\t" + traits + "\t" + "None" + "\t" + relativeMaturity.text + "\t" + SeedType + "\n")    
+                    f1.write(Brand + "\t" + productName.text  + "\t" + traits + "\t" + "None" + "\t" + relativeMaturity.text + "\t" + SeedType + "\n")    
         #else: tr.odd path
             else:
                 productName = driver.find_element_by_css_selector('tr.odd:nth-child(% s) > td:nth-child(4)'% counter)
@@ -93,7 +93,35 @@ def CornCounter():
                 relativeMaturity = driver.find_element_by_css_selector('tr.odd:nth-child(% s) > td:nth-child(5)'% counter)
                 counter += 1
                 with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
-                    print(Brand + "\t" + productName.text  + "\t" + traits + "\t" + "None" + "\t" + relativeMaturity.text + "\t" + SeedType + "\n")        
+                    f1.write(Brand + "\t" + productName.text  + "\t" + traits + "\t" + "None" + "\t" + relativeMaturity.text + "\t" + SeedType + "\n")        
+        except: 
+            break
+
+def SoybeanCounter(): 
+    counter = 1
+    Brand = "Legend"
+    SeedType = "Soybeans"
+    while counter < 150:
+        #if counter is even number, tr.even path for ProductName
+        try:
+            if counter % 2 == 0:
+                productName = driver.find_element_by_css_selector('tr.even:nth-child(% s) > td:nth-child(3)'% counter)
+                #print(productName.text)
+                traits = driver.find_element_by_css_selector('tr.even:nth-child(% s) > td:nth-child(4)'% counter)
+                relativeMaturity = driver.find_element_by_css_selector('tr.even:nth-child(% s) > td:nth-child(5)'% counter)
+                counter += 1
+                with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
+                    f1.write(Brand + "\t" + productName.text  + "\t" + traits.text + "\t" + "None" + "\t" + relativeMaturity.text + "\t" + SeedType + "\n")    
+        #else: tr.odd path
+            else:
+                productName = driver.find_element_by_css_selector('tr.odd:nth-child(% s) > td:nth-child(3)'% counter)
+                #print(productName.text)
+                #print(productName.text + "\t" + traits)
+                traits = driver.find_element_by_css_selector('tr.odd:nth-child(% s) > td:nth-child(4)'% counter)
+                relativeMaturity = driver.find_element_by_css_selector('tr.odd:nth-child(% s) > td:nth-child(5)'% counter)
+                counter += 1
+                with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
+                    f1.write(Brand + "\t" + productName.text  + "\t" + traits.text + "\t" + "None" + "\t" + relativeMaturity.text + "\t" + SeedType + "\n")        
         except: 
             break
 
@@ -107,3 +135,11 @@ time.sleep(7)
 
 CornCounter()
 
+driver.get('https://legendseeds.net/products/soybeans')
+time.sleep(5)
+#Selecting all products from corn page
+driver.find_element_by_xpath("/html/body/div/div[1]/section[2]/div/div/div[3]/div/div[2]/div/div[2]/div[3]/label/select/option[text()='All']").click()
+
+time.sleep(5)
+
+SoybeanCounter()
