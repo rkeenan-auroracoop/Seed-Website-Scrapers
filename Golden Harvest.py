@@ -115,6 +115,117 @@ def CornCounter():
         #    print("Breaking out of Golden Harvest corn loop")
         #   break
 
+def SoybeanCounter(): 
+    counter = 0
+    elseCounter = counter + 1
+    Brand = "Golden Harvest"
+    SeedType = "Soybean"
+    while counter < 91:
+        #try:      
+            if counter == 0:
+                productName = driver.find_elements_by_class_name('product')[counter]
+                productName = productName.text
+                relativeMaturity = driver.find_elements_by_class_name('rm')[counter+1]
+                relativeMaturity = relativeMaturity.text.replace("RM", "")
+                traits = driver.find_element_by_css_selector('div.col-md-6:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > span:nth-child(4)')
+                traits = traits.text[7:]
+                if '|' in traits:
+                    traits = traits.split('|')
+                    if len(traits) == 2:
+                        traits1 = traits[0]
+                        traits1 = traits1.strip()
+                        traits2 = traits[1]
+                        traits2 = traits2.strip()
+                            #print(productName)
+                            #print(relativeMaturity)
+                            #print(traits1)
+                            #print(counter)
+                        counter += 1   
+                        with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
+                            print(Brand + "\t" + productName  + "\t" + traits1 + "\t" + "None" + "\t" + relativeMaturity + "\t" + SeedType + "\n")
+                        with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
+                            print(Brand + "\t" + productName  + "\t" + traits2 + "\t" + "None" + "\t" + relativeMaturity + "\t" + SeedType + "\n")  
+                    elif len(traits) == 3:
+                        traits1 = traits[0]
+                        traits2 = traits[1]
+                        traits3 = traits[2]
+                        counter += 1 
+                        with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
+                            print(Brand + "\t" + productName  + "\t" + traits1 + "\t" + "None" + "\t" + relativeMaturity + "\t" + SeedType + "\n")
+                        with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
+                            print(Brand + "\t" + productName  + "\t" + traits2 + "\t" + "None" + "\t" + relativeMaturity + "\t" + SeedType + "\n")
+                        with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
+                            print(Brand + "\t" + productName  + "\t" + traits3 + "\t" + "None" + "\t" + relativeMaturity + "\t" + SeedType + "\n")                                 
+                    elif len(traits) == 4:
+                        traits1 = traits[0]
+                        traits2 = traits[1]
+                        traits3 = traits[2]
+                        traits4 = traits[3]
+                        counter += 1 
+                        with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
+                            print(Brand + "\t" + productName  + "\t" + traits1 + "\t" + "None" + "\t" + relativeMaturity + "\t" + SeedType + "\n")
+                        with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
+                            print(Brand + "\t" + productName  + "\t" + traits2 + "\t" + "None" + "\t" + relativeMaturity + "\t" + SeedType + "\n")
+                        with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
+                            print(Brand + "\t" + productName  + "\t" + traits3 + "\t" + "None" + "\t" + relativeMaturity + "\t" + SeedType + "\n")
+                        with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
+                            print(Brand + "\t" + productName  + "\t" + traits4 + "\t" + "None" + "\t" + relativeMaturity + "\t" + SeedType + "\n")
+                            counter += 1
+                    else: 
+                        print("more than four items.")
+                        counter += 1
+                        break      
+                else:
+                    counter += 1 
+                    traits = traits
+                    with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
+                        print(Brand + "\t" + productName  + "\t" + traits + "\t" + "None" + "\t" + relativeMaturity + "\t" + SeedType + "\n")
+                          
+            else:
+                print(counter)
+                productName = driver.find_elements_by_class_name('product')[counter]
+                productName = productName.text
+                relativeMaturity = driver.find_elements_by_class_name('rm')[counter+1]
+                relativeMaturity = relativeMaturity.text.replace("RM", "")
+                traits = driver.find_element_by_css_selector('div.col-xs-12:nth-child(% s) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > span:nth-child(4)'% elseCounter)
+                traits = traits.text[7:]
+                if '|' in traits:
+                    traits = traits.split('|')
+                    if len(traits) == 2:
+                        traits1 = traits[0]
+                        traits2 = traits[1]
+                        counter += 1   
+                        with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
+                            print(Brand + "\t" + productName  + "\t" + traits1 + "\t" + "None" + "\t" + relativeMaturity + "\t" + SeedType + "\n")
+                            print(Brand + "\t" + productName  + "\t" + traits2 + "\t" + "None" + "\t" + relativeMaturity + "\t" + SeedType + "\n")
+                    elif len(traits) == 3:
+                        traits1 = traits[0]
+                        traits2 = traits[1]
+                        traits3 = traits[2]
+                        counter += 1  
+                        with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
+                            print(Brand + "\t" + productName  + "\t" + traits1 + "\t" + "None" + "\t" + relativeMaturity + "\t" + SeedType + "\n")
+                            print(Brand + "\t" + productName  + "\t" + traits2 + "\t" + "None" + "\t" + relativeMaturity + "\t" + SeedType + "\n")
+                            print(Brand + "\t" + productName  + "\t" + traits3 + "\t" + "None" + "\t" + relativeMaturity + "\t" + SeedType + "\n")                                   
+                    elif len(traits) == 4:
+                        traits1 = traits[0]
+                        traits2 = traits[1]
+                        traits3 = traits[2]
+                        traits4 = traits[3]
+                        counter += 1
+                        with open(r"C:\Users\rkeenan\OneDrive - Aurora Cooperative\Documents\Development\Seed Website Scrapers\Products.csv", 'a') as f1:
+                            print(Brand + "\t" + productName  + "\t" + traits1 + "\t" + "None" + "\t" +relativeMaturity + "\t" + SeedType + "\n")
+                            print(Brand + "\t" + productName  + "\t" + traits2 + "\t" + "None" + "\t" +relativeMaturity + "\t" + SeedType + "\n")
+                            print(Brand + "\t" + productName  + "\t" + traits3 + "\t" + "None" + "\t" +relativeMaturity + "\t" + SeedType + "\n")
+                            print(Brand + "\t" + productName  + "\t" + traits4 + "\t" + "None" + "\t" +relativeMaturity + "\t" + SeedType + "\n")
+                    else:
+                        print("Trait items are more than 4.")
+                        counter +=1
+                        continue
+        #except:
+        #    print("Breaking out of Golden Harvest corn loop")
+        #   break
+
 def MoreResults():
     time.sleep(15)
     sbtn = driver.find_element_by_css_selector('.load-more')
@@ -159,4 +270,34 @@ time.sleep(20)
 
 CornCounter()
 
+driver.get('https://www.goldenharvestseeds.com/soybean/product-finder')
+time.sleep(10)
+
+leftEntry = driver.find_element_by_css_selector('#mainBody_txtRmFrom')
+leftEntry.clear()
+leftEntry.send_keys("0.0")
+rightEntry = driver.find_element_by_css_selector('#mainBody_txtRmTo')
+rightEntry.clear()
+rightEntry.send_keys("9.9")
+
+sbtn = driver.find_element_by_css_selector('#updateRM')
+driver.execute_script("arguments[0].click();", sbtn)
+
+
+MoreResults()
+MoreResults()
+MoreResults()
+MoreResults()
+MoreResults()
+MoreResults()
+MoreResults()
+MoreResults()
+MoreResults()
+MoreResults()
+MoreResults()
+MoreResults()
+MoreResults()
+MoreResults()
+
 print("Scraping is done!")
+
