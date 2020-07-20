@@ -1,4 +1,4 @@
-Brand	ProductName	Traits	HybridFamily	RelativeMaturity	SeedType
+	ProductName	Traits	HybridFamily	RelativeMaturity	SeedType
 Pioneer	P9998AM	AM LL RR2	P9998	99	Corn
 Pioneer	P9998AMXT	AMXT LL RR2	P9998	99	Corn
 Pioneer	P0075Q	Q LL RR2	P0075	100	Corn
@@ -125,170 +125,170 @@ Pioneer	P39T61SE *	STS E3	None	3.9	Soybeans
 Pioneer	P40A47X	RR2X	None	4.0	Soybeans
 Pioneer	P41T07E	E3	None	4.1	Soybeans
 Pioneer	P42A96X	RR2X	None	4.2	Soybeans
-Brevant	B00K94AMXT™	AMXT	None	100	Corn
-Brevant	B01Z88AM™	AM	None	101	Corn
-Brevant	B01Z88Q™	Q	None	101	Corn
-Brevant	B02V87™	CONVENTIONAL	None	102	Corn
-Brevant	B02V87AM™	AM	None	102	Corn
-Brevant	B02V87AMXT™	AMXT	None	102	Corn
-Brevant	B02V87R™	R	None	102	Corn
-Brevant	B03R87AM™	AM	None	103	Corn
-Brevant	B03R87Q™	Q	None	103	Corn
-Brevant	B04H94Q™	Q	None	104	Corn
-Brevant	B04Z92AM™	AM	None	104	Corn
-Brevant	B04Z92AMXT™	AMXT	None	104	Corn
-Brevant	B04Z92Q™	Q	None	104	Corn
-Brevant	B05M87™	CONVENTIONAL	None	105	Corn
-Brevant	B05M87AM™	AM	None	105	Corn
-Brevant	B05M87AMXT™	AMXT	None	105	Corn
-Brevant	B06F91Q™	Q	None	106	Corn
-Brevant	B07H01AM™	AM	None	107	Corn
-Brevant	B07H01Q™	Q	None	107	Corn
-Brevant	B07W09Q™	Q	None	107	Corn
-Brevant	B08C92AML™	AML	None	108	Corn
-Brevant	B08J81AM™	AM	None	108	Corn
-Brevant	B08J81AMXT™	AMXT	None	108	Corn
-Brevant	B08K90Q™	Q	None	108	Corn
-Brevant	B08M75ER™	ENL, RR2	None	108	Corn
-Brevant	B08M75PW™	PWRA	None	108	Corn
-Brevant	B09V75PW™	PWRA	None	109	Corn
-Brevant	B09Z08AM™	AM	None	109	Corn
-Brevant	B10M97Q™	Q	None	110	Corn
-Brevant	B10R89™	CONVENTIONAL	None	110	Corn
-Brevant	B10R89AM™	AM	None	110	Corn
-Brevant	B10R89Q™	Q	None	110	Corn
-Brevant	B10Y90Q™	Q	None	110	Corn
-Brevant	B10Z78SX™	SSTX-RA	None	110	Corn
-Brevant	B10Z78SXE™	ENL, SSTX	None	110	Corn
-Brevant	B11G07AM™	AM	None	111	Corn
-Brevant	B11H09AM™	AM	None	111	Corn
-Brevant	B11V77SX™	SSTX-RA	None	111	Corn
-Brevant	B11W03Q™	Q	None	111	Corn
-Brevant	B11Y01Q™	Q	None	111	Corn
-Brevant	B12C01AM™	AM	None	112	Corn
-Brevant	B12C01Q™	Q	None	112	Corn
-Brevant	B12G75PW™	PWRA	None	112	Corn
-Brevant	B12G75PWE™	ENL, PW	None	112	Corn
-Brevant	B12G75SX™	SSTX-RA	None	112	Corn
-Brevant	B12H75PW™	PWRA	None	112	Corn
-Brevant	B12J90AM™	AM	None	112	Corn
-Brevant	B12J90Q™	Q	None	112	Corn
-Brevant	B13C71SX™	SSTX-RA	None	113	Corn
-Brevant	B13C78SX™	SSTX-RA	None	113	Corn
-Brevant	B13H87™	CONVENTIONAL	None	113	Corn
-Brevant	B13H87AM™	AM	None	113	Corn
-Brevant	B13H87Q™	Q	None	113	Corn
-Brevant	B13K77SX™	SSTX-RA	None	113	Corn
-Brevant	B13Y85AM™	AM	None	113	Corn
-Brevant	B13Y85Q™	Q	None	113	Corn
-Brevant	B14C78SX™	SSTX-RA	None	114	Corn
-Brevant	B14F89Q™	Q	None	114	Corn
-Brevant	B14H75PW™	PWRA	None	114	Corn
-Brevant	B14J04AM™	AM	None	114	Corn
-Brevant	B14W91AM™	AM	None	114	Corn
-Brevant	B14W91Q™	Q	None	114	Corn
-Brevant	B14Z97AM™	AM	None	114	Corn
-Brevant	B14Z97AML™	AML	None	114	Corn
-Brevant	B14Z97Q™	Q	None	114	Corn
-Brevant	B15H98AM™	AM	None	115	Corn
-Brevant	B15J76PWE™	ENL, PW	None	115	Corn
-Brevant	B15M08AM™	AM	None	115	Corn
-Brevant	B16F88AMXT™	AMXT	None	116	Corn
-Brevant	B16J93AM™	AM	None	116	Corn
-Brevant	B16J93Q™	Q	None	116	Corn
-Brevant	B18D78SXE™	ENL, SSTX	None	118	Corn
-Brevant	B76N71R™	R	None	76	Corn
-Brevant	B81F75PW™	POWERCORE	None	81	Corn
-Brevant	B82J92AM™	AM	None	82	Corn
-Brevant	B82J92Q™	Q	None	82	Corn
-Brevant	B82J92R™	R	None	82	Corn
-Brevant	B83K86AM™	AM	None	83	Corn
-Brevant	B83M75ER™	ENL, RR2	None	83	Corn
-Brevant	B83M75PW™	PWRA	None	83	Corn
-Brevant	B83R78SX™	SSTX-RA	None	83	Corn
-Brevant	B85R88AM™	AM	None	85	Corn
-Brevant	B85R88Q™	Q	None	85	Corn
-Brevant	B86K08R™	R	None	86	Corn
-Brevant	B86Y02AM™	AM	None	86	Corn
-Brevant	B87M71GT™	GT	None	87	Corn
-Brevant	B87R93Q™	Q	None	87	Corn
-Brevant	B88J78SX™	SSTX-RA	None	88	Corn
-Brevant	B90R92AM™	AM	None	90	Corn
-Brevant	B90R92Q™	Q	None	90	Corn
-Brevant	B91K05AM™	AM	None	91	Corn
-Brevant	B91K05Q™	Q	None	91	Corn
-Brevant	B92G08AM™	AM	None	92	Corn
-Brevant	B92W94AM™	AM	None	92	Corn
-Brevant	B93R07AM™	AM	None	93	Corn
-Brevant	B93Y02Q™	Q	None	93	Corn
-Brevant	B94Z97AM™	AM	None	94	Corn
-Brevant	B94Z97Q™	Q	None	94	Corn
-Brevant	B95M87AMXT™	AMXT	None	95	Corn
-Brevant	B95V86™	CONVENTIONAL	None	95	Corn
-Brevant	B95V86AM™	AM	None	95	Corn
-Brevant	B95V86R™	R	None	95	Corn
-Brevant	B97F86AMXT™	AMXT	None	97	Corn
-Brevant	B97G09AM™	AM	None	97	Corn
-Brevant	B97G09Q™	Q	None	97	Corn
-Brevant	B97V84AM™	AM	None	97	Corn
-Brevant	B98R95AM™	AM	None	98	Corn
-Brevant	B98R95Q™	Q	None	98	Corn
-Brevant	B98W87AMXT™	AMXT	None	98	Corn
-Brevant	B99J08AM™	AM	None	99	Corn
-Brevant	B99Y79SX™	SSTX-RA	None	99	Corn
-Brevant	B000EE™	E3	None	0.0	Soybeans
-Brevant	B0090EE™	E3	None	00.9	Soybeans
-Brevant	B019EE™	E3	None	0.1	Soybeans
-Brevant	B040EE™	E3	None	0.4	Soybeans
-Brevant	B049EE™	E3	None	0.4	Soybeans
-Brevant	B049RX™	RR2X	None	0.4	Soybeans
-Brevant	B079EE™	EL3	None	0.7	Soybeans
-Brevant	B089EE™	EL3	None	0.8	Soybeans
-Brevant	B090EE™	EL3	None	0.9	Soybeans
-Brevant	B100RX™	RR2X	None	1.0	Soybeans
-Brevant	B119EE™	EL3	None	1.1	Soybeans
-Brevant	B130EE™	EL3	None	1.3	Soybeans
-Brevant	B148LL™	LL	None	1.4	Soybeans
-Brevant	B149EE™	EL3	None	1.4	Soybeans
-Brevant	B159RX™	RR2X	None	1.5	Soybeans
-Brevant	B169EE™	EL3	None	1.6	Soybeans
-Brevant	B179LL™	LL	None	1.7	Soybeans
-Brevant	B209EE™	EL3	None	2.0	Soybeans
-Brevant	B210EE™	EL3	None	2.1	Soybeans
-Brevant	B218LL™	LL	None	2.1	Soybeans
-Brevant	B228RX™	RR2X	None	2.2	Soybeans
-Brevant	B240EE™	EL3	None	2.4	Soybeans
-Brevant	B249EE™	EL3	None	2.4	Soybeans
-Brevant	B259EE™	EL3	None	2.5	Soybeans
-Brevant	B260EE™	EL3	None	2.6	Soybeans
-Brevant	B269EE™	EL3	None	2.6	Soybeans
-Brevant	B279RX™	RR2X	None	2.7	Soybeans
-Brevant	B289EE™	EL3	None	2.8	Soybeans
-Brevant	B299RX™	RR2X	None	2.9	Soybeans
-Brevant	B300EE™	EL3	None	3.0	Soybeans
-Brevant	B309EE™	EL3	None	3.0	Soybeans
-Brevant	B310EE™	EL3	None	3.1	Soybeans
-Brevant	B319EE™	EL3	None	3.1	Soybeans
-Brevant	B320EE™	EL3	None	3.2	Soybeans
-Brevant	B340EE™	EL3	None	3.4	Soybeans
-Brevant	B349RX™	RR2X	None	3.4	Soybeans
-Brevant	B350EE™	EL3	None	3.5	Soybeans
-Brevant	B359EE™	EL3	None	3.5	Soybeans
-Brevant	B360EE™	EL3	None	3.6	Soybeans
-Brevant	B380EE™	EL3	None	3.8	Soybeans
-Brevant	B389EE™	EL3	None	3.8	Soybeans
-Brevant	B390EE™	EL3	None	3.9	Soybeans
-Brevant	B399EE™	EL3	None	3.9	Soybeans
-Brevant	B399RX™	RR2X	None	3.9	Soybeans
-Brevant	B400EE™	EL3	None	4.0	Soybeans
-Brevant	B419EE™	EL3	None	4.1	Soybeans
-Brevant	B420EE™	EL3	None	4.2	Soybeans
-Brevant	B430EE™	EL3	None	4.3	Soybeans
-Brevant	B448LL™	LL	None	4.4	Soybeans
-Brevant	B459EE™	EL3	None	4.5	Soybeans
-Brevant	B460EE™	EL3	None	4.6	Soybeans
-Brevant	B470EE™	EL3	None	4.7	Soybeans
-Brevant	B499EE™	EL3	None	4.9	Soybeans
+Brevant	B00K94AMXTï¿½	AMXT	None	100	Corn
+Brevant	B01Z88AMï¿½	AM	None	101	Corn
+Brevant	B01Z88Qï¿½	Q	None	101	Corn
+Brevant	B02V87ï¿½	CONVENTIONAL	None	102	Corn
+Brevant	B02V87AMï¿½	AM	None	102	Corn
+Brevant	B02V87AMXTï¿½	AMXT	None	102	Corn
+Brevant	B02V87Rï¿½	R	None	102	Corn
+Brevant	B03R87AMï¿½	AM	None	103	Corn
+Brevant	B03R87Qï¿½	Q	None	103	Corn
+Brevant	B04H94Qï¿½	Q	None	104	Corn
+Brevant	B04Z92AMï¿½	AM	None	104	Corn
+Brevant	B04Z92AMXTï¿½	AMXT	None	104	Corn
+Brevant	B04Z92Qï¿½	Q	None	104	Corn
+Brevant	B05M87ï¿½	CONVENTIONAL	None	105	Corn
+Brevant	B05M87AMï¿½	AM	None	105	Corn
+Brevant	B05M87AMXTï¿½	AMXT	None	105	Corn
+Brevant	B06F91Qï¿½	Q	None	106	Corn
+Brevant	B07H01AMï¿½	AM	None	107	Corn
+Brevant	B07H01Qï¿½	Q	None	107	Corn
+Brevant	B07W09Qï¿½	Q	None	107	Corn
+Brevant	B08C92AMLï¿½	AML	None	108	Corn
+Brevant	B08J81AMï¿½	AM	None	108	Corn
+Brevant	B08J81AMXTï¿½	AMXT	None	108	Corn
+Brevant	B08K90Qï¿½	Q	None	108	Corn
+Brevant	B08M75ERï¿½	ENL, RR2	None	108	Corn
+Brevant	B08M75PWï¿½	PWRA	None	108	Corn
+Brevant	B09V75PWï¿½	PWRA	None	109	Corn
+Brevant	B09Z08AMï¿½	AM	None	109	Corn
+Brevant	B10M97Qï¿½	Q	None	110	Corn
+Brevant	B10R89ï¿½	CONVENTIONAL	None	110	Corn
+Brevant	B10R89AMï¿½	AM	None	110	Corn
+Brevant	B10R89Qï¿½	Q	None	110	Corn
+Brevant	B10Y90Qï¿½	Q	None	110	Corn
+Brevant	B10Z78SXï¿½	SSTX-RA	None	110	Corn
+Brevant	B10Z78SXEï¿½	ENL, SSTX	None	110	Corn
+Brevant	B11G07AMï¿½	AM	None	111	Corn
+Brevant	B11H09AMï¿½	AM	None	111	Corn
+Brevant	B11V77SXï¿½	SSTX-RA	None	111	Corn
+Brevant	B11W03Qï¿½	Q	None	111	Corn
+Brevant	B11Y01Qï¿½	Q	None	111	Corn
+Brevant	B12C01AMï¿½	AM	None	112	Corn
+Brevant	B12C01Qï¿½	Q	None	112	Corn
+Brevant	B12G75PWï¿½	PWRA	None	112	Corn
+Brevant	B12G75PWEï¿½	ENL, PW	None	112	Corn
+Brevant	B12G75SXï¿½	SSTX-RA	None	112	Corn
+Brevant	B12H75PWï¿½	PWRA	None	112	Corn
+Brevant	B12J90AMï¿½	AM	None	112	Corn
+Brevant	B12J90Qï¿½	Q	None	112	Corn
+Brevant	B13C71SXï¿½	SSTX-RA	None	113	Corn
+Brevant	B13C78SXï¿½	SSTX-RA	None	113	Corn
+Brevant	B13H87ï¿½	CONVENTIONAL	None	113	Corn
+Brevant	B13H87AMï¿½	AM	None	113	Corn
+Brevant	B13H87Qï¿½	Q	None	113	Corn
+Brevant	B13K77SXï¿½	SSTX-RA	None	113	Corn
+Brevant	B13Y85AMï¿½	AM	None	113	Corn
+Brevant	B13Y85Qï¿½	Q	None	113	Corn
+Brevant	B14C78SXï¿½	SSTX-RA	None	114	Corn
+Brevant	B14F89Qï¿½	Q	None	114	Corn
+Brevant	B14H75PWï¿½	PWRA	None	114	Corn
+Brevant	B14J04AMï¿½	AM	None	114	Corn
+Brevant	B14W91AMï¿½	AM	None	114	Corn
+Brevant	B14W91Qï¿½	Q	None	114	Corn
+Brevant	B14Z97AMï¿½	AM	None	114	Corn
+Brevant	B14Z97AMLï¿½	AML	None	114	Corn
+Brevant	B14Z97Qï¿½	Q	None	114	Corn
+Brevant	B15H98AMï¿½	AM	None	115	Corn
+Brevant	B15J76PWEï¿½	ENL, PW	None	115	Corn
+Brevant	B15M08AMï¿½	AM	None	115	Corn
+Brevant	B16F88AMXTï¿½	AMXT	None	116	Corn
+Brevant	B16J93AMï¿½	AM	None	116	Corn
+Brevant	B16J93Qï¿½	Q	None	116	Corn
+Brevant	B18D78SXEï¿½	ENL, SSTX	None	118	Corn
+Brevant	B76N71Rï¿½	R	None	76	Corn
+Brevant	B81F75PWï¿½	POWERCORE	None	81	Corn
+Brevant	B82J92AMï¿½	AM	None	82	Corn
+Brevant	B82J92Qï¿½	Q	None	82	Corn
+Brevant	B82J92Rï¿½	R	None	82	Corn
+Brevant	B83K86AMï¿½	AM	None	83	Corn
+Brevant	B83M75ERï¿½	ENL, RR2	None	83	Corn
+Brevant	B83M75PWï¿½	PWRA	None	83	Corn
+Brevant	B83R78SXï¿½	SSTX-RA	None	83	Corn
+Brevant	B85R88AMï¿½	AM	None	85	Corn
+Brevant	B85R88Qï¿½	Q	None	85	Corn
+Brevant	B86K08Rï¿½	R	None	86	Corn
+Brevant	B86Y02AMï¿½	AM	None	86	Corn
+Brevant	B87M71GTï¿½	GT	None	87	Corn
+Brevant	B87R93Qï¿½	Q	None	87	Corn
+Brevant	B88J78SXï¿½	SSTX-RA	None	88	Corn
+Brevant	B90R92AMï¿½	AM	None	90	Corn
+Brevant	B90R92Qï¿½	Q	None	90	Corn
+Brevant	B91K05AMï¿½	AM	None	91	Corn
+Brevant	B91K05Qï¿½	Q	None	91	Corn
+Brevant	B92G08AMï¿½	AM	None	92	Corn
+Brevant	B92W94AMï¿½	AM	None	92	Corn
+Brevant	B93R07AMï¿½	AM	None	93	Corn
+Brevant	B93Y02Qï¿½	Q	None	93	Corn
+Brevant	B94Z97AMï¿½	AM	None	94	Corn
+Brevant	B94Z97Qï¿½	Q	None	94	Corn
+Brevant	B95M87AMXTï¿½	AMXT	None	95	Corn
+Brevant	B95V86ï¿½	CONVENTIONAL	None	95	Corn
+Brevant	B95V86AMï¿½	AM	None	95	Corn
+Brevant	B95V86Rï¿½	R	None	95	Corn
+Brevant	B97F86AMXTï¿½	AMXT	None	97	Corn
+Brevant	B97G09AMï¿½	AM	None	97	Corn
+Brevant	B97G09Qï¿½	Q	None	97	Corn
+Brevant	B97V84AMï¿½	AM	None	97	Corn
+Brevant	B98R95AMï¿½	AM	None	98	Corn
+Brevant	B98R95Qï¿½	Q	None	98	Corn
+Brevant	B98W87AMXTï¿½	AMXT	None	98	Corn
+Brevant	B99J08AMï¿½	AM	None	99	Corn
+Brevant	B99Y79SXï¿½	SSTX-RA	None	99	Corn
+Brevant	B000EEï¿½	E3	None	0.0	Soybeans
+Brevant	B0090EEï¿½	E3	None	00.9	Soybeans
+Brevant	B019EEï¿½	E3	None	0.1	Soybeans
+Brevant	B040EEï¿½	E3	None	0.4	Soybeans
+Brevant	B049EEï¿½	E3	None	0.4	Soybeans
+Brevant	B049RXï¿½	RR2X	None	0.4	Soybeans
+Brevant	B079EEï¿½	EL3	None	0.7	Soybeans
+Brevant	B089EEï¿½	EL3	None	0.8	Soybeans
+Brevant	B090EEï¿½	EL3	None	0.9	Soybeans
+Brevant	B100RXï¿½	RR2X	None	1.0	Soybeans
+Brevant	B119EEï¿½	EL3	None	1.1	Soybeans
+Brevant	B130EEï¿½	EL3	None	1.3	Soybeans
+Brevant	B148LLï¿½	LL	None	1.4	Soybeans
+Brevant	B149EEï¿½	EL3	None	1.4	Soybeans
+Brevant	B159RXï¿½	RR2X	None	1.5	Soybeans
+Brevant	B169EEï¿½	EL3	None	1.6	Soybeans
+Brevant	B179LLï¿½	LL	None	1.7	Soybeans
+Brevant	B209EEï¿½	EL3	None	2.0	Soybeans
+Brevant	B210EEï¿½	EL3	None	2.1	Soybeans
+Brevant	B218LLï¿½	LL	None	2.1	Soybeans
+Brevant	B228RXï¿½	RR2X	None	2.2	Soybeans
+Brevant	B240EEï¿½	EL3	None	2.4	Soybeans
+Brevant	B249EEï¿½	EL3	None	2.4	Soybeans
+Brevant	B259EEï¿½	EL3	None	2.5	Soybeans
+Brevant	B260EEï¿½	EL3	None	2.6	Soybeans
+Brevant	B269EEï¿½	EL3	None	2.6	Soybeans
+Brevant	B279RXï¿½	RR2X	None	2.7	Soybeans
+Brevant	B289EEï¿½	EL3	None	2.8	Soybeans
+Brevant	B299RXï¿½	RR2X	None	2.9	Soybeans
+Brevant	B300EEï¿½	EL3	None	3.0	Soybeans
+Brevant	B309EEï¿½	EL3	None	3.0	Soybeans
+Brevant	B310EEï¿½	EL3	None	3.1	Soybeans
+Brevant	B319EEï¿½	EL3	None	3.1	Soybeans
+Brevant	B320EEï¿½	EL3	None	3.2	Soybeans
+Brevant	B340EEï¿½	EL3	None	3.4	Soybeans
+Brevant	B349RXï¿½	RR2X	None	3.4	Soybeans
+Brevant	B350EEï¿½	EL3	None	3.5	Soybeans
+Brevant	B359EEï¿½	EL3	None	3.5	Soybeans
+Brevant	B360EEï¿½	EL3	None	3.6	Soybeans
+Brevant	B380EEï¿½	EL3	None	3.8	Soybeans
+Brevant	B389EEï¿½	EL3	None	3.8	Soybeans
+Brevant	B390EEï¿½	EL3	None	3.9	Soybeans
+Brevant	B399EEï¿½	EL3	None	3.9	Soybeans
+Brevant	B399RXï¿½	RR2X	None	3.9	Soybeans
+Brevant	B400EEï¿½	EL3	None	4.0	Soybeans
+Brevant	B419EEï¿½	EL3	None	4.1	Soybeans
+Brevant	B420EEï¿½	EL3	None	4.2	Soybeans
+Brevant	B430EEï¿½	EL3	None	4.3	Soybeans
+Brevant	B448LLï¿½	LL	None	4.4	Soybeans
+Brevant	B459EEï¿½	EL3	None	4.5	Soybeans
+Brevant	B460EEï¿½	EL3	None	4.6	Soybeans
+Brevant	B470EEï¿½	EL3	None	4.7	Soybeans
+Brevant	B499EEï¿½	EL3	None	4.9	Soybeans
 Agrigold	A6719	VT2PRO	None	118	Corn
 Agrigold	A6711	VT2PRO	None	118	Corn
 Agrigold	A648-54	STX	None	118	Corn
@@ -452,336 +452,336 @@ Agrigold	G1085RX	RR2X	None	1.0	Soybeans
 Agrigold	G0806XF	XTENDFLEX	None	0.8	Soybeans
 Agrigold	G0652RX	RR2X	None	0.6	Soybeans
 Agrigold	G0520RX	RR2X	None	0.5	Soybeans
-Agventure	RL1742HB™*	Herculex® I	None	79	Corn
-Agventure	G1912™	Agrisure® GT	None	80	Corn
-Agventure	2038™	Conventional	None	81	Corn
-Agventure	AV2282AM™*	Optimum® AcreMax®	None	82	Corn
-Agventure	AV5382AM™*	Optimum® AcreMax®	None	82	Corn
-Agventure	RL2289HB™*	Herculex® I	None	82	Corn
-Agventure	RL2774HB™*	Herculex® I	None	84	Corn
-Agventure	AV2985ABW™	Agrisure® 3000GT	None	86	Corn
-Agventure	AV2985G™	Agrisure® GT	None	86	Corn
-Agventure	AV2985™	Conventional	None	86	Corn
-Agventure	AV2787AM™*	Optimum® AcreMax®	None	87	Corn
-Agventure	AV1889™	Conventional	None	89	Corn
-Agventure	AV4291AB™	Agrisure® GT/CB/LL	None	91	Corn
-Agventure	AV4291V10™	Agrisure Viptera® 3110	None	91	Corn
-Agventure	4342™	Conventional	None	92	Corn
-Agventure	R4492™*	Roundup Ready® Corn 2	None	93	Corn
-Agventure	RL4492AMX™*	Optimum® AcreMax® Xtra	None	93	Corn
-Agventure	AV4994AMXT™	Optimum® AcreMax® XTreme	None	94	Corn
-Agventure	AV4994AM™*	Optimum® AcreMax®	None	94	Corn
-Agventure	AV2695AM™*	Optimum® AcreMax®	None	95	Corn
-Agventure	R5015™*	Roundup Ready® Corn 2	None	95	Corn
-Agventure	RL5015AMX™*	Optimum® AcreMax® Xtra	None	95	Corn
-Agventure	RL5015AM™*	Optimum® AcreMax®	None	95	Corn
-Agventure	AV4896AM™*	Optimum® AcreMax®	None	96	Corn
-Agventure	AV5096AMXT™	Optimum® AcreMax® XTreme	None	96	Corn
-Agventure	AV5096AM™*	Optimum® AcreMax®	None	96	Corn
-Agventure	R5039™*	Roundup Ready® Corn 2	None	96	Corn
-Agventure	AV5597AM™*	Optimum® AcreMax®	None	97	Corn
-Agventure	AV3598AM™*	Optimum® AcreMax®	None	98	Corn
-Agventure	5359™	Conventional	None	99	Corn
-Agventure	5604™	Conventional	None	99	Corn
-Agventure	5718™*	Conventional	None	99	Corn
-Agventure	AV5799AMXT™	Optimum® AcreMax® XTreme	None	99	Corn
-Agventure	AV5799AM™*	Optimum® AcreMax®	None	99	Corn
-Agventure	AV5799R™*	Roundup Ready® Corn 2	None	99	Corn
-Agventure	AV5799™*	Conventional	None	99	Corn
-Agventure	G5359™	Agrisure® GT	None	99	Corn
-Agventure	GL5359V11™	Agrisure Viptera® 3111	None	99	Corn
-Agventure	R5718™*	Roundup Ready® Corn 2	None	99	Corn
-Agventure	RL5671AMX™*	Optimum® AcreMax® Xtra	None	99	Corn
-Agventure	RL5671AM™*	Optimum® AcreMax®	None	99	Corn
-Agventure	AV3800AMXT™	Optimum® AcreMax® XTreme	None	100	Corn
-Agventure	6134™*	Conventional	None	101	Corn
-Agventure	AV6002AMXT™	Optimum® AcreMax® XTreme	None	101	Corn
-Agventure	AV6002AM™*	Optimum® AcreMax®	None	101	Corn
-Agventure	G6078™	Agrisure® GT	None	101	Corn
-Agventure	GL6078ABW™	Agrisure® 3000GT	None	101	Corn
-Agventure	RL6134AM™*	Optimum® AcreMax®	None	101	Corn
-Agventure	6283™*	Conventional	None	102	Corn
-Agventure	AV6202AMXT™	Optimum® AcreMax® XTreme	None	102	Corn
-Agventure	AV6202AM™*	Optimum® AcreMax®	None	102	Corn
-Agventure	AV6302AM™*	Optimum® AcreMax®	None	102	Corn
-Agventure	AV6302™*	Conventional	None	102	Corn
-Agventure	R6283™*	Roundup Ready® Corn 2	None	102	Corn
-Agventure	RL6283HBAW™	Optimum® TRIsect®	None	102	Corn
-Agventure	AV2404AM™*	Optimum® AcreMax®	None	104	Corn
-Agventure	AV4104AM™*	Optimum® AcreMax®	None	104	Corn
-Agventure	AV4104Q™	Qrome®	None	104	Corn
-Agventure	AV4104YHB™*	Optimum® Intrasect®	None	104	Corn
-Agventure	AV6404AMXT™	Optimum® AcreMax® XTreme	None	104	Corn
-Agventure	AV6404AM™*	Optimum® AcreMax®	None	104	Corn
-Agventure	AV6404YHB™*	Optimum® Intrasect®	None	104	Corn
-Agventure	AV8804Q™	Qrome®	None	104	Corn
-Agventure	GL6712V11™	Agrisure Viptera® 3111	None	104	Corn
-Agventure	R6786™*	Roundup Ready® Corn 2	None	104	Corn
-Agventure	RL6786HB™*	Herculex® I	None	104	Corn
-Agventure	AV6705AMXT™	Optimum® AcreMax® XTreme	None	105	Corn
-Agventure	AV6705AM™*	Optimum® AcreMax®	None	105	Corn
-Agventure	AV6705R™*	Roundup Ready® Corn 2	None	105	Corn
-Agventure	AV6705YHB™*	Optimum® Intrasect®	None	105	Corn
-Agventure	AV6705™*	Conventional	None	105	Corn
-Agventure	AV6805AMX™*	Optimum® AcreMax® Xtra	None	105	Corn
-Agventure	AV6805AM™*	Optimum® AcreMax®	None	105	Corn
-Agventure	AV6805YHB™*	Optimum® Intrasect®	None	105	Corn
-Agventure	7087™*	Conventional	None	106	Corn
-Agventure	AV3206AM™*	Optimum® AcreMax®	None	106	Corn
-Agventure	AV3206Q™	Qrome®	None	106	Corn
-Agventure	AV3206YHB™*	Optimum® Intrasect®	None	106	Corn
-Agventure	RL7087HBW™*	Herculex® XTRA	None	106	Corn
-Agventure	RL7087HB™*	Herculex® I	None	106	Corn
-Agventure	AV7007AMXT™	Optimum® AcreMax® XTreme	None	107	Corn
-Agventure	AV7307AMXT™	Optimum® AcreMax® XTreme	None	107	Corn
-Agventure	AV7307AM™*	Optimum® AcreMax®	None	107	Corn
-Agventure	AV7307YHB™*	Optimum® Intrasect®	None	107	Corn
-Agventure	AV7307™*	Conventional	None	107	Corn
-Agventure	G7254™	Agrisure® GT	None	107	Corn
-Agventure	AV2908Q™	Qrome®	None	108	Corn
-Agventure	AV7408AM™*	Optimum® AcreMax®	None	108	Corn
-Agventure	AV7408Q™	Qrome®	None	108	Corn
-Agventure	AV7408YHB™*	Optimum® Intrasect®	None	108	Corn
-Agventure	AV7408™*	Conventional	None	108	Corn
-Agventure	AV7608AM™*	Optimum® AcreMax®	None	108	Corn
-Agventure	AV7808AM™*	Optimum® AcreMax®	None	108	Corn
-Agventure	AV7808Q™	Qrome®	None	108	Corn
-Agventure	AV7808YHB™*	Optimum® Intrasect®	None	108	Corn
-Agventure	RL7497AM™*	Optimum® AcreMax®	None	108	Corn
-Agventure	AV4509AML™*	Optimum® AcreMax® Leptra®	None	109	Corn
-Agventure	AV7673™	Conventional	None	109	Corn
-Agventure	RL7673HBW™*	Herculex® XTRA	None	109	Corn
-Agventure	RL7687AMX™*	Optimum® AcreMax® Xtra	None	109	Corn
-Agventure	RL7687AM™*	Optimum® AcreMax®	None	109	Corn
-Agventure	RL7687YHB™*	Optimum® Intrasect®	None	109	Corn
-Agventure	7844™*	Conventional	None	110	Corn
-Agventure	AV5410Q™	Qrome®	None	110	Corn
-Agventure	AV7110AM™*	Optimum® AcreMax®	None	110	Corn
-Agventure	AV7110Q™	Qrome®	None	110	Corn
-Agventure	AV7910AMX™*	Optimum® AcreMax® Xtra	None	110	Corn
-Agventure	AV7910AM™*	Optimum® AcreMax®	None	110	Corn
-Agventure	AV7910YHB™*	Optimum® Intrasect®	None	110	Corn
-Agventure	AV7910™*	Conventional	None	110	Corn
-Agventure	R7844™*	Roundup Ready® Corn 2	None	110	Corn
-Agventure	RL7844AMX™*	Optimum® AcreMax® Xtra	None	110	Corn
-Agventure	RL7844AM™*	Optimum® AcreMax®	None	110	Corn
-Agventure	RL7844YHBW™*	Optimum® Intrasect® Xtra	None	110	Corn
-Agventure	RL7844YHB™*	Optimum® Intrasect®	None	110	Corn
-Agventure	AV3411AM™*	Optimum® AcreMax®	None	111	Corn
-Agventure	AV3411YHB™*	Optimum® Intrasect®	None	111	Corn
-Agventure	AV4211Q™	Qrome®	None	111	Corn
-Agventure	AV8211AM™*	Optimum® AcreMax®	None	111	Corn
-Agventure	AV8311AMXT™	Optimum® AcreMax® XTreme	None	111	Corn
-Agventure	AV8311AM™*	Optimum® AcreMax®	None	111	Corn
-Agventure	AV8311YHB™*	Optimum® Intrasect®	None	111	Corn
-Agventure	R8154™*	Roundup Ready® Corn 2	None	111	Corn
-Agventure	RL8055HBW™*	Herculex® XTRA	None	111	Corn
-Agventure	AV8212AM™*	Optimum® AcreMax®	None	112	Corn
-Agventure	AV8212YHB™*	Optimum® Intrasect®	None	112	Corn
-Agventure	RL8387HBAW™	Optimum® TRIsect®	None	112	Corn
-Agventure	RL8387YHB™*	Optimum® Intrasect®	None	112	Corn
-Agventure	8430™*	Conventional	None	113	Corn
-Agventure	AV8113AMXT™	Optimum® AcreMax® XTreme	None	113	Corn
-Agventure	AV8113AM™*	Optimum® AcreMax®	None	113	Corn
-Agventure	AV8113Q™	Qrome®	None	113	Corn
-Agventure	AV8113YHB™*	Optimum® Intrasect®	None	113	Corn
-Agventure	AV8113™*	Conventional	None	113	Corn
-Agventure	AV8413R™*	Roundup Ready® Corn 2	None	113	Corn
-Agventure	AV8430VYHR™*	Optimum® Leptra®	None	113	Corn
-Agventure	AV8513AMXT™	Optimum® AcreMax® XTreme	None	113	Corn
-Agventure	AV8513AM™*	Optimum® AcreMax®	None	113	Corn
-Agventure	AV8513Q™	Qrome®	None	113	Corn
-Agventure	AV8513YHB™*	Optimum® Intrasect®	None	113	Corn
-Agventure	RL8430AMX™*	Optimum® AcreMax® Xtra	None	113	Corn
-Agventure	RL8430AM™*	Optimum® AcreMax®	None	113	Corn
-Agventure	RL8430YHB™*	Optimum® Intrasect®	None	113	Corn
-Agventure	RL8484AMX™*	Optimum® AcreMax® Xtra	None	113	Corn
-Agventure	RL8537AM™*	Optimum® AcreMax®	None	113	Corn
-Agventure	RL8537VYHR™*	Optimum® Leptra®	None	113	Corn
-Agventure	AV8614AMXT™	Optimum® AcreMax® XTreme	None	114	Corn
-Agventure	AV8614AM™*	Optimum® AcreMax®	None	114	Corn
-Agventure	AV8614Q™	Qrome®	None	114	Corn
-Agventure	AV8614R™*	Roundup Ready® Corn 2	None	114	Corn
-Agventure	AV8614YHB™*	Optimum® Intrasect®	None	114	Corn
-Agventure	AV8714AMXT™	Optimum® AcreMax® XTreme	None	114	Corn
-Agventure	AV8714AM™*	Optimum® AcreMax®	None	114	Corn
-Agventure	AV8714R™*	Roundup Ready® Corn 2	None	114	Corn
-Agventure	AV8714VYHR™*	Optimum® Leptra®	None	114	Corn
-Agventure	AV8714YHB™*	Optimum® Intrasect®	None	114	Corn
-Agventure	AV8714™*	Conventional	None	114	Corn
-Agventure	RL8767HBAW™	Optimum® TRIsect®	None	114	Corn
-Agventure	RL8767HB™*	Herculex® I	None	114	Corn
-Agventure	8899™*	Conventional	None	115	Corn
-Agventure	AV8015AM™*	Optimum® AcreMax®	None	115	Corn
-Agventure	AV8015YHB™*	Optimum® Intrasect®	None	115	Corn
-Agventure	AV8815YHB™*	Optimum® Intrasect®	None	115	Corn
-Agventure	AV8915AMXT™	Optimum® AcreMax® XTreme	None	115	Corn
-Agventure	AV8915AM™*	Optimum® AcreMax®	None	115	Corn
-Agventure	AV8915YHB™*	Optimum® Intrasect®	None	115	Corn
-Agventure	AV8915™*	Conventional	None	115	Corn
-Agventure	R8899™*	Roundup Ready® Corn 2	None	115	Corn
-Agventure	RL8899AM™*	Optimum® AcreMax®	None	115	Corn
-Agventure	RL8899YHB™*	Optimum® Intrasect®	None	115	Corn
-Agventure	RL8929AM™*	Optimum® AcreMax®	None	115	Corn
-Agventure	AV7516AM™*	Optimum® AcreMax®	None	116	Corn
-Agventure	AV7516Q™	Qrome®	None	116	Corn
-Agventure	AV7516YHB™*	Optimum® Intrasect®	None	116	Corn
-Agventure	AV8216AM™*	Optimum® AcreMax®	None	116	Corn
-Agventure	AV8216YHB™*	Optimum® Intrasect®	None	116	Corn
-Agventure	R8950™*	Roundup Ready® Corn 2	None	116	Corn
-Agventure	AV3917YHB™*	Optimum® Intrasect®	None	117	Corn
-Agventure	AV9817YHB™*	Optimum® Intrasect®	None	117	Corn
-Agventure	RL9256HB™*	Herculex® I	None	117	Corn
-Agventure	AV9583VYHR™*	Optimum® Leptra®	None	118	Corn
-Agventure	R9583™*	Roundup Ready® Corn 2	None	118	Corn
-Agventure	RL9583YHB™*	Optimum® Intrasect®	None	118	Corn
-Agventure	R9858™*	Roundup Ready® Corn 2	None	120	Corn
-Agventure	RL9801YHB™*	Optimum® Intrasect®	None	120	Corn
-Agventure	R9795™*	Roundup Ready® Corn 2	None	121	Corn
-Agventure	04V8X™	RoundupReady 2 Xtend Soybean	None	0.4	Soybeans
-Agventure	AV06V6E™	Enlist E3 Soybean	None	0.6	Soybeans
-Agventure	07V9X™	RoundupReady 2 Xtend Soybean	None	0.7	Soybeans
-Agventure	09V2X™	RoundupReady 2 Xtend Soybean	None	0.9	Soybeans
-Agventure	10H7R2™	Roundup Ready 2 Yield Soybean	None	1	Soybeans
-Agventure	12V4X™	RoundupReady 2 Xtend Soybean	None	1.2	Soybeans
-Agventure	14V4X™	RoundupReady 2 Xtend Soybean	None	1.4	Soybeans
-Agventure	17U7X™	RoundupReady 2 Xtend Soybean	None	1.7	Soybeans
-Agventure	17W5R™	Glyphosate Tolerant Soybean	None	1.7	Soybeans
-Agventure	AV17V3LL™	LibertyLink Soybean	None	1.7	Soybeans
-Agventure	18U4R™	Glyphosate Tolerant Soybean	None	1.8	Soybeans
-Agventure	18V9X™	RoundupReady 2 Xtend Soybean	None	1.8	Soybeans
-Agventure	20U6R™	Glyphosate Tolerant Soybean	None	2.0	Soybeans
-Agventure	20V1X™	RoundupReady 2 Xtend Soybean	None	2.0	Soybeans
-Agventure	AV20V2E™	Enlist E3 Soybean	None	2.0	Soybeans
-Agventure	21M7R™	Glyphosate Tolerant Soybean	None	2.1	Soybeans
-Agventure	22E1RR™	Glyphosate Tolerant Soybean	None	2.2	Soybeans
-Agventure	22U8X™	RoundupReady 2 Xtend Soybean	None	2.2	Soybeans
-Agventure	AV22U2LL™	LibertyLink Soybean	None	2.2	Soybeans
-Agventure	AV22V3E™	Enlist E3 Soybean	None	2.2	Soybeans
-Agventure	23K3RR™	Glyphosate Tolerant Soybean	None	2.3	Soybeans
-Agventure	23U5R™	Glyphosate Tolerant Soybean	None	2.3	Soybeans
-Agventure	AV23W0™	Conventional Soybean	None	2.3	Soybeans
-Agventure	AV24U6LL™	LibertyLink Soybean	None	2.4	Soybeans
-Agventure	AV24V4E™	Enlist E3 Soybean	None	2.4	Soybeans
-Agventure	AV24V7E™	Enlist E3 Soybean	None	2.4	Soybeans
-Agventure	25U4X™	RoundupReady 2 Xtend Soybean	None	2.5	Soybeans
-Agventure	25W2R™	Glyphosate Tolerant Soybean	None	2.5	Soybeans
-Agventure	26V5X™	RoundupReady 2 Xtend Soybean	None	2.6	Soybeans
-Agventure	26W9R™	Glyphosate Tolerant Soybean	None	2.6	Soybeans
-Agventure	AV26H4LL™	LibertyLink Soybean	None	2.6	Soybeans
-Agventure	AV26V8LL™	LibertyLink Soybean	None	2.6	Soybeans
-Agventure	27B3RR™	Glyphosate Tolerant Soybean	None	2.7	Soybeans
-Agventure	27M5R™	Glyphosate Tolerant Soybean	None	2.7	Soybeans
-Agventure	27V2X™	RoundupReady 2 Xtend Soybean	None	2.7	Soybeans
-Agventure	AV27V4E™	Enlist E3 Soybean	None	2.7	Soybeans
-Agventure	28U7X™	RoundupReady 2 Xtend Soybean	None	2.8	Soybeans
-Agventure	28W1R™	Glyphosate Tolerant Soybean	None	2.8	Soybeans
-Agventure	28Z4RR™	Glyphosate Tolerant Soybean	None	2.8	Soybeans
-Agventure	AV28B3LL™	LibertyLink Soybean	None	2.8	Soybeans
-Agventure	AV28U0™	Conventional Soybean	None	2.8	Soybeans
-Agventure	AV28U5LL™	LibertyLink Soybean	None	2.8	Soybeans
-Agventure	AV28V8E™	Enlist E3 Soybean	None	2.8	Soybeans
-Agventure	29U2R™	Glyphosate Tolerant Soybean	None	2.9	Soybeans
-Agventure	29V6X™	RoundupReady 2 Xtend Soybean	None	2.9	Soybeans
-Agventure	30W4R™	Glyphosate Tolerant Soybean	None	3	Soybeans
-Agventure	AV30H0™	Conventional Soybean	None	3	Soybeans
-Agventure	AV30V7E™	Enlist E3 Soybean	None	3.0	Soybeans
-Agventure	AV30V8LL™	LibertyLink Soybean	None	3.0	Soybeans
-Agventure	31V3X™	RoundupReady 2 Xtend Soybean	None	3.1	Soybeans
-Agventure	AV31V1E™	Enlist E3 Soybean	None	3.1	Soybeans
-Agventure	AV31V7E™	Enlist E3 Soybean	None	3.1	Soybeans
-Agventure	AV31Z8LL™	LibertyLink Soybean	None	3.1	Soybeans
-Agventure	32U2R™	Glyphosate Tolerant Soybean	None	3.2	Soybeans
-Agventure	32Z7RR™	Glyphosate Tolerant Soybean	None	3.2	Soybeans
-Agventure	AV32U9LL™	LibertyLink Soybean	None	3.2	Soybeans
-Agventure	AV32V1E™	Enlist E3 Soybean	None	3.2	Soybeans
-Agventure	AV32V5E™	Enlist E3 Soybean	None	3.2	Soybeans
-Agventure	33U4X™	RoundupReady 2 Xtend Soybean	None	3.3	Soybeans
-Agventure	33Z3R™	Glyphosate Tolerant Soybean	None	3.3	Soybeans
-Agventure	AV33V7LL™	LibertyLink Soybean	None	3.3	Soybeans
-Agventure	34U5R™	Glyphosate Tolerant Soybean	None	3.4	Soybeans
-Agventure	34V9X™	RoundupReady 2 Xtend Soybean	None	3.4	Soybeans
-Agventure	AV34V4E™	Enlist E3 Soybean	None	3.4	Soybeans
-Agventure	AV34V6LL™	LibertyLink Soybean	None	3.4	Soybeans
-Agventure	AV34W0STS™	Conventional STS Tolerant Soybean	None	3.4	Soybeans
-Agventure	35M7R™	Glyphosate Tolerant Soybean	None	3.5	Soybeans
-Agventure	35W3R™	Glyphosate Tolerant Soybean	None	3.5	Soybeans
-Agventure	AV35H8LL™	LibertyLink Soybean	None	3.5	Soybeans
-Agventure	AV35V6E™	Enlist E3 Soybean	None	3.5	Soybeans
-Agventure	AV35V7E™	Enlist E3 Soybean	None	3.5	Soybeans
-Agventure	36M4X™	RoundupReady 2 Xtend Soybean	None	3.6	Soybeans
-Agventure	36U6R™	Glyphosate Tolerant Soybean	None	3.6	Soybeans
-Agventure	AV36V3E™	Enlist E3 Soybean	None	3.6	Soybeans
-Agventure	37U1BR™	Glyphosate Tolerant / Bolt Soybean	None	3.7	Soybeans
-Agventure	37Z3RR™	Glyphosate Tolerant Soybean	None	3.7	Soybeans
-Agventure	AV37V0™	Conventional Soybean	None	3.7	Soybeans
-Agventure	AV37V4LL™	LibertyLink Soybean	None	3.7	Soybeans
-Agventure	38H4R™	Glyphosate Tolerant Soybean	None	3.8	Soybeans
-Agventure	38U7X™	RoundupReady 2 Xtend Soybean	None	3.8	Soybeans
-Agventure	38W5X™	RoundupReady 2 Xtend Soybean	None	3.8	Soybeans
-Agventure	AV38E8LL™	LibertyLink Soybean	None	3.8	Soybeans
-Agventure	39U9X™	RoundupReady 2 Xtend Soybean	None	3.9	Soybeans
-Agventure	39W8X™	RoundupReady 2 Xtend Soybean	None	3.9	Soybeans
-Agventure	AV39E0™	Conventional Soybean	None	3.9	Soybeans
-Agventure	AV39V4E™	Enlist E3 Soybean	None	3.9	Soybeans
-Agventure	AV39V5LL™	LibertyLink Soybean	None	3.9	Soybeans
-Agventure	40W6R™	Glyphosate Tolerant Soybean	None	4	Soybeans
-Agventure	AV40U8LL™	LibertyLink Soybean	None	4.0	Soybeans
-Agventure	AV40V1E™	Enlist E3 Soybean	None	4.0	Soybeans
-Agventure	AV40V7E™	Enlist E3 Soybean	None	4.0	Soybeans
-Agventure	41B1RR™	Glyphosate Tolerant Soybean	None	4.1	Soybeans
-Agventure	41V4X™	RoundupReady 2 Xtend Soybean	None	4.1	Soybeans
-Agventure	41W7X™	RoundupReady 2 Xtend Soybean	None	4.1	Soybeans
-Agventure	AV41B5LL™	LibertyLink Soybean	None	4.1	Soybeans
-Agventure	AV41H1LL™	LibertyLink Soybean	None	4.1	Soybeans
-Agventure	42V8X™	RoundupReady 2 Xtend Soybean	None	4.2	Soybeans
-Agventure	AV42V2E™	Enlist E3 Soybean	None	4.2	Soybeans
-Agventure	43U2X™	RoundupReady 2 Xtend Soybean	None	4.3	Soybeans
-Agventure	43W1R™	Glyphosate Tolerant Soybean	None	4.3	Soybeans
-Agventure	AV43M4LL™	LibertyLink Soybean	None	4.3	Soybeans
-Agventure	AV43U6LL™	LibertyLink Soybean	None	4.3	Soybeans
-Agventure	AV43V8LL™	LibertyLink Soybean	None	4.3	Soybeans
-Agventure	44U9BR™	Glyphosate Tolerant / Bolt Soybean	None	4.4	Soybeans
-Agventure	44Z8RRSTS™	Glyphosate Tolerant Soybean	None	4.4	Soybeans
-Agventure	AV44U4LL™	LibertyLink Soybean	None	4.4	Soybeans
-Agventure	45U1X™	RoundupReady 2 Xtend Soybean	None	4.5	Soybeans
-Agventure	45W7R™	Glyphosate Tolerant Soybean	None	4.5	Soybeans
-Agventure	AV45V8E™	Enlist E3 Soybean	None	4.5	Soybeans
-Agventure	46V6X™	RoundupReady 2 Xtend Soybean	None	4.6	Soybeans
-Agventure	AV46M8LL™	LibertyLink Soybean	None	4.6	Soybeans
-Agventure	AV46V9LL™	LibertyLink Soybean	None	4.6	Soybeans
-Agventure	47E1RR™	Glyphosate Tolerant Soybean	None	4.7	Soybeans
-Agventure	47M7R™	Glyphosate Tolerant Soybean	None	4.7	Soybeans
-Agventure	47U8R™	Glyphosate Tolerant Soybean	None	4.8	Soybeans
-Agventure	47W2X™	RoundupReady 2 Xtend Soybean	None	4.7	Soybeans
-Agventure	AV47V4LL™	LibertyLink Soybean	None	4.7	Soybeans
-Agventure	AV47W3LL™	LibertyLink Soybean	None	4.7	Soybeans
-Agventure	48E3RR™	Glyphosate Tolerant Soybean	None	4.8	Soybeans
-Agventure	48E5R2STS™	Roundup Ready 2 Yield Soybean	None	4.8	Soybeans
-Agventure	48V1X™	RoundupReady 2 Xtend Soybean	None	4.8	Soybeans
-Agventure	AV48V2E™	Enlist E3 Soybean	None	4.8	Soybeans
-Agventure	AV48V8LL™	LibertyLink Soybean	None	4.8	Soybeans
-Agventure	49H4R™	Glyphosate Tolerant Soybean	None	4.9	Soybeans
-Agventure	49W3X™	RoundupReady 2 Xtend Soybean	None	4.9	Soybeans
-Agventure	AV49V9E™	Enlist E3 Soybean	None	4.9	Soybeans
-Agventure	AV49W5LL™	LibertyLink Soybean	None	4.9	Soybeans
-Agventure	50U5R™	Glyphosate Tolerant Soybean	None	5.0	Soybeans
-Agventure	50V3X™	RoundupReady 2 Xtend Soybean	None	5.0	Soybeans
-Agventure	51U6XSTS™	RoundupReady 2 Xtend Soybean	None	5.1	Soybeans
-Agventure	AV51V7E™	Enlist E3 Soybean	None	5.1	Soybeans
-Agventure	AV51W1LL™	LibertyLink Soybean	None	5.1	Soybeans
-Agventure	52M7RSTS™	Glyphosate Tolerant Soybean	None	5.2	Soybeans
-Agventure	52U9BR™	Glyphosate Tolerant / Bolt Soybean	None	5.2	Soybeans
-Agventure	AV53W8LL™	LibertyLink Soybean	None	5.3	Soybeans
-Agventure	54K4RR™	Glyphosate Tolerant Soybean	None	5.4	Soybeans
-Agventure	54U7X™	RoundupReady 2 Xtend Soybean	None	5.4	Soybeans
-Agventure	56W6R™	Glyphosate Tolerant Soybean	None	5.6	Soybeans
-Agventure	57V5X™	RoundupReady 2 Xtend Soybean	None	5.7	Soybeans
-Agventure	58M8R™	Glyphosate Tolerant Soybean	None	5.8	Soybeans
-Agventure	62V2X™	RoundupReady 2 Xtend Soybean	None	6.2	Soybeans
-Agventure	67W7X™	RoundupReady 2 Xtend Soybean	None	6.7	Soybeans
-Agventure	70V7X™	RoundupReady 2 Xtend Soybean	None	7.0	Soybeans
-Agventure	72W7X™	RoundupReady 2 Xtend Soybean	None	7.2	Soybeans
+Agventure	RL1742HBï¿½*	Herculexï¿½ I	None	79	Corn
+Agventure	G1912ï¿½	Agrisureï¿½ GT	None	80	Corn
+Agventure	2038ï¿½	Conventional	None	81	Corn
+Agventure	AV2282AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	82	Corn
+Agventure	AV5382AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	82	Corn
+Agventure	RL2289HBï¿½*	Herculexï¿½ I	None	82	Corn
+Agventure	RL2774HBï¿½*	Herculexï¿½ I	None	84	Corn
+Agventure	AV2985ABWï¿½	Agrisureï¿½ 3000GT	None	86	Corn
+Agventure	AV2985Gï¿½	Agrisureï¿½ GT	None	86	Corn
+Agventure	AV2985ï¿½	Conventional	None	86	Corn
+Agventure	AV2787AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	87	Corn
+Agventure	AV1889ï¿½	Conventional	None	89	Corn
+Agventure	AV4291ABï¿½	Agrisureï¿½ GT/CB/LL	None	91	Corn
+Agventure	AV4291V10ï¿½	Agrisure Vipteraï¿½ 3110	None	91	Corn
+Agventure	4342ï¿½	Conventional	None	92	Corn
+Agventure	R4492ï¿½*	Roundup Readyï¿½ Corn 2	None	93	Corn
+Agventure	RL4492AMXï¿½*	Optimumï¿½ AcreMaxï¿½ Xtra	None	93	Corn
+Agventure	AV4994AMXTï¿½	Optimumï¿½ AcreMaxï¿½ XTreme	None	94	Corn
+Agventure	AV4994AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	94	Corn
+Agventure	AV2695AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	95	Corn
+Agventure	R5015ï¿½*	Roundup Readyï¿½ Corn 2	None	95	Corn
+Agventure	RL5015AMXï¿½*	Optimumï¿½ AcreMaxï¿½ Xtra	None	95	Corn
+Agventure	RL5015AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	95	Corn
+Agventure	AV4896AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	96	Corn
+Agventure	AV5096AMXTï¿½	Optimumï¿½ AcreMaxï¿½ XTreme	None	96	Corn
+Agventure	AV5096AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	96	Corn
+Agventure	R5039ï¿½*	Roundup Readyï¿½ Corn 2	None	96	Corn
+Agventure	AV5597AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	97	Corn
+Agventure	AV3598AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	98	Corn
+Agventure	5359ï¿½	Conventional	None	99	Corn
+Agventure	5604ï¿½	Conventional	None	99	Corn
+Agventure	5718ï¿½*	Conventional	None	99	Corn
+Agventure	AV5799AMXTï¿½	Optimumï¿½ AcreMaxï¿½ XTreme	None	99	Corn
+Agventure	AV5799AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	99	Corn
+Agventure	AV5799Rï¿½*	Roundup Readyï¿½ Corn 2	None	99	Corn
+Agventure	AV5799ï¿½*	Conventional	None	99	Corn
+Agventure	G5359ï¿½	Agrisureï¿½ GT	None	99	Corn
+Agventure	GL5359V11ï¿½	Agrisure Vipteraï¿½ 3111	None	99	Corn
+Agventure	R5718ï¿½*	Roundup Readyï¿½ Corn 2	None	99	Corn
+Agventure	RL5671AMXï¿½*	Optimumï¿½ AcreMaxï¿½ Xtra	None	99	Corn
+Agventure	RL5671AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	99	Corn
+Agventure	AV3800AMXTï¿½	Optimumï¿½ AcreMaxï¿½ XTreme	None	100	Corn
+Agventure	6134ï¿½*	Conventional	None	101	Corn
+Agventure	AV6002AMXTï¿½	Optimumï¿½ AcreMaxï¿½ XTreme	None	101	Corn
+Agventure	AV6002AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	101	Corn
+Agventure	G6078ï¿½	Agrisureï¿½ GT	None	101	Corn
+Agventure	GL6078ABWï¿½	Agrisureï¿½ 3000GT	None	101	Corn
+Agventure	RL6134AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	101	Corn
+Agventure	6283ï¿½*	Conventional	None	102	Corn
+Agventure	AV6202AMXTï¿½	Optimumï¿½ AcreMaxï¿½ XTreme	None	102	Corn
+Agventure	AV6202AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	102	Corn
+Agventure	AV6302AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	102	Corn
+Agventure	AV6302ï¿½*	Conventional	None	102	Corn
+Agventure	R6283ï¿½*	Roundup Readyï¿½ Corn 2	None	102	Corn
+Agventure	RL6283HBAWï¿½	Optimumï¿½ TRIsectï¿½	None	102	Corn
+Agventure	AV2404AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	104	Corn
+Agventure	AV4104AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	104	Corn
+Agventure	AV4104Qï¿½	Qromeï¿½	None	104	Corn
+Agventure	AV4104YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	104	Corn
+Agventure	AV6404AMXTï¿½	Optimumï¿½ AcreMaxï¿½ XTreme	None	104	Corn
+Agventure	AV6404AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	104	Corn
+Agventure	AV6404YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	104	Corn
+Agventure	AV8804Qï¿½	Qromeï¿½	None	104	Corn
+Agventure	GL6712V11ï¿½	Agrisure Vipteraï¿½ 3111	None	104	Corn
+Agventure	R6786ï¿½*	Roundup Readyï¿½ Corn 2	None	104	Corn
+Agventure	RL6786HBï¿½*	Herculexï¿½ I	None	104	Corn
+Agventure	AV6705AMXTï¿½	Optimumï¿½ AcreMaxï¿½ XTreme	None	105	Corn
+Agventure	AV6705AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	105	Corn
+Agventure	AV6705Rï¿½*	Roundup Readyï¿½ Corn 2	None	105	Corn
+Agventure	AV6705YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	105	Corn
+Agventure	AV6705ï¿½*	Conventional	None	105	Corn
+Agventure	AV6805AMXï¿½*	Optimumï¿½ AcreMaxï¿½ Xtra	None	105	Corn
+Agventure	AV6805AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	105	Corn
+Agventure	AV6805YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	105	Corn
+Agventure	7087ï¿½*	Conventional	None	106	Corn
+Agventure	AV3206AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	106	Corn
+Agventure	AV3206Qï¿½	Qromeï¿½	None	106	Corn
+Agventure	AV3206YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	106	Corn
+Agventure	RL7087HBWï¿½*	Herculexï¿½ XTRA	None	106	Corn
+Agventure	RL7087HBï¿½*	Herculexï¿½ I	None	106	Corn
+Agventure	AV7007AMXTï¿½	Optimumï¿½ AcreMaxï¿½ XTreme	None	107	Corn
+Agventure	AV7307AMXTï¿½	Optimumï¿½ AcreMaxï¿½ XTreme	None	107	Corn
+Agventure	AV7307AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	107	Corn
+Agventure	AV7307YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	107	Corn
+Agventure	AV7307ï¿½*	Conventional	None	107	Corn
+Agventure	G7254ï¿½	Agrisureï¿½ GT	None	107	Corn
+Agventure	AV2908Qï¿½	Qromeï¿½	None	108	Corn
+Agventure	AV7408AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	108	Corn
+Agventure	AV7408Qï¿½	Qromeï¿½	None	108	Corn
+Agventure	AV7408YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	108	Corn
+Agventure	AV7408ï¿½*	Conventional	None	108	Corn
+Agventure	AV7608AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	108	Corn
+Agventure	AV7808AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	108	Corn
+Agventure	AV7808Qï¿½	Qromeï¿½	None	108	Corn
+Agventure	AV7808YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	108	Corn
+Agventure	RL7497AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	108	Corn
+Agventure	AV4509AMLï¿½*	Optimumï¿½ AcreMaxï¿½ Leptraï¿½	None	109	Corn
+Agventure	AV7673ï¿½	Conventional	None	109	Corn
+Agventure	RL7673HBWï¿½*	Herculexï¿½ XTRA	None	109	Corn
+Agventure	RL7687AMXï¿½*	Optimumï¿½ AcreMaxï¿½ Xtra	None	109	Corn
+Agventure	RL7687AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	109	Corn
+Agventure	RL7687YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	109	Corn
+Agventure	7844ï¿½*	Conventional	None	110	Corn
+Agventure	AV5410Qï¿½	Qromeï¿½	None	110	Corn
+Agventure	AV7110AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	110	Corn
+Agventure	AV7110Qï¿½	Qromeï¿½	None	110	Corn
+Agventure	AV7910AMXï¿½*	Optimumï¿½ AcreMaxï¿½ Xtra	None	110	Corn
+Agventure	AV7910AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	110	Corn
+Agventure	AV7910YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	110	Corn
+Agventure	AV7910ï¿½*	Conventional	None	110	Corn
+Agventure	R7844ï¿½*	Roundup Readyï¿½ Corn 2	None	110	Corn
+Agventure	RL7844AMXï¿½*	Optimumï¿½ AcreMaxï¿½ Xtra	None	110	Corn
+Agventure	RL7844AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	110	Corn
+Agventure	RL7844YHBWï¿½*	Optimumï¿½ Intrasectï¿½ Xtra	None	110	Corn
+Agventure	RL7844YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	110	Corn
+Agventure	AV3411AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	111	Corn
+Agventure	AV3411YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	111	Corn
+Agventure	AV4211Qï¿½	Qromeï¿½	None	111	Corn
+Agventure	AV8211AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	111	Corn
+Agventure	AV8311AMXTï¿½	Optimumï¿½ AcreMaxï¿½ XTreme	None	111	Corn
+Agventure	AV8311AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	111	Corn
+Agventure	AV8311YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	111	Corn
+Agventure	R8154ï¿½*	Roundup Readyï¿½ Corn 2	None	111	Corn
+Agventure	RL8055HBWï¿½*	Herculexï¿½ XTRA	None	111	Corn
+Agventure	AV8212AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	112	Corn
+Agventure	AV8212YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	112	Corn
+Agventure	RL8387HBAWï¿½	Optimumï¿½ TRIsectï¿½	None	112	Corn
+Agventure	RL8387YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	112	Corn
+Agventure	8430ï¿½*	Conventional	None	113	Corn
+Agventure	AV8113AMXTï¿½	Optimumï¿½ AcreMaxï¿½ XTreme	None	113	Corn
+Agventure	AV8113AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	113	Corn
+Agventure	AV8113Qï¿½	Qromeï¿½	None	113	Corn
+Agventure	AV8113YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	113	Corn
+Agventure	AV8113ï¿½*	Conventional	None	113	Corn
+Agventure	AV8413Rï¿½*	Roundup Readyï¿½ Corn 2	None	113	Corn
+Agventure	AV8430VYHRï¿½*	Optimumï¿½ Leptraï¿½	None	113	Corn
+Agventure	AV8513AMXTï¿½	Optimumï¿½ AcreMaxï¿½ XTreme	None	113	Corn
+Agventure	AV8513AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	113	Corn
+Agventure	AV8513Qï¿½	Qromeï¿½	None	113	Corn
+Agventure	AV8513YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	113	Corn
+Agventure	RL8430AMXï¿½*	Optimumï¿½ AcreMaxï¿½ Xtra	None	113	Corn
+Agventure	RL8430AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	113	Corn
+Agventure	RL8430YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	113	Corn
+Agventure	RL8484AMXï¿½*	Optimumï¿½ AcreMaxï¿½ Xtra	None	113	Corn
+Agventure	RL8537AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	113	Corn
+Agventure	RL8537VYHRï¿½*	Optimumï¿½ Leptraï¿½	None	113	Corn
+Agventure	AV8614AMXTï¿½	Optimumï¿½ AcreMaxï¿½ XTreme	None	114	Corn
+Agventure	AV8614AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	114	Corn
+Agventure	AV8614Qï¿½	Qromeï¿½	None	114	Corn
+Agventure	AV8614Rï¿½*	Roundup Readyï¿½ Corn 2	None	114	Corn
+Agventure	AV8614YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	114	Corn
+Agventure	AV8714AMXTï¿½	Optimumï¿½ AcreMaxï¿½ XTreme	None	114	Corn
+Agventure	AV8714AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	114	Corn
+Agventure	AV8714Rï¿½*	Roundup Readyï¿½ Corn 2	None	114	Corn
+Agventure	AV8714VYHRï¿½*	Optimumï¿½ Leptraï¿½	None	114	Corn
+Agventure	AV8714YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	114	Corn
+Agventure	AV8714ï¿½*	Conventional	None	114	Corn
+Agventure	RL8767HBAWï¿½	Optimumï¿½ TRIsectï¿½	None	114	Corn
+Agventure	RL8767HBï¿½*	Herculexï¿½ I	None	114	Corn
+Agventure	8899ï¿½*	Conventional	None	115	Corn
+Agventure	AV8015AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	115	Corn
+Agventure	AV8015YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	115	Corn
+Agventure	AV8815YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	115	Corn
+Agventure	AV8915AMXTï¿½	Optimumï¿½ AcreMaxï¿½ XTreme	None	115	Corn
+Agventure	AV8915AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	115	Corn
+Agventure	AV8915YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	115	Corn
+Agventure	AV8915ï¿½*	Conventional	None	115	Corn
+Agventure	R8899ï¿½*	Roundup Readyï¿½ Corn 2	None	115	Corn
+Agventure	RL8899AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	115	Corn
+Agventure	RL8899YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	115	Corn
+Agventure	RL8929AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	115	Corn
+Agventure	AV7516AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	116	Corn
+Agventure	AV7516Qï¿½	Qromeï¿½	None	116	Corn
+Agventure	AV7516YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	116	Corn
+Agventure	AV8216AMï¿½*	Optimumï¿½ AcreMaxï¿½	None	116	Corn
+Agventure	AV8216YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	116	Corn
+Agventure	R8950ï¿½*	Roundup Readyï¿½ Corn 2	None	116	Corn
+Agventure	AV3917YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	117	Corn
+Agventure	AV9817YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	117	Corn
+Agventure	RL9256HBï¿½*	Herculexï¿½ I	None	117	Corn
+Agventure	AV9583VYHRï¿½*	Optimumï¿½ Leptraï¿½	None	118	Corn
+Agventure	R9583ï¿½*	Roundup Readyï¿½ Corn 2	None	118	Corn
+Agventure	RL9583YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	118	Corn
+Agventure	R9858ï¿½*	Roundup Readyï¿½ Corn 2	None	120	Corn
+Agventure	RL9801YHBï¿½*	Optimumï¿½ Intrasectï¿½	None	120	Corn
+Agventure	R9795ï¿½*	Roundup Readyï¿½ Corn 2	None	121	Corn
+Agventure	04V8Xï¿½	RoundupReady 2 Xtend Soybean	None	0.4	Soybeans
+Agventure	AV06V6Eï¿½	Enlist E3 Soybean	None	0.6	Soybeans
+Agventure	07V9Xï¿½	RoundupReady 2 Xtend Soybean	None	0.7	Soybeans
+Agventure	09V2Xï¿½	RoundupReady 2 Xtend Soybean	None	0.9	Soybeans
+Agventure	10H7R2ï¿½	Roundup Ready 2 Yield Soybean	None	1	Soybeans
+Agventure	12V4Xï¿½	RoundupReady 2 Xtend Soybean	None	1.2	Soybeans
+Agventure	14V4Xï¿½	RoundupReady 2 Xtend Soybean	None	1.4	Soybeans
+Agventure	17U7Xï¿½	RoundupReady 2 Xtend Soybean	None	1.7	Soybeans
+Agventure	17W5Rï¿½	Glyphosate Tolerant Soybean	None	1.7	Soybeans
+Agventure	AV17V3LLï¿½	LibertyLink Soybean	None	1.7	Soybeans
+Agventure	18U4Rï¿½	Glyphosate Tolerant Soybean	None	1.8	Soybeans
+Agventure	18V9Xï¿½	RoundupReady 2 Xtend Soybean	None	1.8	Soybeans
+Agventure	20U6Rï¿½	Glyphosate Tolerant Soybean	None	2.0	Soybeans
+Agventure	20V1Xï¿½	RoundupReady 2 Xtend Soybean	None	2.0	Soybeans
+Agventure	AV20V2Eï¿½	Enlist E3 Soybean	None	2.0	Soybeans
+Agventure	21M7Rï¿½	Glyphosate Tolerant Soybean	None	2.1	Soybeans
+Agventure	22E1RRï¿½	Glyphosate Tolerant Soybean	None	2.2	Soybeans
+Agventure	22U8Xï¿½	RoundupReady 2 Xtend Soybean	None	2.2	Soybeans
+Agventure	AV22U2LLï¿½	LibertyLink Soybean	None	2.2	Soybeans
+Agventure	AV22V3Eï¿½	Enlist E3 Soybean	None	2.2	Soybeans
+Agventure	23K3RRï¿½	Glyphosate Tolerant Soybean	None	2.3	Soybeans
+Agventure	23U5Rï¿½	Glyphosate Tolerant Soybean	None	2.3	Soybeans
+Agventure	AV23W0ï¿½	Conventional Soybean	None	2.3	Soybeans
+Agventure	AV24U6LLï¿½	LibertyLink Soybean	None	2.4	Soybeans
+Agventure	AV24V4Eï¿½	Enlist E3 Soybean	None	2.4	Soybeans
+Agventure	AV24V7Eï¿½	Enlist E3 Soybean	None	2.4	Soybeans
+Agventure	25U4Xï¿½	RoundupReady 2 Xtend Soybean	None	2.5	Soybeans
+Agventure	25W2Rï¿½	Glyphosate Tolerant Soybean	None	2.5	Soybeans
+Agventure	26V5Xï¿½	RoundupReady 2 Xtend Soybean	None	2.6	Soybeans
+Agventure	26W9Rï¿½	Glyphosate Tolerant Soybean	None	2.6	Soybeans
+Agventure	AV26H4LLï¿½	LibertyLink Soybean	None	2.6	Soybeans
+Agventure	AV26V8LLï¿½	LibertyLink Soybean	None	2.6	Soybeans
+Agventure	27B3RRï¿½	Glyphosate Tolerant Soybean	None	2.7	Soybeans
+Agventure	27M5Rï¿½	Glyphosate Tolerant Soybean	None	2.7	Soybeans
+Agventure	27V2Xï¿½	RoundupReady 2 Xtend Soybean	None	2.7	Soybeans
+Agventure	AV27V4Eï¿½	Enlist E3 Soybean	None	2.7	Soybeans
+Agventure	28U7Xï¿½	RoundupReady 2 Xtend Soybean	None	2.8	Soybeans
+Agventure	28W1Rï¿½	Glyphosate Tolerant Soybean	None	2.8	Soybeans
+Agventure	28Z4RRï¿½	Glyphosate Tolerant Soybean	None	2.8	Soybeans
+Agventure	AV28B3LLï¿½	LibertyLink Soybean	None	2.8	Soybeans
+Agventure	AV28U0ï¿½	Conventional Soybean	None	2.8	Soybeans
+Agventure	AV28U5LLï¿½	LibertyLink Soybean	None	2.8	Soybeans
+Agventure	AV28V8Eï¿½	Enlist E3 Soybean	None	2.8	Soybeans
+Agventure	29U2Rï¿½	Glyphosate Tolerant Soybean	None	2.9	Soybeans
+Agventure	29V6Xï¿½	RoundupReady 2 Xtend Soybean	None	2.9	Soybeans
+Agventure	30W4Rï¿½	Glyphosate Tolerant Soybean	None	3	Soybeans
+Agventure	AV30H0ï¿½	Conventional Soybean	None	3	Soybeans
+Agventure	AV30V7Eï¿½	Enlist E3 Soybean	None	3.0	Soybeans
+Agventure	AV30V8LLï¿½	LibertyLink Soybean	None	3.0	Soybeans
+Agventure	31V3Xï¿½	RoundupReady 2 Xtend Soybean	None	3.1	Soybeans
+Agventure	AV31V1Eï¿½	Enlist E3 Soybean	None	3.1	Soybeans
+Agventure	AV31V7Eï¿½	Enlist E3 Soybean	None	3.1	Soybeans
+Agventure	AV31Z8LLï¿½	LibertyLink Soybean	None	3.1	Soybeans
+Agventure	32U2Rï¿½	Glyphosate Tolerant Soybean	None	3.2	Soybeans
+Agventure	32Z7RRï¿½	Glyphosate Tolerant Soybean	None	3.2	Soybeans
+Agventure	AV32U9LLï¿½	LibertyLink Soybean	None	3.2	Soybeans
+Agventure	AV32V1Eï¿½	Enlist E3 Soybean	None	3.2	Soybeans
+Agventure	AV32V5Eï¿½	Enlist E3 Soybean	None	3.2	Soybeans
+Agventure	33U4Xï¿½	RoundupReady 2 Xtend Soybean	None	3.3	Soybeans
+Agventure	33Z3Rï¿½	Glyphosate Tolerant Soybean	None	3.3	Soybeans
+Agventure	AV33V7LLï¿½	LibertyLink Soybean	None	3.3	Soybeans
+Agventure	34U5Rï¿½	Glyphosate Tolerant Soybean	None	3.4	Soybeans
+Agventure	34V9Xï¿½	RoundupReady 2 Xtend Soybean	None	3.4	Soybeans
+Agventure	AV34V4Eï¿½	Enlist E3 Soybean	None	3.4	Soybeans
+Agventure	AV34V6LLï¿½	LibertyLink Soybean	None	3.4	Soybeans
+Agventure	AV34W0STSï¿½	Conventional STS Tolerant Soybean	None	3.4	Soybeans
+Agventure	35M7Rï¿½	Glyphosate Tolerant Soybean	None	3.5	Soybeans
+Agventure	35W3Rï¿½	Glyphosate Tolerant Soybean	None	3.5	Soybeans
+Agventure	AV35H8LLï¿½	LibertyLink Soybean	None	3.5	Soybeans
+Agventure	AV35V6Eï¿½	Enlist E3 Soybean	None	3.5	Soybeans
+Agventure	AV35V7Eï¿½	Enlist E3 Soybean	None	3.5	Soybeans
+Agventure	36M4Xï¿½	RoundupReady 2 Xtend Soybean	None	3.6	Soybeans
+Agventure	36U6Rï¿½	Glyphosate Tolerant Soybean	None	3.6	Soybeans
+Agventure	AV36V3Eï¿½	Enlist E3 Soybean	None	3.6	Soybeans
+Agventure	37U1BRï¿½	Glyphosate Tolerant / Bolt Soybean	None	3.7	Soybeans
+Agventure	37Z3RRï¿½	Glyphosate Tolerant Soybean	None	3.7	Soybeans
+Agventure	AV37V0ï¿½	Conventional Soybean	None	3.7	Soybeans
+Agventure	AV37V4LLï¿½	LibertyLink Soybean	None	3.7	Soybeans
+Agventure	38H4Rï¿½	Glyphosate Tolerant Soybean	None	3.8	Soybeans
+Agventure	38U7Xï¿½	RoundupReady 2 Xtend Soybean	None	3.8	Soybeans
+Agventure	38W5Xï¿½	RoundupReady 2 Xtend Soybean	None	3.8	Soybeans
+Agventure	AV38E8LLï¿½	LibertyLink Soybean	None	3.8	Soybeans
+Agventure	39U9Xï¿½	RoundupReady 2 Xtend Soybean	None	3.9	Soybeans
+Agventure	39W8Xï¿½	RoundupReady 2 Xtend Soybean	None	3.9	Soybeans
+Agventure	AV39E0ï¿½	Conventional Soybean	None	3.9	Soybeans
+Agventure	AV39V4Eï¿½	Enlist E3 Soybean	None	3.9	Soybeans
+Agventure	AV39V5LLï¿½	LibertyLink Soybean	None	3.9	Soybeans
+Agventure	40W6Rï¿½	Glyphosate Tolerant Soybean	None	4	Soybeans
+Agventure	AV40U8LLï¿½	LibertyLink Soybean	None	4.0	Soybeans
+Agventure	AV40V1Eï¿½	Enlist E3 Soybean	None	4.0	Soybeans
+Agventure	AV40V7Eï¿½	Enlist E3 Soybean	None	4.0	Soybeans
+Agventure	41B1RRï¿½	Glyphosate Tolerant Soybean	None	4.1	Soybeans
+Agventure	41V4Xï¿½	RoundupReady 2 Xtend Soybean	None	4.1	Soybeans
+Agventure	41W7Xï¿½	RoundupReady 2 Xtend Soybean	None	4.1	Soybeans
+Agventure	AV41B5LLï¿½	LibertyLink Soybean	None	4.1	Soybeans
+Agventure	AV41H1LLï¿½	LibertyLink Soybean	None	4.1	Soybeans
+Agventure	42V8Xï¿½	RoundupReady 2 Xtend Soybean	None	4.2	Soybeans
+Agventure	AV42V2Eï¿½	Enlist E3 Soybean	None	4.2	Soybeans
+Agventure	43U2Xï¿½	RoundupReady 2 Xtend Soybean	None	4.3	Soybeans
+Agventure	43W1Rï¿½	Glyphosate Tolerant Soybean	None	4.3	Soybeans
+Agventure	AV43M4LLï¿½	LibertyLink Soybean	None	4.3	Soybeans
+Agventure	AV43U6LLï¿½	LibertyLink Soybean	None	4.3	Soybeans
+Agventure	AV43V8LLï¿½	LibertyLink Soybean	None	4.3	Soybeans
+Agventure	44U9BRï¿½	Glyphosate Tolerant / Bolt Soybean	None	4.4	Soybeans
+Agventure	44Z8RRSTSï¿½	Glyphosate Tolerant Soybean	None	4.4	Soybeans
+Agventure	AV44U4LLï¿½	LibertyLink Soybean	None	4.4	Soybeans
+Agventure	45U1Xï¿½	RoundupReady 2 Xtend Soybean	None	4.5	Soybeans
+Agventure	45W7Rï¿½	Glyphosate Tolerant Soybean	None	4.5	Soybeans
+Agventure	AV45V8Eï¿½	Enlist E3 Soybean	None	4.5	Soybeans
+Agventure	46V6Xï¿½	RoundupReady 2 Xtend Soybean	None	4.6	Soybeans
+Agventure	AV46M8LLï¿½	LibertyLink Soybean	None	4.6	Soybeans
+Agventure	AV46V9LLï¿½	LibertyLink Soybean	None	4.6	Soybeans
+Agventure	47E1RRï¿½	Glyphosate Tolerant Soybean	None	4.7	Soybeans
+Agventure	47M7Rï¿½	Glyphosate Tolerant Soybean	None	4.7	Soybeans
+Agventure	47U8Rï¿½	Glyphosate Tolerant Soybean	None	4.8	Soybeans
+Agventure	47W2Xï¿½	RoundupReady 2 Xtend Soybean	None	4.7	Soybeans
+Agventure	AV47V4LLï¿½	LibertyLink Soybean	None	4.7	Soybeans
+Agventure	AV47W3LLï¿½	LibertyLink Soybean	None	4.7	Soybeans
+Agventure	48E3RRï¿½	Glyphosate Tolerant Soybean	None	4.8	Soybeans
+Agventure	48E5R2STSï¿½	Roundup Ready 2 Yield Soybean	None	4.8	Soybeans
+Agventure	48V1Xï¿½	RoundupReady 2 Xtend Soybean	None	4.8	Soybeans
+Agventure	AV48V2Eï¿½	Enlist E3 Soybean	None	4.8	Soybeans
+Agventure	AV48V8LLï¿½	LibertyLink Soybean	None	4.8	Soybeans
+Agventure	49H4Rï¿½	Glyphosate Tolerant Soybean	None	4.9	Soybeans
+Agventure	49W3Xï¿½	RoundupReady 2 Xtend Soybean	None	4.9	Soybeans
+Agventure	AV49V9Eï¿½	Enlist E3 Soybean	None	4.9	Soybeans
+Agventure	AV49W5LLï¿½	LibertyLink Soybean	None	4.9	Soybeans
+Agventure	50U5Rï¿½	Glyphosate Tolerant Soybean	None	5.0	Soybeans
+Agventure	50V3Xï¿½	RoundupReady 2 Xtend Soybean	None	5.0	Soybeans
+Agventure	51U6XSTSï¿½	RoundupReady 2 Xtend Soybean	None	5.1	Soybeans
+Agventure	AV51V7Eï¿½	Enlist E3 Soybean	None	5.1	Soybeans
+Agventure	AV51W1LLï¿½	LibertyLink Soybean	None	5.1	Soybeans
+Agventure	52M7RSTSï¿½	Glyphosate Tolerant Soybean	None	5.2	Soybeans
+Agventure	52U9BRï¿½	Glyphosate Tolerant / Bolt Soybean	None	5.2	Soybeans
+Agventure	AV53W8LLï¿½	LibertyLink Soybean	None	5.3	Soybeans
+Agventure	54K4RRï¿½	Glyphosate Tolerant Soybean	None	5.4	Soybeans
+Agventure	54U7Xï¿½	RoundupReady 2 Xtend Soybean	None	5.4	Soybeans
+Agventure	56W6Rï¿½	Glyphosate Tolerant Soybean	None	5.6	Soybeans
+Agventure	57V5Xï¿½	RoundupReady 2 Xtend Soybean	None	5.7	Soybeans
+Agventure	58M8Rï¿½	Glyphosate Tolerant Soybean	None	5.8	Soybeans
+Agventure	62V2Xï¿½	RoundupReady 2 Xtend Soybean	None	6.2	Soybeans
+Agventure	67W7Xï¿½	RoundupReady 2 Xtend Soybean	None	6.7	Soybeans
+Agventure	70V7Xï¿½	RoundupReady 2 Xtend Soybean	None	7.0	Soybeans
+Agventure	72W7Xï¿½	RoundupReady 2 Xtend Soybean	None	7.2	Soybeans
 Champion	29A20	RR2Y	None	79	Corn
 Champion	33A20	VT2 Pro RIB	None	83	Corn
 Champion	35A20	VT2 Pro RIB	None	85	Corn
@@ -1071,7 +1071,7 @@ Croplan	CP5678SS/RIB*	SS/RIB*	None	116	Corn
 Croplan	CP5789VT2P/RIB*	VT2P/RIB*	None	117	Corn
 Croplan	CP5814SS/RIB*	SS/RIB*	None	118	Corn
 Croplan	CP6027VT2P/RIB*	VT2P/RIB*	None	120	Corn
-Croplan	5412SmartStax® RIB Complete®* 	artStax® RIB Complete®* [VTDoublePro® RIB Complete®]*	None	106	Corn
+Croplan	5412SmartStaxï¿½ RIB Completeï¿½* 	artStaxï¿½ RIB Completeï¿½* [VTDoubleProï¿½ RIB Completeï¿½]*	None	106	Corn
 Croplan	CP00319X	None	None	0.03	Soybean
 Croplan	CP00710X	None	None	0.07	Soybean
 Croplan	CP00711X*	None	None	0.07	Soybean
@@ -1283,309 +1283,309 @@ Dekalb	AG39X7	RR2X/SR	None	3.9	Soybean
 Dekalb	A3956	CONV	None	3.9	Soybean
 Dekalb	AG41X8	RR2X/SR	None	4.1	Soybean
 Dekalb	AG43X7	RR2X/SR	None	4.3	Soybean
-Dynagro	D19RR89	Roundup Ready® Corn 2	None	79	Corn
-Dynagro	D19VC89RIB	VT Double Pro® RIB Complete®	None	79	Corn
-Dynagro	D22QZ42	Agrisure Viptera® 3220 E-Z Refuge	None	82	Corn
-Dynagro	D22VC62RIB	VT Double Pro® RIB Complete®	None	82	Corn
-Dynagro	D25VC45RIB - SILAGE	VT Double Pro® RIB Complete®	None	85	Corn
-Dynagro	D25VC45RIB	VT Double Pro® RIB Complete®	None	85	Corn
-Dynagro	D25VC45RIB	VT Double Pro® RIB Complete®	None	85	Corn
+Dynagro	D19RR89	Roundup Readyï¿½ Corn 2	None	79	Corn
+Dynagro	D19VC89RIB	VT Double Proï¿½ RIB Completeï¿½	None	79	Corn
+Dynagro	D22QZ42	Agrisure Vipteraï¿½ 3220 E-Z Refuge	None	82	Corn
+Dynagro	D22VC62RIB	VT Double Proï¿½ RIB Completeï¿½	None	82	Corn
+Dynagro	D25VC45RIB - SILAGE	VT Double Proï¿½ RIB Completeï¿½	None	85	Corn
+Dynagro	D25VC45RIB	VT Double Proï¿½ RIB Completeï¿½	None	85	Corn
+Dynagro	D25VC45RIB	VT Double Proï¿½ RIB Completeï¿½	None	85	Corn
 Dynagro	D25CC75	Conventional	None	85	Corn
-Dynagro	D25RR66	Roundup Ready® Corn 2	None	85	Corn
-Dynagro	D25VC66RIB	VT Double Pro® RIB Complete®	None	85	Corn
+Dynagro	D25RR66	Roundup Readyï¿½ Corn 2	None	85	Corn
+Dynagro	D25VC66RIB	VT Double Proï¿½ RIB Completeï¿½	None	85	Corn
 Dynagro	D27CC87	Conventional	None	87	Corn
-Dynagro	D27GT59 - SILAGE	Agrisure® GT	None	87	Corn
-Dynagro	D27VC87RIB	VT Double Pro® RIB Complete®	None	87	Corn
-Dynagro	D27VC47RIB	VT Double Pro® RIB Complete®	None	87	Corn
-Dynagro	D27GT59	Agrisure® GT	None	87	Corn
-Dynagro	D28SS36RIB	SmartStax® RIB Complete®	None	88	Corn
-Dynagro	D31VC31RIB	VT Double Pro® RIB Complete®	None	91	Corn
-Dynagro	D32SS56RIB - SILAGE	VT Double Pro® RIB Complete®	None	92	Corn
-Dynagro	D32SS56RIB	SmartStax® RIB Complete®	None	92	Corn
-Dynagro	D32VC41RIB - SILAGE	VT Double Pro® RIB Complete®	None	92	Corn
-Dynagro	D32SS56RIB	SmartStax® RIB Complete®	None	92	Corn
+Dynagro	D27GT59 - SILAGE	Agrisureï¿½ GT	None	87	Corn
+Dynagro	D27VC87RIB	VT Double Proï¿½ RIB Completeï¿½	None	87	Corn
+Dynagro	D27VC47RIB	VT Double Proï¿½ RIB Completeï¿½	None	87	Corn
+Dynagro	D27GT59	Agrisureï¿½ GT	None	87	Corn
+Dynagro	D28SS36RIB	SmartStaxï¿½ RIB Completeï¿½	None	88	Corn
+Dynagro	D31VC31RIB	VT Double Proï¿½ RIB Completeï¿½	None	91	Corn
+Dynagro	D32SS56RIB - SILAGE	VT Double Proï¿½ RIB Completeï¿½	None	92	Corn
+Dynagro	D32SS56RIB	SmartStaxï¿½ RIB Completeï¿½	None	92	Corn
+Dynagro	D32VC41RIB - SILAGE	VT Double Proï¿½ RIB Completeï¿½	None	92	Corn
+Dynagro	D32SS56RIB	SmartStaxï¿½ RIB Completeï¿½	None	92	Corn
 Dynagro	D32CC56	Conventional	None	92	Corn
-Dynagro	D32RR56	Roundup Ready® Corn 2	None	92	Corn
-Dynagro	D32VC56RIB	VT Double Pro® RIB Complete®	None	92	Corn
-Dynagro	D32RR41	Roundup Ready® Corn 2	None	92	Corn
-Dynagro	D32VC41RIB	VT Double Pro® RIB Complete®	None	92	Corn
-Dynagro	D33QZ23 - SILAGE	Agrisure Viptera® 3220 E-Z Refuge	None	93	Corn
-Dynagro	D33QZ23	Agrisure Viptera® 3220 E-Z Refuge	None	93	Corn
-Dynagro	D34VC54RIB	VT Double Pro® RIB Complete®	None	94	Corn
-Dynagro	D34VC54RIB - SILAGE	VT Double Pro® RIB Complete®	None	94	Corn
-Dynagro	D34VC54RIB	VT Double Pro® RIB Complete®	None	94	Corn
-Dynagro	D34VC52RIB	VT Double Pro® RIB Complete®	None	94	Corn
-Dynagro	D34RR52	Roundup Ready® Corn 2	None	94	Corn
+Dynagro	D32RR56	Roundup Readyï¿½ Corn 2	None	92	Corn
+Dynagro	D32VC56RIB	VT Double Proï¿½ RIB Completeï¿½	None	92	Corn
+Dynagro	D32RR41	Roundup Readyï¿½ Corn 2	None	92	Corn
+Dynagro	D32VC41RIB	VT Double Proï¿½ RIB Completeï¿½	None	92	Corn
+Dynagro	D33QZ23 - SILAGE	Agrisure Vipteraï¿½ 3220 E-Z Refuge	None	93	Corn
+Dynagro	D33QZ23	Agrisure Vipteraï¿½ 3220 E-Z Refuge	None	93	Corn
+Dynagro	D34VC54RIB	VT Double Proï¿½ RIB Completeï¿½	None	94	Corn
+Dynagro	D34VC54RIB - SILAGE	VT Double Proï¿½ RIB Completeï¿½	None	94	Corn
+Dynagro	D34VC54RIB	VT Double Proï¿½ RIB Completeï¿½	None	94	Corn
+Dynagro	D34VC52RIB	VT Double Proï¿½ RIB Completeï¿½	None	94	Corn
+Dynagro	D34RR52	Roundup Readyï¿½ Corn 2	None	94	Corn
 Dynagro	D34CC52	Conventional	None	94	Corn
 Dynagro	D34CC52GF	Conventional	None	94	Corn
-Dynagro	D35VC95RIB - SILAGE	VT Double Pro® RIB Complete®	None	95	Corn
-Dynagro	D35SS58RIB - SILAGE	SmartStax® RIB Complete®	None	95	Corn
-Dynagro	D35SS58RIB	SmartStax® RIB Complete®	None	95	Corn
-Dynagro	D35SS58RIB	SmartStax® RIB Complete®	None	95	Corn
-Dynagro	D35VC95RIB	VT Double Pro® RIB Complete®	None	95	Corn
-Dynagro	D35VC95RIB	VT Double Pro® RIB Complete®	None	95	Corn
-Dynagro	D37SS64RIB	SmartStax® RIB Complete®	None	97	Corn
-Dynagro	D37VC64RIB	VT Double Pro® RIB Complete®	None	97	Corn
-Dynagro	D37VC60RIB	VT Double Pro® RIB Complete®	None	97	Corn
-Dynagro	D37SS60RIB	SmartStax® RIB Complete®	None	97	Corn
-Dynagro	D38VC38RIB - SILAGE	VT Double Pro® RIB Complete®	None	98	Corn
-Dynagro	D38VC38RIB	VT Double Pro® RIB Complete®	None	98	Corn
-Dynagro	D39DC43RIB - SILAGE	DroughtGard® Hybrids with VT Double Pro® RIB Complete®	None	99	Corn
+Dynagro	D35VC95RIB - SILAGE	VT Double Proï¿½ RIB Completeï¿½	None	95	Corn
+Dynagro	D35SS58RIB - SILAGE	SmartStaxï¿½ RIB Completeï¿½	None	95	Corn
+Dynagro	D35SS58RIB	SmartStaxï¿½ RIB Completeï¿½	None	95	Corn
+Dynagro	D35SS58RIB	SmartStaxï¿½ RIB Completeï¿½	None	95	Corn
+Dynagro	D35VC95RIB	VT Double Proï¿½ RIB Completeï¿½	None	95	Corn
+Dynagro	D35VC95RIB	VT Double Proï¿½ RIB Completeï¿½	None	95	Corn
+Dynagro	D37SS64RIB	SmartStaxï¿½ RIB Completeï¿½	None	97	Corn
+Dynagro	D37VC64RIB	VT Double Proï¿½ RIB Completeï¿½	None	97	Corn
+Dynagro	D37VC60RIB	VT Double Proï¿½ RIB Completeï¿½	None	97	Corn
+Dynagro	D37SS60RIB	SmartStaxï¿½ RIB Completeï¿½	None	97	Corn
+Dynagro	D38VC38RIB - SILAGE	VT Double Proï¿½ RIB Completeï¿½	None	98	Corn
+Dynagro	D38VC38RIB	VT Double Proï¿½ RIB Completeï¿½	None	98	Corn
+Dynagro	D39DC43RIB - SILAGE	DroughtGardï¿½ Hybrids with VT Double Proï¿½ RIB Completeï¿½	None	99	Corn
 Dynagro	D39CC43	Conventional	None	99	Corn
-Dynagro	D39DC43RIB	DroughtGard® Hybrids with VT Double Pro® RIB Complete®	None	99	Corn
+Dynagro	D39DC43RIB	DroughtGardï¿½ Hybrids with VT Double Proï¿½ RIB Completeï¿½	None	99	Corn
 Dynagro	D39CC14	Conventional	None	99	Corn
-Dynagro	D39RR14	Roundup Ready® Corn 2	None	99	Corn
-Dynagro	D39VC69RIB	VT Double Pro® RIB Complete®	None	99	Corn
-Dynagro	D39VC14RIB	VT Double Pro® RIB Complete®	None	99	Corn
+Dynagro	D39RR14	Roundup Readyï¿½ Corn 2	None	99	Corn
+Dynagro	D39VC69RIB	VT Double Proï¿½ RIB Completeï¿½	None	99	Corn
+Dynagro	D39VC14RIB	VT Double Proï¿½ RIB Completeï¿½	None	99	Corn
 Dynagro	D40CC48	Conventional	None	100	Corn
-Dynagro	D40SS48RIB - SILAGE	SmartStax® RIB Complete®	None	101	Corn
-Dynagro	D41VC71RIB	VT Double Pro® RIB Complete®	None	101	Corn
-Dynagro	D40SS48RIB	SmartStax® RIB Complete®	None	101	Corn
-Dynagro	D41SS71RIB - SILAGE	SmartStax® RIB Complete®	None	102	Corn
-Dynagro	D42GT49	Agrisure® GT	None	102	Corn
-Dynagro	D41SS71RIB	SmartStax® RIB Complete®	None	102	Corn
-Dynagro	D42SS61RIB	SmartStax® RIB Complete®	None	102	Corn
-Dynagro	D42SS42RIB	SmartStax® RIB Complete®	None	102	Corn
-Dynagro	D41SS71RIB	SmartStax® RIB Complete®	None	102	Corn
-Dynagro	D43VC50RIB - SILAGE	VT Double Pro® RIB Complete®	None	103	Corn
-Dynagro	D43SS81RIB	SmartStax® RIB Complete®	None	103	Corn
-Dynagro	D43SS81RIB - SILAGE	SmartStax® RIB Complete®	None	103	Corn
-Dynagro	D43VC81RIB - SILAGE	VT Double Pro® RIB Complete®	None	103	Corn
-Dynagro	D43VC81RIB	VT Double Pro® RIB Complete®	None	103	Corn
-Dynagro	D43VC50RIB	VT Double Pro® RIB Complete®	None	103	Corn
-Dynagro	D43SS50RIB	SmartStax® RIB Complete®	None	103	Corn
-Dynagro	D43VC50RIB	VT Double Pro® RIB Complete®	None	103	Corn
-Dynagro	D44RR36	Roundup Ready® Corn 2	None	104	Corn
+Dynagro	D40SS48RIB - SILAGE	SmartStaxï¿½ RIB Completeï¿½	None	101	Corn
+Dynagro	D41VC71RIB	VT Double Proï¿½ RIB Completeï¿½	None	101	Corn
+Dynagro	D40SS48RIB	SmartStaxï¿½ RIB Completeï¿½	None	101	Corn
+Dynagro	D41SS71RIB - SILAGE	SmartStaxï¿½ RIB Completeï¿½	None	102	Corn
+Dynagro	D42GT49	Agrisureï¿½ GT	None	102	Corn
+Dynagro	D41SS71RIB	SmartStaxï¿½ RIB Completeï¿½	None	102	Corn
+Dynagro	D42SS61RIB	SmartStaxï¿½ RIB Completeï¿½	None	102	Corn
+Dynagro	D42SS42RIB	SmartStaxï¿½ RIB Completeï¿½	None	102	Corn
+Dynagro	D41SS71RIB	SmartStaxï¿½ RIB Completeï¿½	None	102	Corn
+Dynagro	D43VC50RIB - SILAGE	VT Double Proï¿½ RIB Completeï¿½	None	103	Corn
+Dynagro	D43SS81RIB	SmartStaxï¿½ RIB Completeï¿½	None	103	Corn
+Dynagro	D43SS81RIB - SILAGE	SmartStaxï¿½ RIB Completeï¿½	None	103	Corn
+Dynagro	D43VC81RIB - SILAGE	VT Double Proï¿½ RIB Completeï¿½	None	103	Corn
+Dynagro	D43VC81RIB	VT Double Proï¿½ RIB Completeï¿½	None	103	Corn
+Dynagro	D43VC50RIB	VT Double Proï¿½ RIB Completeï¿½	None	103	Corn
+Dynagro	D43SS50RIB	SmartStaxï¿½ RIB Completeï¿½	None	103	Corn
+Dynagro	D43VC50RIB	VT Double Proï¿½ RIB Completeï¿½	None	103	Corn
+Dynagro	D44RR36	Roundup Readyï¿½ Corn 2	None	104	Corn
 Dynagro	D44CC40	Conventional	None	104	Corn
-Dynagro	D44VC40RIB - SILAGE	VT Double Pro® RIB Complete®	None	104	Corn
-Dynagro	D44VC40RIB	VT Double Pro® RIB Complete®	None	104	Corn
-Dynagro	D44VC36RIB	VT Double Pro® RIB Complete®	None	104	Corn
-Dynagro	D45VC65RIB	VT Double Pro® RIB Complete®	None	105	Corn
-Dynagro	D45SS65RIB	SmartStax® RIB Complete®	None	105	Corn
-Dynagro	D47SS29RIB	SmartStax® RIB Complete®	None	107	Corn
-Dynagro	D47SS29RIB - SILAGE	SmartStax® RIB Complete®	None	107	Corn
-Dynagro	D47VC29RIB - SILAGE	VT Double Pro® RIB Complete®	None	107	Corn
-Dynagro	D46VC62RIB - SILAGE	VT Double Pro® RIB Complete®	None	107	Corn
-Dynagro	D46SS62RIB - SILAGE	SmartStax® RIB Complete®	None	107	Corn
-Dynagro	D47VC29RIB	VT Double Pro® RIB Complete®	None	107	Corn
+Dynagro	D44VC40RIB - SILAGE	VT Double Proï¿½ RIB Completeï¿½	None	104	Corn
+Dynagro	D44VC40RIB	VT Double Proï¿½ RIB Completeï¿½	None	104	Corn
+Dynagro	D44VC36RIB	VT Double Proï¿½ RIB Completeï¿½	None	104	Corn
+Dynagro	D45VC65RIB	VT Double Proï¿½ RIB Completeï¿½	None	105	Corn
+Dynagro	D45SS65RIB	SmartStaxï¿½ RIB Completeï¿½	None	105	Corn
+Dynagro	D47SS29RIB	SmartStaxï¿½ RIB Completeï¿½	None	107	Corn
+Dynagro	D47SS29RIB - SILAGE	SmartStaxï¿½ RIB Completeï¿½	None	107	Corn
+Dynagro	D47VC29RIB - SILAGE	VT Double Proï¿½ RIB Completeï¿½	None	107	Corn
+Dynagro	D46VC62RIB - SILAGE	VT Double Proï¿½ RIB Completeï¿½	None	107	Corn
+Dynagro	D46SS62RIB - SILAGE	SmartStaxï¿½ RIB Completeï¿½	None	107	Corn
+Dynagro	D47VC29RIB	VT Double Proï¿½ RIB Completeï¿½	None	107	Corn
 Dynagro	D46CC62	Conventional	None	107	Corn
-Dynagro	D46VC62RIB	VT Double Pro® RIB Complete®	None	107	Corn
-Dynagro	D46SS62RIB	SmartStax® RIB Complete®	None	107	Corn
+Dynagro	D46VC62RIB	VT Double Proï¿½ RIB Completeï¿½	None	107	Corn
+Dynagro	D46SS62RIB	SmartStaxï¿½ RIB Completeï¿½	None	107	Corn
 Dynagro	D48CC76	Conventional	None	108	Corn
-Dynagro	D48VC76RIB	VT Double Pro® RIB Complete®	None	108	Corn
-Dynagro	D48SS38RIB	SmartStax® RIB Complete®	None	108	Corn
-Dynagro	D49SS70RIB - SILAGE	SmartStax® RIB Complete®	None	109	Corn
-Dynagro	D49SS70RIB	SmartStax® RIB Complete®	None	109	Corn
-Dynagro	D49VC70RIB	VT Double Pro® RIB Complete®	None	109	Corn
-Dynagro	D49VC70RIB - SILAGE	VT Double Pro® RIB Complete®	None	109	Corn
-Dynagro	D49RR70	Roundup Ready® Corn 2	None	109	Corn
-Dynagro	D49VC39RIB - SILAGE	VT Double Pro® RIB Complete®	None	109	Corn
-Dynagro	D49VC39RIB	VT Double Pro® RIB Complete®	None	109	Corn
-Dynagro	D50SS51RIB	SmartStax® RIB Complete®	None	110	Corn
-Dynagro	D50VC43RIB	VT Double Pro® RIB Complete®	None	110	Corn
-Dynagro	D50RR30	Roundup Ready® Corn 2	None	110	Corn
-Dynagro	D50VC30RIB	VT Double Pro® RIB Complete®	None	110	Corn
-Dynagro	D51VC41RIB	VT Double Pro® RIB Complete®	None	111	Corn
-Dynagro	D52VC71WX	VT Double Pro®	None	111	Corn
+Dynagro	D48VC76RIB	VT Double Proï¿½ RIB Completeï¿½	None	108	Corn
+Dynagro	D48SS38RIB	SmartStaxï¿½ RIB Completeï¿½	None	108	Corn
+Dynagro	D49SS70RIB - SILAGE	SmartStaxï¿½ RIB Completeï¿½	None	109	Corn
+Dynagro	D49SS70RIB	SmartStaxï¿½ RIB Completeï¿½	None	109	Corn
+Dynagro	D49VC70RIB	VT Double Proï¿½ RIB Completeï¿½	None	109	Corn
+Dynagro	D49VC70RIB - SILAGE	VT Double Proï¿½ RIB Completeï¿½	None	109	Corn
+Dynagro	D49RR70	Roundup Readyï¿½ Corn 2	None	109	Corn
+Dynagro	D49VC39RIB - SILAGE	VT Double Proï¿½ RIB Completeï¿½	None	109	Corn
+Dynagro	D49VC39RIB	VT Double Proï¿½ RIB Completeï¿½	None	109	Corn
+Dynagro	D50SS51RIB	SmartStaxï¿½ RIB Completeï¿½	None	110	Corn
+Dynagro	D50VC43RIB	VT Double Proï¿½ RIB Completeï¿½	None	110	Corn
+Dynagro	D50RR30	Roundup Readyï¿½ Corn 2	None	110	Corn
+Dynagro	D50VC30RIB	VT Double Proï¿½ RIB Completeï¿½	None	110	Corn
+Dynagro	D51VC41RIB	VT Double Proï¿½ RIB Completeï¿½	None	111	Corn
+Dynagro	D52VC71WX	VT Double Proï¿½	None	111	Corn
 Dynagro	D51CC32	Conventional	None	111	Corn
-Dynagro	D51VC54RIB	VT Double Pro® RIB Complete®	None	111	Corn
-Dynagro	D51SS54RIB	SmartStax® RIB Complete®	None	111	Corn
-Dynagro	D50SS43RIB	SmartStax® RIB Complete®	None	111	Corn
-Dynagro	D52RR63	Roundup Ready® Corn 2	None	112	Corn
-Dynagro	D52SS63RIB - SILAGE	SmartStax® RIB Complete®	None	112	Corn
-Dynagro	D52VC63RIB - SILAGE	VT Double Pro® RIB Complete®	None	112	Corn
-Dynagro	D52VC15RIB	VT Double Pro® RIB Complete®	None	112	Corn
+Dynagro	D51VC54RIB	VT Double Proï¿½ RIB Completeï¿½	None	111	Corn
+Dynagro	D51SS54RIB	SmartStaxï¿½ RIB Completeï¿½	None	111	Corn
+Dynagro	D50SS43RIB	SmartStaxï¿½ RIB Completeï¿½	None	111	Corn
+Dynagro	D52RR63	Roundup Readyï¿½ Corn 2	None	112	Corn
+Dynagro	D52SS63RIB - SILAGE	SmartStaxï¿½ RIB Completeï¿½	None	112	Corn
+Dynagro	D52VC63RIB - SILAGE	VT Double Proï¿½ RIB Completeï¿½	None	112	Corn
+Dynagro	D52VC15RIB	VT Double Proï¿½ RIB Completeï¿½	None	112	Corn
 Dynagro	D52CC91	Conventional	None	112	Corn
-Dynagro	D52SS91RIB	SmartStax® RIB Complete®	None	112	Corn
-Dynagro	D52VC91	VT Double Pro®	None	112	Corn
-Dynagro	D52VC91RIB	VT Double Pro® RIB Complete®	None	112	Corn
-Dynagro	D52SS63RIB	SmartStax® RIB Complete®	None	112	Corn
-Dynagro	D52VC63RIB	VT Double Pro® RIB Complete®	None	112	Corn
-Dynagro	D52VC50RIB	VT Double Pro® RIB Complete®	None	112	Corn
-Dynagro	D53VC33RIB	VT Double Pro® RIB Complete®	None	113	Corn
-Dynagro	D53VC47RIB - SILAGE	VT Double Pro®	None	113	Corn
-Dynagro	D53QZ35	Agrisure Viptera® 3220 E-Z Refuge	None	113	Corn
-Dynagro	D53VC47RIB	VT Double Pro® RIB Complete®	None	113	Corn
-Dynagro	D54VC14	VT Double Pro®	None	114	Corn
-Dynagro	D54DC94 - SILAGE	DroughtGard® Hybrids with VT Double Pro®	None	114	Corn
-Dynagro	D54RR52	Roundup Ready® Corn 2	None	114	Corn
-Dynagro	D54VC52	VT Double Pro®	None	114	Corn
+Dynagro	D52SS91RIB	SmartStaxï¿½ RIB Completeï¿½	None	112	Corn
+Dynagro	D52VC91	VT Double Proï¿½	None	112	Corn
+Dynagro	D52VC91RIB	VT Double Proï¿½ RIB Completeï¿½	None	112	Corn
+Dynagro	D52SS63RIB	SmartStaxï¿½ RIB Completeï¿½	None	112	Corn
+Dynagro	D52VC63RIB	VT Double Proï¿½ RIB Completeï¿½	None	112	Corn
+Dynagro	D52VC50RIB	VT Double Proï¿½ RIB Completeï¿½	None	112	Corn
+Dynagro	D53VC33RIB	VT Double Proï¿½ RIB Completeï¿½	None	113	Corn
+Dynagro	D53VC47RIB - SILAGE	VT Double Proï¿½	None	113	Corn
+Dynagro	D53QZ35	Agrisure Vipteraï¿½ 3220 E-Z Refuge	None	113	Corn
+Dynagro	D53VC47RIB	VT Double Proï¿½ RIB Completeï¿½	None	113	Corn
+Dynagro	D54VC14	VT Double Proï¿½	None	114	Corn
+Dynagro	D54DC94 - SILAGE	DroughtGardï¿½ Hybrids with VT Double Proï¿½	None	114	Corn
+Dynagro	D54RR52	Roundup Readyï¿½ Corn 2	None	114	Corn
+Dynagro	D54VC52	VT Double Proï¿½	None	114	Corn
 Dynagro	D54CC52	Conventional	None	114	Corn
-Dynagro	D54VC52RIB	VT Double Pro® RIB Complete®	None	114	Corn
-Dynagro	D54DC94RIB	DroughtGard® Hybrids with VT Double Pro® RIB Complete®	None	114	Corn
-Dynagro	D54SS60RIB	SmartStax® RIB Complete®	None	114	Corn
-Dynagro	D54DC94	DroughtGard® Hybrids with VT Double Pro®	None	114	Corn
-Dynagro	D55VC80	VT Double Pro®	None	115	Corn
-Dynagro	D55VC77 - SILAGE	VT Double Pro®	None	115	Corn
-Dynagro	D55HX30W	Herculex® I	None	115	Corn
-Dynagro	D55QC73	Agrisure Viptera® 3110	None	115	Corn
-Dynagro	D55GT73	Agrisure® GT	None	115	Corn
+Dynagro	D54VC52RIB	VT Double Proï¿½ RIB Completeï¿½	None	114	Corn
+Dynagro	D54DC94RIB	DroughtGardï¿½ Hybrids with VT Double Proï¿½ RIB Completeï¿½	None	114	Corn
+Dynagro	D54SS60RIB	SmartStaxï¿½ RIB Completeï¿½	None	114	Corn
+Dynagro	D54DC94	DroughtGardï¿½ Hybrids with VT Double Proï¿½	None	114	Corn
+Dynagro	D55VC80	VT Double Proï¿½	None	115	Corn
+Dynagro	D55VC77 - SILAGE	VT Double Proï¿½	None	115	Corn
+Dynagro	D55HX30W	Herculexï¿½ I	None	115	Corn
+Dynagro	D55QC73	Agrisure Vipteraï¿½ 3110	None	115	Corn
+Dynagro	D55GT73	Agrisureï¿½ GT	None	115	Corn
 Dynagro	57N73	Conventional	None	115	Corn
-Dynagro	D55VC77RIB	VT Double Pro® RIB Complete®	None	115	Corn
-Dynagro	D55VC77	VT Double Pro®	None	115	Corn
-Dynagro	D55RR77	Roundup Ready® Corn 2	None	115	Corn
+Dynagro	D55VC77RIB	VT Double Proï¿½ RIB Completeï¿½	None	115	Corn
+Dynagro	D55VC77	VT Double Proï¿½	None	115	Corn
+Dynagro	D55RR77	Roundup Readyï¿½ Corn 2	None	115	Corn
 Dynagro	D55CC77	Conventional	None	115	Corn
-Dynagro	D55SS45RIB	SmartStax® RIB Complete®	None	115	Corn
-Dynagro	D55VC45RIB	VT Double Pro® RIB Complete®	None	115	Corn
-Dynagro	D55VC45	VT Double Pro®	None	115	Corn
-Dynagro	D56VC24 - SILAGE	VT Double Pro®	None	116	Corn
-Dynagro	D56VC24	VT Double Pro®	None	116	Corn
+Dynagro	D55SS45RIB	SmartStaxï¿½ RIB Completeï¿½	None	115	Corn
+Dynagro	D55VC45RIB	VT Double Proï¿½ RIB Completeï¿½	None	115	Corn
+Dynagro	D55VC45	VT Double Proï¿½	None	115	Corn
+Dynagro	D56VC24 - SILAGE	VT Double Proï¿½	None	116	Corn
+Dynagro	D56VC24	VT Double Proï¿½	None	116	Corn
 Dynagro	D56CC40W	Conventional	None	116	Corn
-Dynagro	D56VC46RIB	VT Double Pro® RIB Complete®	None	116	Corn
-Dynagro	D56VC46	VT Double Pro®	None	116	Corn
-Dynagro	D57VC75 - SILAGE	VT Double Pro®	None	117	Corn
-Dynagro	D57VC75	VT Double Pro®	None	117	Corn
-Dynagro	D57VC17	VT Double Pro®	None	117	Corn
-Dynagro	D57VC51	VT Double Pro®	None	117	Corn
-Dynagro	D57VC51RIB	VT Double Pro® RIB Complete®	None	117	Corn
+Dynagro	D56VC46RIB	VT Double Proï¿½ RIB Completeï¿½	None	116	Corn
+Dynagro	D56VC46	VT Double Proï¿½	None	116	Corn
+Dynagro	D57VC75 - SILAGE	VT Double Proï¿½	None	117	Corn
+Dynagro	D57VC75	VT Double Proï¿½	None	117	Corn
+Dynagro	D57VC17	VT Double Proï¿½	None	117	Corn
+Dynagro	D57VC51	VT Double Proï¿½	None	117	Corn
+Dynagro	D57VC51RIB	VT Double Proï¿½ RIB Completeï¿½	None	117	Corn
 Dynagro	D57CC51	Conventional	None	117	Corn
-Dynagro	D57RR51	Roundup Ready® Corn 2	None	117	Corn
-Dynagro	D58VC65RIB	VT Double Pro® RIB Complete®	None	118	Corn
-Dynagro	D58SS65RIB - SILAGE	SmartStax® RIB Complete®	None	118	Corn
-Dynagro	D58RR70 - SILAGE	Roundup Ready® Corn 2	None	118	Corn
-Dynagro	D58VC65 - SILAGE	VT Double Pro®	None	118	Corn
-Dynagro	D58QC72 - SILAGE	Agrisure Viptera® 3110	None	118	Corn
-Dynagro	D58VC37	VT Double Pro®	None	118	Corn
-Dynagro	D58SS65RIB	SmartStax® RIB Complete®	None	118	Corn
-Dynagro	D58QC72 - SILAGE	Agrisure Viptera® 3110	None	118	Corn
-Dynagro	D58VC65	VT Double Pro®	None	118	Corn
-Dynagro	D58RR70	Roundup Ready® Corn 2	None	118	Corn
-Dynagro	D58SS65	SmartStax®	None	118	Corn
-Dynagro	S005XT38	Roundup Ready 2 Xtend® Soybeans	None	0.05	Soybeans
-Dynagro	S007XT27	Roundup Ready 2 Xtend® Soybeans	None	0.07	Soybeans
+Dynagro	D57RR51	Roundup Readyï¿½ Corn 2	None	117	Corn
+Dynagro	D58VC65RIB	VT Double Proï¿½ RIB Completeï¿½	None	118	Corn
+Dynagro	D58SS65RIB - SILAGE	SmartStaxï¿½ RIB Completeï¿½	None	118	Corn
+Dynagro	D58RR70 - SILAGE	Roundup Readyï¿½ Corn 2	None	118	Corn
+Dynagro	D58VC65 - SILAGE	VT Double Proï¿½	None	118	Corn
+Dynagro	D58QC72 - SILAGE	Agrisure Vipteraï¿½ 3110	None	118	Corn
+Dynagro	D58VC37	VT Double Proï¿½	None	118	Corn
+Dynagro	D58SS65RIB	SmartStaxï¿½ RIB Completeï¿½	None	118	Corn
+Dynagro	D58QC72 - SILAGE	Agrisure Vipteraï¿½ 3110	None	118	Corn
+Dynagro	D58VC65	VT Double Proï¿½	None	118	Corn
+Dynagro	D58RR70	Roundup Readyï¿½ Corn 2	None	118	Corn
+Dynagro	D58SS65	SmartStaxï¿½	None	118	Corn
+Dynagro	S005XT38	Roundup Ready 2 Xtendï¿½ Soybeans	None	0.05	Soybeans
+Dynagro	S007XT27	Roundup Ready 2 Xtendï¿½ Soybeans	None	0.07	Soybeans
 Dynagro	S008EN20	Enlist	None	0.08	Soybeans
 Dynagro	S008EN20	Enlist	None	0.08	Soybeans
-Dynagro	S009XT49	Roundup Ready 2 Xtend® Soybeans	None	0.09	Soybeans
-Dynagro	S009XT68	Roundup Ready 2 Xtend® Soybeans	None	0.09	Soybeans
-Dynagro	S009RY56	Genuity® Roundup Ready 2 Yield® Soybeans	None	0.09	Soybeans
+Dynagro	S009XT49	Roundup Ready 2 Xtendï¿½ Soybeans	None	0.09	Soybeans
+Dynagro	S009XT68	Roundup Ready 2 Xtendï¿½ Soybeans	None	0.09	Soybeans
+Dynagro	S009RY56	Genuityï¿½ Roundup Ready 2 Yieldï¿½ Soybeans	None	0.09	Soybeans
 Dynagro	S01EN60	Enlist	None	0.1	Soybeans
 Dynagro	S01EN60	Enlist	None	0.1	Soybeans
-Dynagro	S01RY86	Genuity® Roundup Ready 2 Yield® Soybeans	None	0.1	Soybeans
-Dynagro	S03XT29	Roundup Ready 2 Xtend® Soybeans	None	0.3	Soybeans
+Dynagro	S01RY86	Genuityï¿½ Roundup Ready 2 Yieldï¿½ Soybeans	None	0.1	Soybeans
+Dynagro	S03XT29	Roundup Ready 2 Xtendï¿½ Soybeans	None	0.3	Soybeans
 Dynagro	S04EN49	Enlist	None	0.4	Soybeans
 Dynagro	S04EN49	Enlist	None	0.4	Soybeans
-Dynagro	S04XT77	Roundup Ready 2 Xtend® Soybeans	None	0.4	Soybeans
-Dynagro	S04LL37	Liberty Link®	None	0.4	Soybeans
+Dynagro	S04XT77	Roundup Ready 2 Xtendï¿½ Soybeans	None	0.4	Soybeans
+Dynagro	S04LL37	Liberty Linkï¿½	None	0.4	Soybeans
 Dynagro	S05EN70	Enlist	None	0.5	Soybeans
 Dynagro	S05EN70	Enlist	None	0.5	Soybeans
-Dynagro	S06XT59	Roundup Ready 2 Xtend® Soybeans	None	0.6	Soybeans
-Dynagro	S07XT28	Roundup Ready 2 Xtend® Soybeans	None	0.7	Soybeans
+Dynagro	S06XT59	Roundup Ready 2 Xtendï¿½ Soybeans	None	0.6	Soybeans
+Dynagro	S07XT28	Roundup Ready 2 Xtendï¿½ Soybeans	None	0.7	Soybeans
 Dynagro	S08EN99	Enlist	None	0.8	Soybeans
 Dynagro	S08EN99	Enlist	None	0.8	Soybeans
-Dynagro	S09XT50	Roundup Ready 2 Xtend® Soybeans	None	0.9	Soybeans
-Dynagro	S09XT50	Roundup Ready 2 Xtend® Soybeans	None	0.9	Soybeans
+Dynagro	S09XT50	Roundup Ready 2 Xtendï¿½ Soybeans	None	0.9	Soybeans
+Dynagro	S09XT50	Roundup Ready 2 Xtendï¿½ Soybeans	None	0.9	Soybeans
 Dynagro	S11EN10	Enlist	None	1.1	Soybeans
 Dynagro	S11EN40	Enlist	None	1.1	Soybeans
 Dynagro	S11EN40	Enlist	None	1.1	Soybeans
 Dynagro	S11EN10	Enlist	None	1.1	Soybeans
-Dynagro	S11XT78	Roundup Ready 2 Xtend® Soybeans	None	1.1	Soybeans
-Dynagro	S13XT89	Roundup Ready 2 Xtend® Soybeans	None	1.3	Soybeans
-Dynagro	S13XT89	Roundup Ready 2 Xtend® Soybeans	None	1.3	Soybeans
-Dynagro	S13LL35	Liberty Link®	None	1.3	Soybeans
+Dynagro	S11XT78	Roundup Ready 2 Xtendï¿½ Soybeans	None	1.1	Soybeans
+Dynagro	S13XT89	Roundup Ready 2 Xtendï¿½ Soybeans	None	1.3	Soybeans
+Dynagro	S13XT89	Roundup Ready 2 Xtendï¿½ Soybeans	None	1.3	Soybeans
+Dynagro	S13LL35	Liberty Linkï¿½	None	1.3	Soybeans
 Dynagro	S14EN90	Enlist	None	1.4	Soybeans
 Dynagro	S14EN90	Enlist	None	1.4	Soybeans
-Dynagro	S14XT98	Roundup Ready 2 Xtend® Soybeans	None	1.4	Soybeans
-Dynagro	S16XT58	Roundup Ready 2 Xtend® Soybeans	None	1.6	Soybeans
-Dynagro	S17XT29	Roundup Ready 2 Xtend® Soybeans	None	1.7	Soybeans
+Dynagro	S14XT98	Roundup Ready 2 Xtendï¿½ Soybeans	None	1.4	Soybeans
+Dynagro	S16XT58	Roundup Ready 2 Xtendï¿½ Soybeans	None	1.6	Soybeans
+Dynagro	S17XT29	Roundup Ready 2 Xtendï¿½ Soybeans	None	1.7	Soybeans
 Dynagro	S17EN80	Enlist	None	1.7	Soybeans
-Dynagro	S17XT29	Roundup Ready 2 Xtend® Soybeans	None	1.7	Soybeans
+Dynagro	S17XT29	Roundup Ready 2 Xtendï¿½ Soybeans	None	1.7	Soybeans
 Dynagro	S17EN80	Enlist	None	1.7	Soybeans
-Dynagro	S18XT38	Roundup Ready 2 Xtend® Soybeans	None	1.8	Soybeans
-Dynagro	S19XT30	Roundup Ready 2 Xtend® Soybeans	None	1.9	Soybeans
+Dynagro	S18XT38	Roundup Ready 2 Xtendï¿½ Soybeans	None	1.8	Soybeans
+Dynagro	S19XT30	Roundup Ready 2 Xtendï¿½ Soybeans	None	1.9	Soybeans
 Dynagro	S19EN59	Enlist	None	1.9	Soybeans
-Dynagro	S19XT30	Roundup Ready 2 Xtend® Soybeans	None	1.9	Soybeans
+Dynagro	S19XT30	Roundup Ready 2 Xtendï¿½ Soybeans	None	1.9	Soybeans
 Dynagro	S19EN59	Enlist	None	1.9	Soybeans
-Dynagro	S19RY65	Genuity® Roundup Ready 2 Yield® Soybeans	None	1.9	Soybeans
-Dynagro	S21GL40	Liberty Link® GT27™	None	2.1	Soybeans
+Dynagro	S19RY65	Genuityï¿½ Roundup Ready 2 Yieldï¿½ Soybeans	None	1.9	Soybeans
+Dynagro	S21GL40	Liberty Linkï¿½ GT27ï¿½	None	2.1	Soybeans
 Dynagro	S21EN70	Enlist	None	2.1	Soybeans
-Dynagro	S21GL40	Liberty Link® GT27™	None	2.1	Soybeans
+Dynagro	S21GL40	Liberty Linkï¿½ GT27ï¿½	None	2.1	Soybeans
 Dynagro	S21EN70	Enlist	None	2.1	Soybeans
-Dynagro	S21XT49	Roundup Ready 2 Xtend® Soybeans	None	2.1	Soybeans
-Dynagro	S22GL89	Liberty Link® GT27™	None	2.2	Soybeans
+Dynagro	S21XT49	Roundup Ready 2 Xtendï¿½ Soybeans	None	2.1	Soybeans
+Dynagro	S22GL89	Liberty Linkï¿½ GT27ï¿½	None	2.2	Soybeans
 Dynagro	S2207N	Conventional	None	2.2	Soybeans
-Dynagro	S23XT90	Roundup Ready 2 Xtend® Soybeans	None	2.3	Soybeans
-Dynagro	S23XT69	Roundup Ready 2 Xtend® Soybeans	None	2.3	Soybeans
-Dynagro	S23RY85	Genuity® Roundup Ready 2 Yield® Soybeans	None	2.3	Soybeans
+Dynagro	S23XT90	Roundup Ready 2 Xtendï¿½ Soybeans	None	2.3	Soybeans
+Dynagro	S23XT69	Roundup Ready 2 Xtendï¿½ Soybeans	None	2.3	Soybeans
+Dynagro	S23RY85	Genuityï¿½ Roundup Ready 2 Yieldï¿½ Soybeans	None	2.3	Soybeans
 Dynagro	S2409N	Conventional	None	2.4	Soybeans
 Dynagro	S24EN50	Enlist	None	2.4	Soybeans
-Dynagro	S24XT08	Roundup Ready 2 Xtend® Soybeans	None	2.4	Soybeans
-Dynagro	S24LL98	Liberty Link®	None	2.4	Soybeans
-Dynagro	S25XT99	Roundup Ready 2 Xtend® Soybeans	None	2.5	Soybeans
-Dynagro	S26GL30	Liberty Link® GT27™	None	2.6	Soybeans
+Dynagro	S24XT08	Roundup Ready 2 Xtendï¿½ Soybeans	None	2.4	Soybeans
+Dynagro	S24LL98	Liberty Linkï¿½	None	2.4	Soybeans
+Dynagro	S25XT99	Roundup Ready 2 Xtendï¿½ Soybeans	None	2.5	Soybeans
+Dynagro	S26GL30	Liberty Linkï¿½ GT27ï¿½	None	2.6	Soybeans
 Dynagro	S27EN89	Enlist	None	2.7	Soybeans
-Dynagro	S27LL55	Liberty Link®	None	2.7	Soybeans
-Dynagro	S28GL80	Liberty Link® GT27™	None	2.8	Soybeans
-Dynagro	S28XT58	Roundup Ready 2 Xtend® Soybeans	None	2.8	Soybeans
+Dynagro	S27LL55	Liberty Linkï¿½	None	2.7	Soybeans
+Dynagro	S28GL80	Liberty Linkï¿½ GT27ï¿½	None	2.8	Soybeans
+Dynagro	S28XT58	Roundup Ready 2 Xtendï¿½ Soybeans	None	2.8	Soybeans
 Dynagro	S2908N	Conventional	None	2.9	Soybeans
 Dynagro	S30EN70	Enlist	None	3	Soybeans
-Dynagro	S30XT96	Roundup Ready 2 Xtend® Soybeans	None	3	Soybeans
-Dynagro	S31XT59	Roundup Ready 2 Xtend® Soybeans	None	3.1	Soybeans
+Dynagro	S30XT96	Roundup Ready 2 Xtendï¿½ Soybeans	None	3	Soybeans
+Dynagro	S31XT59	Roundup Ready 2 Xtendï¿½ Soybeans	None	3.1	Soybeans
 Dynagro	S32EN60	Enlist	None	3.2	Soybeans
 Dynagro	S33EN09	Enlist	None	3.3	Soybeans
-Dynagro	S33XT79	Roundup Ready 2 Xtend® Soybeans	None	3.3	Soybeans
+Dynagro	S33XT79	Roundup Ready 2 Xtendï¿½ Soybeans	None	3.3	Soybeans
 Dynagro	S3305N	Conventional	None	3.3	Soybeans
-Dynagro	S34XT69	Roundup Ready 2 Xtend® Soybeans	None	3.4	Soybeans
-Dynagro	S34GL79	Liberty Link® GT27™	None	3.4	Soybeans
+Dynagro	S34XT69	Roundup Ready 2 Xtendï¿½ Soybeans	None	3.4	Soybeans
+Dynagro	S34GL79	Liberty Linkï¿½ GT27ï¿½	None	3.4	Soybeans
 Dynagro	S35EN99	Enlist	None	3.5	Soybeans
-Dynagro	S35XT97	Roundup Ready 2 Xtend® Soybeans	None	3.5	Soybeans
-Dynagro	S36GL10	Liberty Link® GT27™	None	3.6	Soybeans
-Dynagro	S36XT09	Roundup Ready 2 Xtend® Soybeans	None	3.6	Soybeans
+Dynagro	S35XT97	Roundup Ready 2 Xtendï¿½ Soybeans	None	3.5	Soybeans
+Dynagro	S36GL10	Liberty Linkï¿½ GT27ï¿½	None	3.6	Soybeans
+Dynagro	S36XT09	Roundup Ready 2 Xtendï¿½ Soybeans	None	3.6	Soybeans
 Dynagro	S37EN39	Enlist	None	3.7	Soybeans
-Dynagro	S37XS89	Roundup Ready 2 Xtend® Soybeans with STS	None	3.7	Soybeans
+Dynagro	S37XS89	Roundup Ready 2 Xtendï¿½ Soybeans with STS	None	3.7	Soybeans
 Dynagro	S3805N	Conventional	None	3.8	Soybeans
-Dynagro	S38LL54	Liberty Link®	None	3.8	Soybeans
+Dynagro	S38LL54	Liberty Linkï¿½	None	3.8	Soybeans
 Dynagro	S39EN19	Enlist	None	3.9	Soybeans
-Dynagro	S39XT68	Roundup Ready 2 Xtend® Soybeans	None	3.9	Soybeans
-Dynagro	S39XT08	Roundup Ready 2 Xtend® Soybeans	None	3.9	Soybeans
-Dynagro	S40GL59	Liberty Link® GT27™	None	4	Soybeans
-Dynagro	S40LL35	Liberty Link®	None	4	Soybeans
-Dynagro	S41XS98	Roundup Ready 2 Xtend® Soybeans with STS	None	4.1	Soybeans
+Dynagro	S39XT68	Roundup Ready 2 Xtendï¿½ Soybeans	None	3.9	Soybeans
+Dynagro	S39XT08	Roundup Ready 2 Xtendï¿½ Soybeans	None	3.9	Soybeans
+Dynagro	S40GL59	Liberty Linkï¿½ GT27ï¿½	None	4	Soybeans
+Dynagro	S40LL35	Liberty Linkï¿½	None	4	Soybeans
+Dynagro	S41XS98	Roundup Ready 2 Xtendï¿½ Soybeans with STS	None	4.1	Soybeans
 Dynagro	S42EN89	Enlist	None	4.2	Soybeans
 Dynagro	S4209N	Conventional	None	4.2	Soybeans
-Dynagro	S43XS70	Roundup Ready 2 Xtend® Soybeans with STS	None	4.3	Soybeans
-Dynagro	S43XS27	Roundup Ready 2 Xtend® Soybeans with STS	None	4.3	Soybeans
-Dynagro	S43RY95	Genuity® Roundup Ready 2 Yield® Soybeans	None	4.3	Soybeans
+Dynagro	S43XS70	Roundup Ready 2 Xtendï¿½ Soybeans with STS	None	4.3	Soybeans
+Dynagro	S43XS27	Roundup Ready 2 Xtendï¿½ Soybeans with STS	None	4.3	Soybeans
+Dynagro	S43RY95	Genuityï¿½ Roundup Ready 2 Yieldï¿½ Soybeans	None	4.3	Soybeans
 Dynagro	S44EN40	Enlist	None	4.4	Soybeans
-Dynagro	S44XS68	Roundup Ready 2 Xtend® Soybeans with STS	None	4.4	Soybeans
-Dynagro	S45XS66	Roundup Ready 2 Xtend® Soybeans with STS	None	4.5	Soybeans
-Dynagro	S45XS37	Roundup Ready 2 Xtend® Soybeans with STS	None	4.5	Soybeans
-Dynagro	S46XT80	Roundup Ready 2 Xtend® Soybeans	None	4.6	Soybeans
-Dynagro	S46XS60	Roundup Ready 2 Xtend® Soybeans with STS	None	4.6	Soybeans
+Dynagro	S44XS68	Roundup Ready 2 Xtendï¿½ Soybeans with STS	None	4.4	Soybeans
+Dynagro	S45XS66	Roundup Ready 2 Xtendï¿½ Soybeans with STS	None	4.5	Soybeans
+Dynagro	S45XS37	Roundup Ready 2 Xtendï¿½ Soybeans with STS	None	4.5	Soybeans
+Dynagro	S46XT80	Roundup Ready 2 Xtendï¿½ Soybeans	None	4.6	Soybeans
+Dynagro	S46XS60	Roundup Ready 2 Xtendï¿½ Soybeans with STS	None	4.6	Soybeans
 Dynagro	S46EN29	Enlist	None	4.6	Soybeans
 Dynagro	S46EN29	Enlist	None	4.6	Soybeans
-Dynagro	S46XS87	Roundup Ready 2 Xtend® Soybeans with STS	None	4.6	Soybeans
-Dynagro	S47XT20	Roundup Ready 2 Xtend® Soybeans	None	4.7	Soybeans
+Dynagro	S46XS87	Roundup Ready 2 Xtendï¿½ Soybeans with STS	None	4.6	Soybeans
+Dynagro	S47XT20	Roundup Ready 2 Xtendï¿½ Soybeans	None	4.7	Soybeans
 Dynagro	S47EN30	Enlist	None	4.7	Soybeans
-Dynagro	S48XT40	Roundup Ready 2 Xtend® Soybeans	None	4.8	Soybeans
-Dynagro	S48XT90	Roundup Ready 2 Xtend® Soybeans	None	4.8	Soybeans
-Dynagro	S48XT90	Roundup Ready 2 Xtend® Soybeans	None	4.8	Soybeans
-Dynagro	S48XT56	Roundup Ready 2 Xtend® Soybeans	None	4.8	Soybeans
-Dynagro	S49XT70	Roundup Ready 2 Xtend® Soybeans	None	4.9	Soybeans
+Dynagro	S48XT40	Roundup Ready 2 Xtendï¿½ Soybeans	None	4.8	Soybeans
+Dynagro	S48XT90	Roundup Ready 2 Xtendï¿½ Soybeans	None	4.8	Soybeans
+Dynagro	S48XT90	Roundup Ready 2 Xtendï¿½ Soybeans	None	4.8	Soybeans
+Dynagro	S48XT56	Roundup Ready 2 Xtendï¿½ Soybeans	None	4.8	Soybeans
+Dynagro	S49XT70	Roundup Ready 2 Xtendï¿½ Soybeans	None	4.9	Soybeans
 Dynagro	S49EN79	Enlist	None	4.9	Soybeans
-Dynagro	S49XT39	Roundup Ready 2 Xtend® Soybeans	None	4.9	Soybeans
-Dynagro	S49XS76	Roundup Ready 2 Xtend® Soybeans with STS	None	4.9	Soybeans
-Dynagro	S49LS65	Liberty Link® with STS	None	4.9	Soybeans
-Dynagro	S49LL34	Liberty Link®	None	4.9	Soybeans
-Dynagro	S52XS39	Roundup Ready 2 Xtend® Soybeans with STS	None	5.2	Soybeans
-Dynagro	S52XT08	Roundup Ready 2 Xtend® Soybeans	None	5.2	Soybeans
-Dynagro	S52RS86	Genuity® Roundup Ready 2 Yield® Soybeans with STS	None	5.2	Soybeans
-Dynagro	S52LL66	Liberty Link®	None	5.2	Soybeans
-Dynagro	S54XT17	Roundup Ready 2 Xtend® Soybeans	None	5.4	Soybeans
-Dynagro	S55LS75	Liberty Link® with STS	None	5.5	Soybeans
-Dynagro	S56XT99	Roundup Ready 2 Xtend® Soybeans	None	5.6	Soybeans
-Dynagro	39RY57	Genuity® Roundup Ready 2 Yield® Soybeans	None	5.7	Soybeans
-Dynagro	S58RY78	Genuity® Roundup Ready 2 Yield® Soybeans	None	5.8	Soybeans
-Dynagro	S59LS45	Liberty Link® with STS	None	5.9	Soybeans
-Dynagro	S62XT09	Roundup Ready 2 Xtend® Soybeans	None	6.2	Soybeans
-Dynagro	S64XT18	Roundup Ready 2 Xtend® Soybeans	None	6.4	Soybeans
-Dynagro	S64LS95	Liberty Link® with STS	None	6.4	Soybeans
-Dynagro	S67XT29	Roundup Ready 2 Xtend® Soybeans	None	6.7	Soybeans
-Dynagro	S67RY25	Genuity® Roundup Ready 2 Yield® Soybeans	None	6.7	Soybeans
-Dynagro	S69XT57	Roundup Ready 2 Xtend® Soybeans	None	6.9	Soybeans
-Dynagro	S72XT80	Roundup Ready 2 Xtend® Soybeans	None	7.2	Soybeans
-Dynagro	S72RS36	Genuity® Roundup Ready 2 Yield® Soybeans with STS	None	7.2	Soybeans
-Dynagro	S74XT59	Roundup Ready 2 Xtend® Soybeans	None	7.4	Soybeans
-Dynagro	S75XT26	Roundup Ready 2 Xtend® Soybeans	None	7.5	Soybeans
+Dynagro	S49XT39	Roundup Ready 2 Xtendï¿½ Soybeans	None	4.9	Soybeans
+Dynagro	S49XS76	Roundup Ready 2 Xtendï¿½ Soybeans with STS	None	4.9	Soybeans
+Dynagro	S49LS65	Liberty Linkï¿½ with STS	None	4.9	Soybeans
+Dynagro	S49LL34	Liberty Linkï¿½	None	4.9	Soybeans
+Dynagro	S52XS39	Roundup Ready 2 Xtendï¿½ Soybeans with STS	None	5.2	Soybeans
+Dynagro	S52XT08	Roundup Ready 2 Xtendï¿½ Soybeans	None	5.2	Soybeans
+Dynagro	S52RS86	Genuityï¿½ Roundup Ready 2 Yieldï¿½ Soybeans with STS	None	5.2	Soybeans
+Dynagro	S52LL66	Liberty Linkï¿½	None	5.2	Soybeans
+Dynagro	S54XT17	Roundup Ready 2 Xtendï¿½ Soybeans	None	5.4	Soybeans
+Dynagro	S55LS75	Liberty Linkï¿½ with STS	None	5.5	Soybeans
+Dynagro	S56XT99	Roundup Ready 2 Xtendï¿½ Soybeans	None	5.6	Soybeans
+Dynagro	39RY57	Genuityï¿½ Roundup Ready 2 Yieldï¿½ Soybeans	None	5.7	Soybeans
+Dynagro	S58RY78	Genuityï¿½ Roundup Ready 2 Yieldï¿½ Soybeans	None	5.8	Soybeans
+Dynagro	S59LS45	Liberty Linkï¿½ with STS	None	5.9	Soybeans
+Dynagro	S62XT09	Roundup Ready 2 Xtendï¿½ Soybeans	None	6.2	Soybeans
+Dynagro	S64XT18	Roundup Ready 2 Xtendï¿½ Soybeans	None	6.4	Soybeans
+Dynagro	S64LS95	Liberty Linkï¿½ with STS	None	6.4	Soybeans
+Dynagro	S67XT29	Roundup Ready 2 Xtendï¿½ Soybeans	None	6.7	Soybeans
+Dynagro	S67RY25	Genuityï¿½ Roundup Ready 2 Yieldï¿½ Soybeans	None	6.7	Soybeans
+Dynagro	S69XT57	Roundup Ready 2 Xtendï¿½ Soybeans	None	6.9	Soybeans
+Dynagro	S72XT80	Roundup Ready 2 Xtendï¿½ Soybeans	None	7.2	Soybeans
+Dynagro	S72RS36	Genuityï¿½ Roundup Ready 2 Yieldï¿½ Soybeans with STS	None	7.2	Soybeans
+Dynagro	S74XT59	Roundup Ready 2 Xtendï¿½ Soybeans	None	7.4	Soybeans
+Dynagro	S75XT26	Roundup Ready 2 Xtendï¿½ Soybeans	None	7.5	Soybeans
 Fontanelle	97D608	VT2PRIB	None	97	Corn
 Fontanelle	4D722RBC	VT2PRIB	None	97	Corn
 Fontanelle	03D403	VT2PRIB	None	103	Corn
@@ -2446,105 +2446,105 @@ LG Seeds	LGS4632RX	RR2X	None	4.6	Soybeans
 LG Seeds	LGS4899RX	RR2X	None	4.8	Soybeans
 LG Seeds	C4845RX	RR2X	None	4.8	Soybeans
 LG Seeds	LGS4931RX	RR2X	None	4.9	Soybeans
-NC+	92-14 VT DOUBLE PRO®  	VT2PRO	None	None	Corn
-NC+	93-07 VT DOUBLE PRO®  	VT2PRO	None	None	Corn
-NC+	96-06 SMARTSTAX®  	SSTX	None	None	Corn
-NC+	96-06 VT DOUBLE PRO®  	VT2PRO	None	None	Corn
-NC+	97-17 VT DOUBLE PRO®  	VT2PRO	None	None	Corn
-NC+	97-62 VT DOUBLE PRO®  	VT2PRO	None	None	Corn
-NC+	98-52 VT DOUBLE PRO®  	VT2PRO	None	None	Corn
-NC+	98-52 SMARTSTAX®  	SSTX	None	None	Corn
-NC+	99-90 VT DOUBLE PRO®  	VT2PRO	None	None	Corn
-NC+	99-90 SMARTSTAX®  	SSTX	None	None	Corn
-NC+	00-31 SMARTSTAX®  	SSTX	None	None	Corn
+NC+	92-14 VT DOUBLE PROï¿½  	VT2PRO	None	None	Corn
+NC+	93-07 VT DOUBLE PROï¿½  	VT2PRO	None	None	Corn
+NC+	96-06 SMARTSTAXï¿½  	SSTX	None	None	Corn
+NC+	96-06 VT DOUBLE PROï¿½  	VT2PRO	None	None	Corn
+NC+	97-17 VT DOUBLE PROï¿½  	VT2PRO	None	None	Corn
+NC+	97-62 VT DOUBLE PROï¿½  	VT2PRO	None	None	Corn
+NC+	98-52 VT DOUBLE PROï¿½  	VT2PRO	None	None	Corn
+NC+	98-52 SMARTSTAXï¿½  	SSTX	None	None	Corn
+NC+	99-90 VT DOUBLE PROï¿½  	VT2PRO	None	None	Corn
+NC+	99-90 SMARTSTAXï¿½  	SSTX	None	None	Corn
+NC+	00-31 SMARTSTAXï¿½  	SSTX	None	None	Corn
 NC+	EXP 00-18 CONV  	CONV	None	None	Corn
-NC+	03-53 VT DOUBLE PRO®  	VT2PRO	None	None	Corn
-NC+	04-99 VT DOUBLE PRO®  	VT2PRO	None	None	Corn
-NC+	04-99 SMARTSTAX®  	SSTX	None	None	Corn
-NC+	06-16 SMARTSTAX®  	SSTX	None	None	Corn
-NC+	06-16 VT DOUBLE PRO®  	VT2PRO	None	None	Corn
-NC+	07-12 VT DOUBLE PRO®  	VT2PRO	None	None	Corn
-NC+	07-27 VT DOUBLE PRO®  	VT2PRO	None	None	Corn
-NC+	08-44 SMARTSTAX®  	SSTX	None	None	Corn
-NC+	08-44 VT DOUBLE PRO®  	VT2PRO	None	None	Corn
-NC+	09-79 VT DOUBLE PRO®  	VT2PRO	None	None	Corn
-NC+	10-66 VT DOUBLE PRO®  	VT2PRO	None	None	Corn
-NC+	10-66 SMARTSTAX®  	SSTX	None	None	Corn
-NC+	11-15 SMARTSTAX®  	SSTX	None	None	Corn
-NC+	11-15 VT DOUBLE PRO®  	VT2PRO	None	None	Corn
+NC+	03-53 VT DOUBLE PROï¿½  	VT2PRO	None	None	Corn
+NC+	04-99 VT DOUBLE PROï¿½  	VT2PRO	None	None	Corn
+NC+	04-99 SMARTSTAXï¿½  	SSTX	None	None	Corn
+NC+	06-16 SMARTSTAXï¿½  	SSTX	None	None	Corn
+NC+	06-16 VT DOUBLE PROï¿½  	VT2PRO	None	None	Corn
+NC+	07-12 VT DOUBLE PROï¿½  	VT2PRO	None	None	Corn
+NC+	07-27 VT DOUBLE PROï¿½  	VT2PRO	None	None	Corn
+NC+	08-44 SMARTSTAXï¿½  	SSTX	None	None	Corn
+NC+	08-44 VT DOUBLE PROï¿½  	VT2PRO	None	None	Corn
+NC+	09-79 VT DOUBLE PROï¿½  	VT2PRO	None	None	Corn
+NC+	10-66 VT DOUBLE PROï¿½  	VT2PRO	None	None	Corn
+NC+	10-66 SMARTSTAXï¿½  	SSTX	None	None	Corn
+NC+	11-15 SMARTSTAXï¿½  	SSTX	None	None	Corn
+NC+	11-15 VT DOUBLE PROï¿½  	VT2PRO	None	None	Corn
 NC+	NC 11-15 CON  	CON	None	None	Corn
-NC+	12-02 VT DOUBLE PRO®  	VT2PRO	None	None	Corn
-NC+	NC EXP 12-218 VT DOUBLE PRO®  	VT2PRO	None	None	Corn
-NC+	12-48 DGVT DOUBLE PRO®  	VT2PRO	None	None	Corn
-NC+	13-31 SMARTSTAX®  	SSTX	None	None	Corn
-NC+	13-31 VT DOUBLE PRO®  	VT2PRO	None	None	Corn
-NC+	13-04 VT DOUBLE PRO®  	VT2PRO	None	None	Corn
+NC+	12-02 VT DOUBLE PROï¿½  	VT2PRO	None	None	Corn
+NC+	NC EXP 12-218 VT DOUBLE PROï¿½  	VT2PRO	None	None	Corn
+NC+	12-48 DGVT DOUBLE PROï¿½  	VT2PRO	None	None	Corn
+NC+	13-31 SMARTSTAXï¿½  	SSTX	None	None	Corn
+NC+	13-31 VT DOUBLE PROï¿½  	VT2PRO	None	None	Corn
+NC+	13-04 VT DOUBLE PROï¿½  	VT2PRO	None	None	Corn
 NC+	13-01 RR  	RR	None	None	Corn
-NC+	14-44 SMARTSTAX®  	SSTX	None	None	Corn
-NC+	14-64 VT DOUBLE PRO®  	VT2PRO	None	None	Corn
-NC+	14-44 VT DOUBLE PRO®  	VT2PRO	None	None	Corn
-NC+	14-88 VT DOUBLE PRO®  	VT2PRO	None	None	Corn
-NC+	15-76 SMARTSTAX®  	SSTX	None	None	Corn
-NC+	15-65 SMARTSTAX®   	SSTX	None	None	Corn
-NC+	15-65 VT DOUBLE PRO®  	VT2PRO	None	None	Corn
-NC+	15-49 DGVT DOUBLE PRO®  	VT2PRO	None	None	Corn
-NC+	15-49 SMARTSTAX®  	SSTX	None	None	Corn
-NC+	16-66 SMARTSTAX®  	SSTX	None	None	Corn
-NC+	16-29 SMARTSTAX®  	SSTX	None	None	Corn
-NC+	16-29 VT DOUBLE PRO®  	VT2PRO	None	None	Corn
-NC+	17-70 SMARTSTAX®  	SSTX	None	None	Corn
+NC+	14-44 SMARTSTAXï¿½  	SSTX	None	None	Corn
+NC+	14-64 VT DOUBLE PROï¿½  	VT2PRO	None	None	Corn
+NC+	14-44 VT DOUBLE PROï¿½  	VT2PRO	None	None	Corn
+NC+	14-88 VT DOUBLE PROï¿½  	VT2PRO	None	None	Corn
+NC+	15-76 SMARTSTAXï¿½  	SSTX	None	None	Corn
+NC+	15-65 SMARTSTAXï¿½   	SSTX	None	None	Corn
+NC+	15-65 VT DOUBLE PROï¿½  	VT2PRO	None	None	Corn
+NC+	15-49 DGVT DOUBLE PROï¿½  	VT2PRO	None	None	Corn
+NC+	15-49 SMARTSTAXï¿½  	SSTX	None	None	Corn
+NC+	16-66 SMARTSTAXï¿½  	SSTX	None	None	Corn
+NC+	16-29 SMARTSTAXï¿½  	SSTX	None	None	Corn
+NC+	16-29 VT DOUBLE PROï¿½  	VT2PRO	None	None	Corn
+NC+	17-70 SMARTSTAXï¿½  	SSTX	None	None	Corn
 NC+	18-21 VIP3111  	VIP3111	None	None	Corn
-NC+	18-01 SMARTSTAX®  	SSTX	None	None	Corn
-NC+	E2131 ENLIST E3™  	E3	None	None	Soybeans
-NC+	Z1472 LIBERTYLINK® GT27™  	GT27	None	None	Soybeans
-NC+	X2142 ROUNDUP READY 2 XTEND®  	RR2X	None	None	Soybeans
-NC+	Z2271 LIBERTYLINK® GT27™  	GT27	None	None	Soybeans
-NC+	E2331 ENLIST E3™  	E3	None	None	Soybeans
-NC+	E2332 ENLIST E3™  	E3	None	None	Soybeans
-NC+	X2441 ROUNDUP READY 2 XTEND®  	RR2X	None	None	Soybeans
-NC+	X2642 ROUNDUP READY 2 XTEND®  	RR2X	None	None	Soybeans
-NC+	E2531 ENLIST E3™  	E3	None	None	Soybeans
-NC+	Z2671 LIBERTYLINK® GT27™  	GT27	None	None	Soybeans
-NC+	E2631 ENLIST E3™  	E3	None	None	Soybeans
+NC+	18-01 SMARTSTAXï¿½  	SSTX	None	None	Corn
+NC+	E2131 ENLIST E3ï¿½  	E3	None	None	Soybeans
+NC+	Z1472 LIBERTYLINKï¿½ GT27ï¿½  	GT27	None	None	Soybeans
+NC+	X2142 ROUNDUP READY 2 XTENDï¿½  	RR2X	None	None	Soybeans
+NC+	Z2271 LIBERTYLINKï¿½ GT27ï¿½  	GT27	None	None	Soybeans
+NC+	E2331 ENLIST E3ï¿½  	E3	None	None	Soybeans
+NC+	E2332 ENLIST E3ï¿½  	E3	None	None	Soybeans
+NC+	X2441 ROUNDUP READY 2 XTENDï¿½  	RR2X	None	None	Soybeans
+NC+	X2642 ROUNDUP READY 2 XTENDï¿½  	RR2X	None	None	Soybeans
+NC+	E2531 ENLIST E3ï¿½  	E3	None	None	Soybeans
+NC+	Z2671 LIBERTYLINKï¿½ GT27ï¿½  	GT27	None	None	Soybeans
+NC+	E2631 ENLIST E3ï¿½  	E3	None	None	Soybeans
 NC+	X2741   	None	None	None	Soybeans
-NC+	X2941 ROUNDUP READY 2 XTEND®  	RR2X	None	None	Soybeans
-NC+	E2831 ENLIST E3™  	E3	None	None	Soybeans
-NC+	X2841 ROUNDUP READY 2 XTEND®  	RR2X	None	None	Soybeans
-NC+	Z2971 LIBERTYLINK® GT27™  	GT27	None	None	Soybeans
-NC+	PGL2901 LIBERTYLINK® GT27™  	GT27	None	None	Soybeans
-NC+	X3042 ROUNDUP READY 2 XTEND®  	RR2X	None	None	Soybeans
-NC+	E3031 ENLIST E3™  	E3	None	None	Soybeans
-NC+	Z3171 LIBERTYLINK® GT27™  	GT27	None	None	Soybeans
-NC+	X3142 ROUNDUP READY 2 XTEND®  	RR2X	None	None	Soybeans
-NC+	E3231 ENLIST E3™  	E3	None	None	Soybeans
-NC+	X3342 ROUNDUP READY 2 XTEND®  	RR2X	None	None	Soybeans
-NC+	E3331 ENLIST E3™  	E3	None	None	Soybeans
-NC+	Z3471 LIBERTYLINK® GT27™  	GT27	None	None	Soybeans
-NC+	X3541 ROUNDUP READY 2 XTEND®  	RR2X	None	None	Soybeans
-NC+	E3631 ENLIST E3™  	E3	None	None	Soybeans
-NC+	E3632 ENLIST E3™  	E3	None	None	Soybeans
-NC+	E3633 ENLIST E3™   	E3	None	None	Soybeans
-NC+	X3641 ROUNDUP READY 2 XTEND®  	RR2X	None	None	Soybeans
-NC+	X3842 ROUNDUP READY 2 XTEND®  	RR2X	None	None	Soybeans
-NC+	Z3771 LIBERTYLINK® GT27™  	GT27	None	None	Soybeans
+NC+	X2941 ROUNDUP READY 2 XTENDï¿½  	RR2X	None	None	Soybeans
+NC+	E2831 ENLIST E3ï¿½  	E3	None	None	Soybeans
+NC+	X2841 ROUNDUP READY 2 XTENDï¿½  	RR2X	None	None	Soybeans
+NC+	Z2971 LIBERTYLINKï¿½ GT27ï¿½  	GT27	None	None	Soybeans
+NC+	PGL2901 LIBERTYLINKï¿½ GT27ï¿½  	GT27	None	None	Soybeans
+NC+	X3042 ROUNDUP READY 2 XTENDï¿½  	RR2X	None	None	Soybeans
+NC+	E3031 ENLIST E3ï¿½  	E3	None	None	Soybeans
+NC+	Z3171 LIBERTYLINKï¿½ GT27ï¿½  	GT27	None	None	Soybeans
+NC+	X3142 ROUNDUP READY 2 XTENDï¿½  	RR2X	None	None	Soybeans
+NC+	E3231 ENLIST E3ï¿½  	E3	None	None	Soybeans
+NC+	X3342 ROUNDUP READY 2 XTENDï¿½  	RR2X	None	None	Soybeans
+NC+	E3331 ENLIST E3ï¿½  	E3	None	None	Soybeans
+NC+	Z3471 LIBERTYLINKï¿½ GT27ï¿½  	GT27	None	None	Soybeans
+NC+	X3541 ROUNDUP READY 2 XTENDï¿½  	RR2X	None	None	Soybeans
+NC+	E3631 ENLIST E3ï¿½  	E3	None	None	Soybeans
+NC+	E3632 ENLIST E3ï¿½  	E3	None	None	Soybeans
+NC+	E3633 ENLIST E3ï¿½   	E3	None	None	Soybeans
+NC+	X3641 ROUNDUP READY 2 XTENDï¿½  	RR2X	None	None	Soybeans
+NC+	X3842 ROUNDUP READY 2 XTENDï¿½  	RR2X	None	None	Soybeans
+NC+	Z3771 LIBERTYLINKï¿½ GT27ï¿½  	GT27	None	None	Soybeans
 NC+	NC E3731  	None	None	None	Soybeans
-NC+	E3931 ENLIST E3™  	E3	None	None	Soybeans
-NC+	X4041 ROUNDUP READY 2 XTEND®  	RR2X	None	None	Soybeans
-NC+	Z3971 LIBERTYLINK® GT27™  	GT27	None	None	Soybeans
-NC+	Z4071 LIBERTYLINK® GT27™  	GT27	None	None	Soybeans
-NC+	X4241 ROUNDUP READY 2 XTEND®  	RR2X	None	None	Soybeans
+NC+	E3931 ENLIST E3ï¿½  	E3	None	None	Soybeans
+NC+	X4041 ROUNDUP READY 2 XTENDï¿½  	RR2X	None	None	Soybeans
+NC+	Z3971 LIBERTYLINKï¿½ GT27ï¿½  	GT27	None	None	Soybeans
+NC+	Z4071 LIBERTYLINKï¿½ GT27ï¿½  	GT27	None	None	Soybeans
+NC+	X4241 ROUNDUP READY 2 XTENDï¿½  	RR2X	None	None	Soybeans
 NC+	E4232  	None	None	None	Soybeans
-NC+	X4341 ROUNDUP READY 2 XTEND®  	RR2X	None	None	Soybeans
-NC+	X4442 ROUNDUP READY 2 XTEND®  	RR2X	None	None	Soybeans
-NC+	X44-19 ROUNDUP READY 2 XTEND®  	RR2X	None	None	Soybeans
-NC+	X4641 ROUNDUP READY 2 XTEND®  	RR2X	None	None	Soybeans
-NC+	E4731 ENLIST E3™  	E3	None	None	Soybeans
-NC+	X4841 ROUNDUP READY 2 XTEND®  	RR2X	None	None	Soybeans
-NC+	X4842 ROUNDUP READY 2 XTEND®  	RR2X	None	None	Soybeans
-NC+	E4931 ENLIST E3™  	E3	None	None	Soybeans
-NC+	E4932 ENLIST E3™  	E3	None	None	Soybeans
-NC+	X5041 ROUNDUP READY 2 XTEND®  	RR2X	None	None	Soybeans
-NC+	E5131 ENLIST E3™  	E3	None	None	Soybeans
+NC+	X4341 ROUNDUP READY 2 XTENDï¿½  	RR2X	None	None	Soybeans
+NC+	X4442 ROUNDUP READY 2 XTENDï¿½  	RR2X	None	None	Soybeans
+NC+	X44-19 ROUNDUP READY 2 XTENDï¿½  	RR2X	None	None	Soybeans
+NC+	X4641 ROUNDUP READY 2 XTENDï¿½  	RR2X	None	None	Soybeans
+NC+	E4731 ENLIST E3ï¿½  	E3	None	None	Soybeans
+NC+	X4841 ROUNDUP READY 2 XTENDï¿½  	RR2X	None	None	Soybeans
+NC+	X4842 ROUNDUP READY 2 XTENDï¿½  	RR2X	None	None	Soybeans
+NC+	E4931 ENLIST E3ï¿½  	E3	None	None	Soybeans
+NC+	E4932 ENLIST E3ï¿½  	E3	None	None	Soybeans
+NC+	X5041 ROUNDUP READY 2 XTENDï¿½  	RR2X	None	None	Soybeans
+NC+	E5131 ENLIST E3ï¿½  	E3	None	None	Soybeans
 Golden Harvest	G00H12	5122 E-Z Refuge	None	100	Corn
 Golden Harvest	G00H12	G00H12-GT/LL	None	100	Corn
 Golden Harvest	G01P52	5122 E-Z Refuge 	None	101	Corn
@@ -2679,93 +2679,157 @@ Golden Harvest	G98L17	5122 E-Z Refuge 	None	98	Corn
 Golden Harvest	G98L17	 G00H12-GT/LL	None	98	Corn
 Golden Harvest	G99E68	5122 E-Z Refuge 	None	99	Corn
 Golden Harvest	G99E68	 G00H12-GT/LL	None	99	Corn
-Golden Harvest	GH00629X Brand	RR2X	None	0.06	Soybean
-Golden Harvest	GH00833E3 Brand	RR2X	None	0.08	Soybean
-Golden Harvest	GH00866 Brand	RR2X	None	0.08	Soybean
-Golden Harvest	GH0145X Brand	RR2X	None	0.1	Soybean
-Golden Harvest	GH0294E3 Brand	RR2X	None	0.2	Soybean
-Golden Harvest	GH0325E3 Brand	RR2X	None	0.3	Soybean
-Golden Harvest	GH0339X Brand	RR2X	None	0.3	Soybean
-Golden Harvest	GH0391 Brand	RR2X	None	0.3	Soybean
-Golden Harvest	GH0443X Brand	RR2X	None	0.4	Soybean
-Golden Harvest	GH0543X Brand	RR2X	None	0.5	Soybean
-Golden Harvest	GH0581E3 Brand	RR2X	None	0.5	Soybean
-Golden Harvest	GH0670L Brand	RR2X	None	0.6	Soybean
-Golden Harvest	GH0715E3 Brand	RR2X	None	0.7	Soybean
-Golden Harvest	GH0749X Brand	RR2X	None	0.7	Soybean
-Golden Harvest	GH0913E3 Brand	RR2X	None	0.9	Soybean
-Golden Harvest	GH0936X Brand	RR2X	None	0.9	Soybean
-Golden Harvest	GH1012E3 Brand	RR2X	None	1.0	Soybean
-Golden Harvest	GH1225X Brand	RR2X	None	1.2	Soybean
-Golden Harvest	GH1227LG Brand	RR2X	None	1.2	Soybean
-Golden Harvest	GH1317X Brand	RR2X	None	1.3	Soybean
-Golden Harvest	GH1362E3 Brand	RR2X	None	1.3	Soybean
-Golden Harvest	GH1414X Brand	RR2X	None	1.4	Soybean
-Golden Harvest	GH1557E3 Brand	RR2X	None	1.5	Soybean
-Golden Harvest	GH1619X Brand	RR2X	None	1.6	Soybean
-Golden Harvest	GH1627LG Brand	RR2X	None	1.6	Soybean
-Golden Harvest	GH1638X Brand	RR2X	None	1.6	Soybean
-Golden Harvest	GH1763E3 Brand	RR2X	None	1.7	Soybean
-Golden Harvest	GH1827LG Brand	RR2X	None	1.8	Soybean
-Golden Harvest	GH1852X Brand	RR2X	None	1.8	Soybean
-Golden Harvest	GH1915X Brand	RR2X	None	1.9	Soybean
-Golden Harvest	GH1944E3 Brand	RR2X	None	1.9	Soybean
-Golden Harvest	GH1955E3 Brand	RR2X	None	1.9	Soybean
-Golden Harvest	GH2011E3 Brand	RR2X	None	2.0	Soybean
-Golden Harvest	GH2027LG Brand	RR2X	None	2.0	Soybean
-Golden Harvest	GH2041X Brand	RR2X	None	2.0	Soybean
-Golden Harvest	GH2230X Brand	RR2X	None	2.2	Soybean
-Golden Harvest	GH2279E3 Brand	RR2X	None	2.2	Soybean
-Golden Harvest	GH2329X Brand	RR2X	None	2.3	Soybean
-Golden Harvest	GH2420E3 Brand	RR2X	None	2.4	Soybean
-Golden Harvest	GH2427LG Brand	RR2X	None	2.4	Soybean
-Golden Harvest	GH2505E3 Brand	RR2X	None	2.5	Soybean
-Golden Harvest	GH2523E3 Brand	RR2X	None	2.5	Soybean
-Golden Harvest	GH2552X Brand	RR2X	None	2.5	Soybean
-Golden Harvest	GH2610E3 Brand	RR2X	None	2.6	Soybean
-Golden Harvest	GH2727LG Brand	RR2X	None	2.7	Soybean
-Golden Harvest	GH2788X Brand	RR2X	None	2.7	Soybean
-Golden Harvest	GH2818E3 Brand	RR2X	None	2.8	Soybean
-Golden Harvest	GH2981X Brand	RR2X	None	2.9	Soybean
-Golden Harvest	GH3027LG Brand	RR2X	None	3.0	Soybean
-Golden Harvest	GH3042E3 Brand	RR2X	None	3.0	Soybean
-Golden Harvest	GH3088X Brand	RR2X	None	3.0	Soybean
-Golden Harvest	GH3152E3S Brand	RR2X	None	3.1	Soybean
-Golden Harvest	GH3195X Brand	RR2X	None	3.1	Soybean
-Golden Harvest	GH3347X Brand	RR2X	None	3.3	Soybean
-Golden Harvest	GH3380E3 Brand	RR2X	None	3.3	Soybean
-Golden Harvest	GH3427LG Brand	RR2X	None	3.4	Soybean
-Golden Harvest	GH3475X Brand	RR2X	None	3.4	Soybean
-Golden Harvest	GH3546X Brand	RR2X	None	3.5	Soybean
-Golden Harvest	GH3582E3 Brand	RR2X	None	3.5	Soybean
-Golden Harvest	GH3624E3 Brand	RR2X	None	3.6	Soybean
-Golden Harvest	GH3727LG Brand	RR2X	None	3.7	Soybean
-Golden Harvest	GH3728X Brand	RR2X	None	3.7	Soybean
-Golden Harvest	GH3759E3S Brand	RR2X	None	3.7	Soybean
-Golden Harvest	GH3918E3S Brand	RR2X	None	3.9	Soybean
-Golden Harvest	GH3922E3 Brand	RR2X	None	3.9	Soybean
-Golden Harvest	GH3927LG Brand	RR2X	None	3.9	Soybean
-Golden Harvest	GH3934X Brand	RR2X	None	3.9	Soybean
-Golden Harvest	GH3982X Brand	RR2X	None	3.9	Soybean
-Golden Harvest	GH4155E3 Brand	RR2X	None	4.1	Soybean
-Golden Harvest	GH4201E3 Brand	RR2X	None	4.2	Soybean
-Golden Harvest	GH4227LGS Brand	RR2X	None	4.2	Soybean
-Golden Harvest	GH4240XS Brand	RR2X	None	4.2	Soybean
-Golden Harvest	GH4307X Brand	RR2X	None	4.3	Soybean
-Golden Harvest	GH4314E3 Brand	RR2X	None	4.3	Soybean
-Golden Harvest	GH4474E3 Brand	RR2X	None	4.4	Soybean
-Golden Harvest	GH4531XS Brand	RR2X	None	4.5	Soybean
-Golden Harvest	GH4612E3S Brand	RR2X	None	4.6	Soybean
-Golden Harvest	GH4627LG Brand	RR2X	None	4.6	Soybean
-Golden Harvest	GH4628X Brand	RR2X	None	4.6	Soybean
-Golden Harvest	GH4741X Brand	RR2X	None	4.7	Soybean
-Golden Harvest	GH4823XS Brand	RR2X	None	4.8	Soybean
-Golden Harvest	GH4838E3S Brand	RR2X	None	4.8	Soybean
-Golden Harvest	GH4877E3S Brand	RR2X	None	4.8	Soybean
-Golden Harvest	GH4917XS Brand	RR2X	None	4.9	Soybean
-Golden Harvest	GH5016E3S Brand	RR2X	None	5.0	Soybean
-Golden Harvest	GH5175XS Brand	RR2X	None	5.1	Soybean
-Golden Harvest	GH5189E3 Brand	RR2X	None	5.1	Soybean
-Golden Harvest	GH5270X Brand	RR2X	None	5.2	Soybean
-Golden Harvest	GH5367X Brand	RR2X	None	5.3	Soybean
-Golden Harvest	GH5622X Brand	RR2X	None	5.6	Soybean
+Golden Harvest	GH00629X	RR2X	None	0.06	Soybean
+Golden Harvest	GH00833E3	RR2X	None	0.08	Soybean
+Golden Harvest	GH00866	RR2X	None	0.08	Soybean
+Golden Harvest	GH0145X	RR2X	None	0.1	Soybean
+Golden Harvest	GH0294E3	RR2X	None	0.2	Soybean
+Golden Harvest	GH0325E3	RR2X	None	0.3	Soybean
+Golden Harvest	GH0339X	RR2X	None	0.3	Soybean
+Golden Harvest	GH0391	RR2X	None	0.3	Soybean
+Golden Harvest	GH0443X	RR2X	None	0.4	Soybean
+Golden Harvest	GH0543X	RR2X	None	0.5	Soybean
+Golden Harvest	GH0581E3	RR2X	None	0.5	Soybean
+Golden Harvest	GH0670L	RR2X	None	0.6	Soybean
+Golden Harvest	GH0715E3	RR2X	None	0.7	Soybean
+Golden Harvest	GH0749X	RR2X	None	0.7	Soybean
+Golden Harvest	GH0913E3	RR2X	None	0.9	Soybean
+Golden Harvest	GH0936X	RR2X	None	0.9	Soybean
+Golden Harvest	GH1012E3	RR2X	None	1.0	Soybean
+Golden Harvest	GH1225X	RR2X	None	1.2	Soybean
+Golden Harvest	GH1227LG	RR2X	None	1.2	Soybean
+Golden Harvest	GH1317X	RR2X	None	1.3	Soybean
+Golden Harvest	GH1362E3	RR2X	None	1.3	Soybean
+Golden Harvest	GH1414X	RR2X	None	1.4	Soybean
+Golden Harvest	GH1557E3	RR2X	None	1.5	Soybean
+Golden Harvest	GH1619X	RR2X	None	1.6	Soybean
+Golden Harvest	GH1627LG	RR2X	None	1.6	Soybean
+Golden Harvest	GH1638X	RR2X	None	1.6	Soybean
+Golden Harvest	GH1763E3	RR2X	None	1.7	Soybean
+Golden Harvest	GH1827LG	RR2X	None	1.8	Soybean
+Golden Harvest	GH1852X	RR2X	None	1.8	Soybean
+Golden Harvest	GH1915X	RR2X	None	1.9	Soybean
+Golden Harvest	GH1944E3	RR2X	None	1.9	Soybean
+Golden Harvest	GH1955E3	RR2X	None	1.9	Soybean
+Golden Harvest	GH2011E3	RR2X	None	2.0	Soybean
+Golden Harvest	GH2027LG	RR2X	None	2.0	Soybean
+Golden Harvest	GH2041X	RR2X	None	2.0	Soybean
+Golden Harvest	GH2230X	RR2X	None	2.2	Soybean
+Golden Harvest	GH2279E3	RR2X	None	2.2	Soybean
+Golden Harvest	GH2329X	RR2X	None	2.3	Soybean
+Golden Harvest	GH2420E3	RR2X	None	2.4	Soybean
+Golden Harvest	GH2427LG	RR2X	None	2.4	Soybean
+Golden Harvest	GH2505E3	RR2X	None	2.5	Soybean
+Golden Harvest	GH2523E3	RR2X	None	2.5	Soybean
+Golden Harvest	GH2552X	RR2X	None	2.5	Soybean
+Golden Harvest	GH2610E3	RR2X	None	2.6	Soybean
+Golden Harvest	GH2727LG	RR2X	None	2.7	Soybean
+Golden Harvest	GH2788X	RR2X	None	2.7	Soybean
+Golden Harvest	GH2818E3	RR2X	None	2.8	Soybean
+Golden Harvest	GH2981X	RR2X	None	2.9	Soybean
+Golden Harvest	GH3027LG	RR2X	None	3.0	Soybean
+Golden Harvest	GH3042E3	RR2X	None	3.0	Soybean
+Golden Harvest	GH3088X	RR2X	None	3.0	Soybean
+Golden Harvest	GH3152E3S	RR2X	None	3.1	Soybean
+Golden Harvest	GH3195X	RR2X	None	3.1	Soybean
+Golden Harvest	GH3347X	RR2X	None	3.3	Soybean
+Golden Harvest	GH3380E3	RR2X	None	3.3	Soybean
+Golden Harvest	GH3427LG	RR2X	None	3.4	Soybean
+Golden Harvest	GH3475X	RR2X	None	3.4	Soybean
+Golden Harvest	GH3546X	RR2X	None	3.5	Soybean
+Golden Harvest	GH3582E3	RR2X	None	3.5	Soybean
+Golden Harvest	GH3624E3	RR2X	None	3.6	Soybean
+Golden Harvest	GH3727LG	RR2X	None	3.7	Soybean
+Golden Harvest	GH3728X	RR2X	None	3.7	Soybean
+Golden Harvest	GH3759E3S	RR2X	None	3.7	Soybean
+Golden Harvest	GH3918E3S	RR2X	None	3.9	Soybean
+Golden Harvest	GH3922E3	RR2X	None	3.9	Soybean
+Golden Harvest	GH3927LG	RR2X	None	3.9	Soybean
+Golden Harvest	GH3934X	RR2X	None	3.9	Soybean
+Golden Harvest	GH3982X	RR2X	None	3.9	Soybean
+Golden Harvest	GH4155E3	RR2X	None	4.1	Soybean
+Golden Harvest	GH4201E3	RR2X	None	4.2	Soybean
+Golden Harvest	GH4227LGS	RR2X	None	4.2	Soybean
+Golden Harvest	GH4240XS	RR2X	None	4.2	Soybean
+Golden Harvest	GH4307X	RR2X	None	4.3	Soybean
+Golden Harvest	GH4314E3	RR2X	None	4.3	Soybean
+Golden Harvest	GH4474E3	RR2X	None	4.4	Soybean
+Golden Harvest	GH4531XS	RR2X	None	4.5	Soybean
+Golden Harvest	GH4612E3S	RR2X	None	4.6	Soybean
+Golden Harvest	GH4627LG	RR2X	None	4.6	Soybean
+Golden Harvest	GH4628X	RR2X	None	4.6	Soybean
+Golden Harvest	GH4741X	RR2X	None	4.7	Soybean
+Golden Harvest	GH4823XS	RR2X	None	4.8	Soybean
+Golden Harvest	GH4838E3S	RR2X	None	4.8	Soybean
+Golden Harvest	GH4877E3S	RR2X	None	4.8	Soybean
+Golden Harvest	GH4917XS	RR2X	None	4.9	Soybean
+Golden Harvest	GH5016E3S	RR2X	None	5.0	Soybean
+Golden Harvest	GH5175XS	RR2X	None	5.1	Soybean
+Golden Harvest	GH5189E3	RR2X	None	5.1	Soybean
+Golden Harvest	GH5270X	RR2X	None	5.2	Soybean
+Golden Harvest	GH5367X	RR2X	None	5.3	Soybean
+Golden Harvest	GH5622X	RR2X	None	5.6	SoybeanJacobsen	9107 SS RIB	SS RIB	None	103	Corn
+Jacobsen	9306 SS RIB	SS RIB	None	105	Corn
+Jacobsen	9326 SS RIB	SS RIB	None	105	Corn
+Jacobsen	9444 3111	3111	None	107	Corn
+Jacobsen	9503 SS RIB	SS RIB	None	109	Corn
+Jacobsen	9513 SS RIB	SS RIB	None	109	Corn
+Jacobsen	9616 SS RIB	SS RIB	None	111	Corn
+Jacobsen	9730 SS RIB	SS RIB	None	115	Corn
+Jacobsen	9693 3000GT	3000GT	None	111	Corn
+Jacobsen	9723 3000GT	3000GT	None	113	Corn
+Jacobsen	7097 VT2 PRO RIB	VT2 PRO RIB	None	91	Corn
+Jacobsen	7001 VT2 PRO RIB	VT2 PRO RIB	None	99	Corn
+Jacobsen	7107 VT2 PRO RIB	VT2 PRO RIB	None	103	Corn
+Jacobsen	7279 VT2 PRO RIB	VT2 PRO RIB	None	103	Corn
+Jacobsen	7326 VT2 PRO RIB	VT2 PRO RIB	None	105	Corn
+Jacobsen	7391 VT2 PRO RIB	VT2 PRO RIB	None	105	Corn
+Jacobsen	7424 VT2 PRO RIB	VT2 PRO RIB	None	107	Corn
+Jacobsen	7468 VT2 PRO RIB	VT2 PRO RIB	None	107	Corn
+Jacobsen	7513 VT2 PRO RIB	VT2 PRO RIB	None	109	Corn
+Jacobsen	7611 VT2 PRO RIB	VT2 PRO RIB	None	111	Corn
+Jacobsen	7616 VT2 PRO RIB	VT2 PRO RIB	None	111	Corn
+Jacobsen	7588 VT2 PRO RIB	VT2 PRO RIB	None	109	Corn
+Jacobsen	7713 VT2 PRO RIB	VT2 PRO RIB	None	113	Corn
+Jacobsen	7748 VT2 PRO RIB	VT2 PRO RIB	None	115	Corn
+Jacobsen	7444 GTCBLL	GTCBLL	None	107	Corn
+Jacobsen	7723 GTCBLL	GTCBLL	None	113	Corn
+Jacobsen	6370RR	RR	None	105	Corn
+Jacobsen	6447R	None	None	107	Corn
+Jacobsen	6540RR	RR	None	109	Corn
+Jacobsen	6593GT	GT	None	109	Corn
+Jacobsen	2341LL	LL	None	105	Corn
+Jacobsen	4005	None	None	91	Corn
+Jacobsen	4096	None	None	95	Corn
+Jacobsen	4009	None	None	95	Corn
+Jacobsen	4003	None	None	97	Corn
+Jacobsen	4080	None	None	99	Corn
+Jacobsen	4107	None	None	103	Corn
+Jacobsen	4317	None	None	105	Corn
+Jacobsen	4326	None	None	105	Corn
+Jacobsen	4456	None	None	107	Corn
+Jacobsen	4495	None	None	107	Corn
+Jacobsen	4503	None	None	109	Corn
+Jacobsen	4513	None	None	109	Corn
+Jacobsen	4540	None	None	109	Corn
+Jacobsen	4631	None	None	111	Corn
+Jacobsen	4748	None	None	113	Corn
+Jacobsen	4761	None	None	113	Corn
+Jacobsen	5790E3	E3	None	2.0	Soybeans
+Jacobsen	5794E3	E3	None	2.3	Soybeans
+Jacobsen	5886E3	E3	None	2.6	Soybeans
+Jacobsen	5888E3	E3	None	2.8	Soybeans
+Jacobsen	678NR2X	NR2X	None	1.8	Soybeans
+Jacobsen	781NR2X	NR2X	None	2.1	Soybeans
+Jacobsen	793NR2X	NR2X	None	2.3	Soybeans
+Jacobsen	774NR2X	NR2X	None	2.4	Soybeans
+Jacobsen	886R2X	R2X	None	2.6	Soybeans
+Jacobsen	878NR2X	NR2X	None	2.8	Soybeans
+Jacobsen	960NR2X	NR2X	None	3.0	Soybeans
+Jacobsen	984NR2X	NR2X	None	3.4	Soybeans
+Jacobsen	669NR2	NR2	None	1.9	Soybeans
+Jacobsen	740NR2	NR2	None	2.0	Soybeans
+Jacobsen	764NR2	NR2	None	2.4	Soybeans
+Jacobsen	846GT	GT	None	2.6	Soybeans
+Jacobsen	847NR2	NR2	None	2.8	Soybeans
+Jacobsen	6792GTLL	GTLL	None	2.2	Soybeans
